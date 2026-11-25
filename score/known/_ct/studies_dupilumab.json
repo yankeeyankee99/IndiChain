@@ -1,0 +1,6791 @@
+{
+  "totalCount": 221,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07091175",
+          "briefTitle": "Dupilumab Therapy in Nephrotic Syndrome in Children"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-07-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nephrotic Syndrome in Children",
+            "Nephrotic Syndrome Steroid-Dependent"
+          ],
+          "keywords": [
+            "Dupilumab",
+            "Steroid sensitive nephrotic syndrome",
+            "Steroid dependent nephrotic syndrome",
+            "Frequently relapsing nephrotic syndrome",
+            "Paediatric"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02573233",
+          "briefTitle": "Evaluation of Dupilumab's Effects on Airway Inflammation in Patients With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-01-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-10-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05526521",
+          "briefTitle": "A Study to Investigate the Pharmacokinetics and Safety of Dupilumab in Participants \u22652 Years to <12 Years of Age With Uncontrolled Chronic Spontaneous Urticaria (CSU) (LIBERTY-CSU CUPIDKids)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-08-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-09-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05097287",
+          "briefTitle": "Study Assessing the Long-term Effect of Dupilumab on Prevention of Lung Function Decline in Adult Patients With Uncontrolled Moderate to Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-12-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-10-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05834413",
+          "briefTitle": "Clinical Study on the Prevention of Driver Gene Negative Ib-IIIb Lung Cancer Recurrence and Metastasis by Staged Chinese Herbal Medicine Combined With Chemotherapy and Immune Checkpoint Inhibitors"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-05-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-04-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lung Cancer"
+          ],
+          "keywords": [
+            "non-small cell lung cancer",
+            "traditional Chinese medicine",
+            "postoperative adjuvant therapy",
+            "immune checkpoint inhibitors"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04358224",
+          "briefTitle": "The Utility of Functionally Relevant Signature Genes in Assessing the Clinical Outcomes of Dupilumab Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02912468",
+          "briefTitle": "A Controlled Clinical Study of Dupilumab in Patients With Bilateral Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-12-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-09-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis Phenotype With Nasal Polyps (CRSwNP)"
+          ],
+          "keywords": [
+            "Nasal polyposis, Chronic rhinosinusitis, Intranasal corticosteroids, Dupilumab, Human monoclonal antibody"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06182436",
+          "briefTitle": "Virtual Reality for Pain Management During Dupilumab Injection"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-12-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Pain",
+            "Anxiety"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03387852",
+          "briefTitle": "Evaluation of SAR440340 and as Combination Therapy With Dupilumab in Moderate-to-Severe Asthma Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-03-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03861455",
+          "briefTitle": "Efficacy and Safety of Dupilumab Chronic Hands Eczema Refractory to Highly Potent Topical Corticosteroids"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-07-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Hand Eczema"
+          ],
+          "keywords": [
+            "Chronic Hand Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02277769",
+          "briefTitle": "Study of Dupilumab (REGN668/SAR231893) Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-11-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-10-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06524635",
+          "briefTitle": "A Study to Assess Molecular Changes in Adult Participants With Moderate to Severe Hidradenitis Suppurativa or With Moderate to Severe Atopic Dermatitis Receiving Subcutaneous Injections of Lutikizumab"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa",
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Hidradenitis Suppurativa (HS)",
+            "Atopic Dermatitis (AD)",
+            "Lutikizumab",
+            "ABT-981"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04183335",
+          "briefTitle": "Study of Dupilumab for the Treatment of Patients With Prurigo Nodularis, Inadequately Controlled on Topical Prescription Therapies or When Those Therapies Are Not Advisable (LIBERTY-PN PRIME)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-12-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-12-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02528214",
+          "briefTitle": "Evaluation of Dupilumab in Patients With Severe Steroid Dependent Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-10-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-08-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04920916",
+          "briefTitle": "Safety and Efficacy of Dupilumab for Treatment of Hospitalized COVID-19 Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-05-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-06-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "COVID-19"
+          ],
+          "keywords": [
+            "Anti-Inflammatory Agents"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05720325",
+          "briefTitle": "Dupilumab Effects Against Aeroallergen Challenge"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-03-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma, Allergic"
+          ],
+          "keywords": [
+            "House Dust Mite Allergy",
+            "Asthma",
+            "Aeroallergen chamber",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04520308",
+          "briefTitle": "An Open-label, Single-arm Longitudinal Study With Dupilumab for Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-08-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "AD",
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02407756",
+          "briefTitle": "A Study to Determine the Safety and Tolerability of Dupilumab (REGN668/SAR231893) in Patients Aged \u22656 to <18 Years With Atopic Dermatitis (Eczema)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-03-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-04-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04442256",
+          "briefTitle": "Effect of Dupilumab on Aspirin Intolerance"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-06-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "AERD - Aspirin Exacerbated Respiratory Disease"
+          ],
+          "keywords": [
+            "AERD",
+            "Asthma",
+            "Morbus Widal",
+            "chronic rhinosinusitis with nasal polyps",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05976386",
+          "briefTitle": "Single Dose Comparability Study of New and Current Dupilumab Drug Products Subcutaneously Administered in Healthy Adults"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-06-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02647086",
+          "briefTitle": "Open Label, Drug-Drug Interaction (DDI) Study of Dupilumab (REGN668/SAR231893) in Patients With Moderate to Severe Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-01-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05369403",
+          "briefTitle": "A Study of Lebrikizumab (LY3650150) in Adult and Adolescent Participants With Moderate-to-Severe Atopic Dermatitis Previously Treated With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-12-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-05-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07277322",
+          "briefTitle": "Neoadjuvant Dupilumab and Toripalimab in MSS CRC Subjects With Resectable Liver Metastases"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-12-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Metastatic Colorectal Cancer",
+            "Liver Metastases"
+          ],
+          "keywords": [
+            "Colorectal cancer",
+            "Liver metastases",
+            "Neoadjuvant immunotherapy",
+            "Dupilumab",
+            "Toripalimab",
+            "microsatellite stable"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05575037",
+          "briefTitle": "Mechanisms of Benefit of IL4RA Inhibition in Aspirin-Exacerbated Respiratory Disease"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-10-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps",
+            "Asthma, Aspirin-Induced",
+            "Aspirin-Exacerbated Respiratory Disease",
+            "Aspirin-Sensitive Asthma With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07187583",
+          "briefTitle": "Tapering of Biologics in Chronic Rhinosinusitis With Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-06-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05942222",
+          "briefTitle": "A Real-world, Head-to-head Comparison of Dupilumab Versus Mepolizumab in Danish Patients With Chronic Rhinosinusitis With Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-07-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps",
+            "Asthma; Eosinophilic",
+            "Eosinophilia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05285839",
+          "briefTitle": "Dupixent and Narrowband UVB for Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-04-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05347771",
+          "briefTitle": "Prevention of Asthma Exacerbations Using Dupilumab in Urban Children and Adolescents"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2022-05-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "asthma",
+            "CAUSE",
+            "PANDA",
+            "T2",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06868212",
+          "briefTitle": "A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria (CSU)"
+          ],
+          "keywords": [
+            "BTK inhibitor",
+            "chronic spontaneous urticaria",
+            "Urticaria activity score",
+            "Hives severity score",
+            "Itch severity score"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05049122",
+          "briefTitle": "Dupilumab in Japanese Patients With Chronic Rhinosinusitis With Nasal Polyp (SINUS-M52)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-10-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05436535",
+          "briefTitle": "Longitudinal Endotyping Of Atopic Dermatitis Through Transcriptomic Skin Analysis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-11-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-06-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07783425",
+          "briefTitle": "A Study to Learn About the Study Medicine Called Tilrekimig in People With Moderate-to Severe Eczema"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Immune system diseases",
+            "skin diseases, genetic",
+            "eczema",
+            "atopic dermatitis",
+            "Dermatitis",
+            "skin diseases",
+            "Skin Diseases, Eczematous"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07399067",
+          "briefTitle": "A Proof-of-Concept Study of IBI3002 in Patients With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03782532",
+          "briefTitle": "Efficacy and Safety Study of Dupilumab in Patients With Persistent Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-01-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-12-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06366932",
+          "briefTitle": "Optimization of Atopic Dermatitis Treatment That Requires Second-line Systemic Therapy Through Predictive Models"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2023-09-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06818019",
+          "briefTitle": "Withdrawal of Dupilumab in Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-02-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "severe asthma",
+            "dupilumab",
+            "exacerbation",
+            "discontinuation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07358234",
+          "briefTitle": "Comparison of Eohilia With Dupixent on Esophagus Diameter in Patients With Eosinophilic Esophagitis."
+        },
+        "statusModule": {
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "startDateStruct": {
+            "date": "2026-02-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis (EoE)"
+          ],
+          "keywords": [
+            "dupilumab",
+            "budesonide oral suspension",
+            "Eohilia",
+            "Dupixent"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03293030",
+          "briefTitle": "Immunogenetic Profiling of Dupilumab for the Treatment of Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-10-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-09-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Atopic Dermatitis Eczema",
+            "Eczema",
+            "Atopic Dermatitis and Related Conditions"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "eczema",
+            "dupilumab",
+            "atopic eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04681729",
+          "briefTitle": "Dupilumab for the Treatment of Chronic Inducible Cold Urticaria in Patients Who Remain Symptomatic Despite the Use of H1-antihistamine (LIBERTY-CINDU CUrIADS)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-12-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cold Urticaria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04718870",
+          "briefTitle": "Dupilumab-PEdiatric Skin Barrier Function and LIpidomics STudy in Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-02-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-01-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01979016",
+          "briefTitle": "Study to Determine the Safety and Effectiveness of Dupilumab for Treatment of Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-12-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-11-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis (AD)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03749135",
+          "briefTitle": "Dupilumab in Chronic Spontaneous Urticaria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-11-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria",
+            "Recurrent Angioedema"
+          ],
+          "keywords": [
+            "hives",
+            "itch"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03346434",
+          "briefTitle": "Safety, Pharmacokinetics and Efficacy of Dupilumab in Patients \u22656 Months to <6 Years With Moderate-to-Severe Atopic Dermatitis (Liberty AD PRESCHOOL)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-11-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02755649",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of Dupilumab in Participants With Severe Atopic Dermatitis (AD) That Are Not Controlled With Oral Cyclosporine A (CSA) or for Those Who Cannot Take Oral CSA Because it is Not Medically Advisable"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-01-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-04-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05642208",
+          "briefTitle": "Dupilumab Step-down Strategy to Maintain Remission in Adult and Adolescents Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-03-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-12-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Eczema, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03633617",
+          "briefTitle": "Study to Determine the Efficacy and Safety of Dupilumab in Adult and Adolescent Patients With Eosinophilic Esophagitis (EoE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-09-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-08-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06614907",
+          "briefTitle": "A Phase\u2160 Comparative Study to Evaluate the Pharmacokinetics of QL2108 to Dupixent\u00ae"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-08-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-09-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03935971",
+          "briefTitle": "The Effects of Dupilumab on Allergic Contact Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2019-12-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-05-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Contact Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06226610",
+          "briefTitle": "Dupixent in Adults With Refractory Post-Burn Pruritus in an Ambulatory Clinic"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pruritis"
+          ],
+          "keywords": [
+            "Itching, itch"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05964465",
+          "briefTitle": "Mechanisms of Smell Improvement With Dupilumab."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-08-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-07-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ],
+          "keywords": [
+            "Chronic Rhinosinusitis",
+            "Nasal Polyps",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07908563",
+          "briefTitle": "Dupilumab in Major Depressive Disorder"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-11-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Major Depressive Disorder"
+          ],
+          "keywords": [
+            "interleukin-4",
+            "dupixent",
+            "monoclonal antibody",
+            "inflammation",
+            "dupilumab",
+            "IL-4"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04943744",
+          "briefTitle": "Gastrointestinal STRING Test With Oral Immunotherapy"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-05-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-06-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Disorder",
+            "Food Allergy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04417894",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Dupilumab in Adult and Adolescent Patients With Moderate-to-Severe Atopic Hand and Foot Dermatitis (Liberty-AD-HAFT)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Atopic Hand and Foot Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03679676",
+          "briefTitle": "Clinical Study Using Biologics to Improve Multi OIT Outcomes (COMBINE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-02-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypersensitivity",
+            "Food Allergy",
+            "Hypersensitivity, Food",
+            "Peanut Hypersensitivity",
+            "Peanut Allergy"
+          ],
+          "keywords": [
+            "Food Allergy",
+            "Hypersensitivity, Peanut",
+            "Food Hypersensitivity",
+            "Allergy, Food"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07646548",
+          "briefTitle": "Pharmacokinetics and Tolerability of Subcutaneous Dupilumab Coformulated With Berahyaluronidase Alfa and Dupilumab Without Berahyaluronidase Alfa in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2026-06-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-06-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07187089",
+          "briefTitle": "Study of Growth and Bone Mineral Density in Children With Atopic Dermatitis (AD) Treated With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2025-11-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Atopic Dermatitis (AD)"
+          ],
+          "keywords": [
+            "Uncontrolled AD",
+            "Bone Mineral Accrual (BMA)",
+            "Bone growth",
+            "Shorter stature",
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07330934",
+          "briefTitle": "A Study to Evaluate Efficacy and Safety of IBI356 in Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2025-12-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06193434",
+          "briefTitle": "A First In Human (FIH) Study of IBI356 in Healthy Participants and in Atopic Dermatitis Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-01-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Participants",
+            "Atopic Dermatitis Patients"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01639040",
+          "briefTitle": "Study to Assess the Safety of Dupilumab (REGN668/SAR231893) Administered Concomitantly With Topical Corticosteroids (TCS) in Patients With Moderate-to-severe Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-07-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04502966",
+          "briefTitle": "Grass Pollen Immunotherapy Plus Dupilumab for Tolerance Induction"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-11-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-08-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Rhinoconjunctivitis",
+            "Grass Pollen Allergy"
+          ],
+          "keywords": [
+            "immunotherapy",
+            "nasal allergen challenge (NAC)",
+            "total nasal symptom score (TNSS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06881251",
+          "briefTitle": "A Study of JNJ-95475939 in the Treatment of Participants With Moderate to Severe Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2025-02-26"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06188871",
+          "briefTitle": "Early-onset Dupilumab Effects in CRSwNP"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2024-06-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05013450",
+          "briefTitle": "Dupilumab_Metastatic NSCLC"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-09-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Metastatic Non-small Cell Lung Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03667014",
+          "briefTitle": "The Impact of Dupilumab on Quality of Life in Moderate to Severe Atopic Dermatitis Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-11-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Atopic Dermatitis Eczema"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "eczema",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03682770",
+          "briefTitle": "Study in Pediatric Subjects With Peanut Allergy to Evaluate Efficacy and Safety of Dupilumab as Adjunct to AR101 (Peanut Oral Immunotherapy)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-10-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Peanut Allergy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04362501",
+          "briefTitle": "Efficacy of Dupilumab for Patients With Chronic Rhinosinusitis Without Nasal Polyps (CRSsNP)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-10-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Sinusitis"
+          ],
+          "keywords": [
+            "sinusitis",
+            "chronic",
+            "treatment",
+            "non-polyposis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04869436",
+          "briefTitle": "Olfactory Outcomes of Dupilumab Treatment for Nasal Polyposis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-07-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps",
+            "Olfactory Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02379052",
+          "briefTitle": "Study of Dupilumab in Adult Participants With Active Eosinophilic Esophagitis (EoE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-05-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-03-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05535738",
+          "briefTitle": "Using a Contact Dermatitis Model With Biologic Medications to Study Skin Inflammation"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2022-11-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-09-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Skin Inflammation",
+            "Allergic Contact Dermatitis"
+          ],
+          "keywords": [
+            "skin inflammation",
+            "allergic contact dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06012448",
+          "briefTitle": "The Immunologic Effects of Dupilumab in the Treatment of Dermal Hypersensitivity Reaction"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-10-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermal Hypersensitivity Reaction"
+          ],
+          "keywords": [
+            "Skin rash",
+            "Dupilumab",
+            "Skin biopsies"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04684524",
+          "briefTitle": "Dupilumab in Allergic Fungal Rhinosinusitis (AFRS)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-12-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Fungal Rhinosinusitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04033367",
+          "briefTitle": "SAR231893-LPS15497- \"Dupilumab Effect on Sleep in AD Patients\""
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-08-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-07-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07502534",
+          "briefTitle": "A Clinical Study Comparing the Bioequivalence of IBI3027 and DUPIXENT\u00ae(Dupilumab) in Healthy Chinese Volunteers"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-03-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06461897",
+          "briefTitle": "A Study to Assess Adverse Events and Change in Disease Activity Comparing Oral Upadacitinib to Subcutaneous Dupilumab in Children From 2 to Less Than 12 Years of Age With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis",
+            "Upadacitinib",
+            "RINVOQ"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05036733",
+          "briefTitle": "Effects of Interleukin (IL)- 4R-alpha Inhibition on Respiratory Microbiome and Immunologic Correlates in Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-02-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Inhaled corticosteroids",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06385236",
+          "briefTitle": "Leveraging Pharmacogenomics in Asthma for Predication, Mechanism and Endotyping"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-02-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Asthma"
+          ],
+          "keywords": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04988022",
+          "briefTitle": "Dupilumab in the Treatment of Keloids"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-05-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Keloid"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04394351",
+          "briefTitle": "Study to Investigate the Efficacy and Safety of Dupilumab in Pediatric Patients With Active Eosinophilic Esophagitis (EoE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-05-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis (EoE)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05624112",
+          "briefTitle": "Dupilumab Skin BArrier Function and LIpidomics STudy in Atopic Dermatitis in China"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-11-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Dermatitis Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01312961",
+          "briefTitle": "Efficacy, Safety, and Tolerability of Dupilumab in Patients With Persistent Moderate to Severe Eosinophilic Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-03-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04996485",
+          "briefTitle": "Scientific Substantiation and Assessment of the Effectiveness of Pathogenetic Methods of Therapy for Congenital Ichthyosis in Children"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2021-03-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Congenital Ichthyosis"
+          ],
+          "keywords": [
+            "Congenital ichthyosis",
+            "Netherton syndrome",
+            "Autosomal recessive congenital ichthyosis",
+            "Biologic therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05601882",
+          "briefTitle": "A Study to Evaluate Adverse Events and Change in Disease Activity Comparing Oral Upadacitinib to Subcutaneous Dupilumab in Adolescent and Adult Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-11-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-11-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis",
+            "AD",
+            "Level-Up",
+            "Upadacitinib",
+            "Dupilumab",
+            "RINVOQ"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06687980",
+          "briefTitle": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 2)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-11-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lichen Simplex Chronicus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03720470",
+          "briefTitle": "Study Evaluating Efficacy and Safety of PF-04965842 and Dupilumab in Adult Subjects With Moderate to Severe Atopic Dermatitis on Background Topical Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-10-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis",
+            "Dermatitis, Atopic",
+            "Eczema",
+            "Skin Diseases",
+            "Skin Diseases, Genetic",
+            "Genetic Diseases, Inborn",
+            "Skin Diseases, Eczematous",
+            "Hypersensitivity",
+            "Hypersensitivity, Immediate",
+            "Immune System Diseases"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "atopic eczema",
+            "eczema",
+            "JAK",
+            "janus kinase"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06687967",
+          "briefTitle": "A Study to Investigate Improvement in Pruritus of Lichen Simplex Chronicus With Dupilumab Injections Compared With Placebo in Male and Female Participants Aged at Least 18 Years (STYLE 1)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-11-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lichen Simplex Chronicus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05031455",
+          "briefTitle": "Mechanisms of Dupilumab in AERD"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-03-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Aspirin-exacerbated Respiratory Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06773455",
+          "briefTitle": "Tralokinumab for Dupilumab Failures"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2023-09-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-01-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04380038",
+          "briefTitle": "Viral Infection in Asthma (VIA) Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-05-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-05-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07334496",
+          "briefTitle": "A Study to Evaluate the Biosimilarity of GLR1044 Injection and Dupilumab Injection (Dupixent\u00ae) in Healthy Adult Male Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Biosimilarity"
+          ],
+          "keywords": [
+            "Biosimilarity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07352566",
+          "briefTitle": "Utilization of a Microdevice for Psoriasis and Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05268107",
+          "briefTitle": "Ethnic Differences in Mechanisms of Action of Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-01-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Asian patients",
+            "African American patients",
+            "Caucasian patients",
+            "Inflammatory responses",
+            "Dupixent",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03738397",
+          "briefTitle": "A Study to Compare Safety and Efficacy of Upadacitinib to Dupilumab in Adult Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-02-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Upadacitinib",
+            "ABT-494",
+            "Dupilumab",
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05831176",
+          "briefTitle": "A Study to Learn How Well Dupilumab Works in Adult and Adolescent Participants With Eosinophilic Gastritis With or Without Eosinophilic Duodenitis and the Side Effects it May Have"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-05-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Gastritis (EoG)",
+            "Eosinophilic Duodenitis (EoD)",
+            "Eosinophilic Gastrointestinal Disease (EGID)",
+            "Eosinophilic Gastroenteritis"
+          ],
+          "keywords": [
+            "Eosinophilic Gastritis (EoG) with or without Eosinophilic Duodenitis (EoD)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04678882",
+          "briefTitle": "Dupilumab in Japanese Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-01-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05858619",
+          "briefTitle": "Molecular Signatures of Cutaneous Dupilumab Response"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-02-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03736967",
+          "briefTitle": "Efficacy and Safety of REGN3500 Monotherapy and Combination of REGN3500 Plus Dupilumab in Adult Patients With Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2018-11-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Moderate",
+            "Severe"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06191315",
+          "briefTitle": "Efficacy and Safety of Subcutaneous Dupilumab in Participants With Asthma/Asthmatic Wheeze Aged 2 to <6 Years (LIBERTY ASTHMA TREKIDS)"
+        },
+        "statusModule": {
+          "overallStatus": "ENROLLING_BY_INVITATION",
+          "startDateStruct": {
+            "date": "2024-01-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Wheezing",
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05470114",
+          "briefTitle": "A Multi-omics Disease Signature Trial in Adult Patients With Moderate to Severe AD"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-05-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03558997",
+          "briefTitle": "Dupilumab As An Adjunct For Subcutaneous Grass Immunotherapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-06-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-06-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Rhinitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07053423",
+          "briefTitle": "A Study to Investigate Airway Inflammation With Dupilumab Subcutaneously in Participants Aged \u226540 to \u226485 Years With Chronic Obstructive Pulmonary Disease."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-09-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-07-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05967884",
+          "briefTitle": "PD-1 +/- IL-4 Inhibition in ER+ Breast Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2023-08-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer"
+          ],
+          "keywords": [
+            "Window of Opportunity Clinical Trials",
+            "cemiplimab",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05551793",
+          "briefTitle": "Regeneron AA Multicenter (Dupilumab)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-04-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-09-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alopecia Areata"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03886493",
+          "briefTitle": "Neoadjuvant Dupilumab in Men With Localized High-Risk Prostate Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2019-08-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer"
+          ],
+          "keywords": [
+            "high-risk prostate cancer",
+            "localized prostate cancer",
+            "prior to prostatectomy",
+            "neoadjuvant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06824649",
+          "briefTitle": "Biologics in Chronic Rhinosinusitis With Nasal Polyposis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-02-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Sinusitis",
+            "Nasal Polyps"
+          ],
+          "keywords": [
+            "Sinusitis",
+            "Biologics"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06461949",
+          "briefTitle": "Study of Dupilumab 300 mg Every Other Week After Endoscopic Sinus Surgery in Patients With Allergic Fungal Rhinosinusitis (AFRS) on a Background Therapy With Intranasal Corticosteroid Spray"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2024-07-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Fungal Rhinosinusitis (AFRS)",
+            "Chronic Rhinosinusitis (CRS)",
+            "Asthma",
+            "Nasal Polyps"
+          ],
+          "keywords": [
+            "Ethmoid tissue",
+            "Intranasal corticosteroids",
+            "Nasal polyps",
+            "Sinonasal inflammation",
+            "Lung Function",
+            "Quality of Life"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04596189",
+          "briefTitle": "Dupilumab for Prevention of Recurrence of CRSwNP After ESS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-05-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-10-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ],
+          "keywords": [
+            "Chronic rhinosinusitis with nasal polyps",
+            "Endoscopic sinus surgery",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05976373",
+          "briefTitle": "A Study to Investigate the Pharmacokinetics (PK), Tolerability and Safety of Two Different Dupilumab Drug Products in Healthy Participants."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-01-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03884842",
+          "briefTitle": "Dupilumab on Airway Hyper-responsiveness and Ventilation Heterogeneity in Patients With Asthma."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-07-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Airway hyperresponsivness",
+            "Ventilation heterogeneity",
+            "Hyperpolarized Xenon-129",
+            "Sputum eosinophils"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04202679",
+          "briefTitle": "Study of Dupilumab for the Treatment of Patients With Prurigo Nodularis, Inadequately Controlled on Topical Prescription Therapies or When Those Therapies Are Not Advisable (PRIME2)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-01-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-12-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neurodermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03675022",
+          "briefTitle": "Effect of Dupilumab on Sleep Apnea in Patients With Rhinosinusitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2018-08-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Sleep Apnea",
+            "Rhinosinusitis Chronic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05602207",
+          "briefTitle": "Effects of Abrocitinib in Subjects With Atopic Dermatitis With an Unsatisfactory Response After Treatment With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-11-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-11-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "eczema",
+            "dupilumab",
+            "abrocitinib"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04345367",
+          "briefTitle": "Study of Abrocitinib Compared With Dupilumab in Adults With Moderate to Severe Atopic Dermatitis on Background Topical Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-06-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "atopic eczema",
+            "eczema",
+            "JAK",
+            "janus kinase"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04244006",
+          "briefTitle": "A Pilot Study of the Efficacy and Safety of Dupilumab Versus Placebo in Patients With Netherton Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2020-07-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-01-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Netherton Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04878770",
+          "briefTitle": "NMF-CsA-Dupi Trial"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2021-08-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ],
+          "keywords": [
+            "natural moisturizing factor",
+            "systemic treatment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07791342",
+          "briefTitle": "A Phase I Study of 9MW4113 Injection Versus Dupixent\u00ae"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06101095",
+          "briefTitle": "A Study Assessing Esophageal Function and Remodeling With Dupilumab Compared With Placebo for 24 Weeks Followed by 104 Weeks Open Label in Adult Participants With EoE (REMOdeling With Dupilumab in Eosinophilic Esophagitis Long-term Trial)"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-11-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-10-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Oesophagitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02277743",
+          "briefTitle": "Study of Dupilumab Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-10-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04256759",
+          "briefTitle": "Dupilumab for the Treatment of Moderate to Severe Chronic Hepatic Pruritus"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-02-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pruritus"
+          ],
+          "keywords": [
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04447417",
+          "briefTitle": "Dupilumab Skin Barrier Function Study in Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-07-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04895423",
+          "briefTitle": "Evaluation of the Effectiveness and Safety of Immunosuppressive and Biological Therapy of Atopic Dermatitis in Childhood"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2021-11-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Glucocorticoids",
+            "Biologic Drugs",
+            "Methotrexate",
+            "Cyclosporine",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03345914",
+          "briefTitle": "Study to Investigate the Efficacy and Safety of Dupilumab Administered With Topical Corticosteroids (TCS) in Participants \u22656 to <12 Years With Severe Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-11-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02414854",
+          "briefTitle": "Evaluation of Dupilumab in Patients With Persistent Asthma (Liberty Asthma Quest)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-04-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-04-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03112577",
+          "briefTitle": "Study of REGN3500 and Dupilumab in Patients With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-06-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-04-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma, Allergic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02395133",
+          "briefTitle": "A Study to Confirm the Efficacy and Safety of Different Dupilumab Dose Regimens in Adults With Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-03-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-03-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03749148",
+          "briefTitle": "Cholinergic Urticaria - Efficacy of Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-12-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cholinergic Urticaria"
+          ],
+          "keywords": [
+            "hives",
+            "itch",
+            "exercise"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04743791",
+          "briefTitle": "Measuring the Effect of Dupilumab Treatment on Mucociliary Clearance (MCC) in Subjects With Moderate to Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-10-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-02-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06637306",
+          "briefTitle": "Neoadjuvant Dupilumab, Pembrolizumab, Paclitaxel, and Carboplatin in Locally Advanced Triple Negative Breast Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-10-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Locally Advanced Triple Negative Breast Cancer",
+            "TNBC - Triple-Negative Breast Cancer"
+          ],
+          "keywords": [
+            "Dupilumab",
+            "Pembrolizumab",
+            "IL-4 Receptor Antagonist",
+            "Breast Cancer",
+            "Triple Negative",
+            "Locally Advanced"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05094570",
+          "briefTitle": "Interleukin-4Ra Blockade by Dupilumab Decreases Staphylococcus Colonization and Increases Microbial Diversity in CRSwNP"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-10-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps",
+            "Staphylococcus Aureus"
+          ],
+          "keywords": [
+            "Nasal polyps",
+            "Staph aureus",
+            "Interleukin-4/-13"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01537653",
+          "briefTitle": "Safety, Tolerability and Pharmacokinetics of SAR231893 (REGN668) in Healthy Japanese Adult Male Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-02-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04456673",
+          "briefTitle": "Pivotal Study to Assess the Efficacy, Safety and Tolerability of Dupilumab in Patients With Moderate to Severe COPD With Type 2 Inflammation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-07-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-07-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03050151",
+          "briefTitle": "Study of Dupilumab Auto-injector Device When Used by Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-02-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-02-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Disorders",
+            "Eczema, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04600362",
+          "briefTitle": "Study of Dupilumab to Demonstrate Efficacy in Subjects With Nummular Eczema"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-03-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-10-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nummular Eczema"
+          ],
+          "keywords": [
+            "Nummular Eczema",
+            "Dermatitis",
+            "Skin Diseases",
+            "Dupilumab",
+            "Anti-Inflammatory-Sgents"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05128383",
+          "briefTitle": "Study to Assess Efficacy and Safety of Dupilumab in the Treatment of Keloids"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-01-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-11-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Keloid"
+          ],
+          "keywords": [
+            "keloid",
+            "keloid scar",
+            "hypertrophic scar",
+            "scar"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03359356",
+          "briefTitle": "Treatment of Alopecia Areata (AA) With Dupilumab in Patients With and Without Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-01-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alopecia Areata"
+          ],
+          "keywords": [
+            "alopecia",
+            "alopecia areata",
+            "alopecia universalis",
+            "alopecia totalis",
+            "dupixent",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07754786",
+          "briefTitle": "A Study to Evaluate the Equivalence of IBI3027 and Dupilumab Injection in Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02612454",
+          "briefTitle": "Study to Assess the Long-term Safety of Dupilumab Administered in Participants \u22656 Months to <18 Years of Age With Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-10-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-11-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05247866",
+          "briefTitle": "Efficacy of Dupilumab on Facilitated Food Introduction in Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-06-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-02-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04442269",
+          "briefTitle": "Investigating Treatment With Dupilumab in Patients With Allergic Bronchopulmonary Aspergillosis (ABPA) (LIBERTY ABPA AIRED)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-09-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Bronchopulmonary Aspergillosis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05042258",
+          "briefTitle": "Using Dupilumab to Improve Circadian Function, Sleep and Pruritus in Children With Moderate/Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Sleep Disturbance"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05263206",
+          "briefTitle": "Efficacy and Safety of Subcutaneous Dupilumab for the Treatment of Adult Participants With Chronic Pruritus of Unknown Origin (CPUO) (LIBERTY-CPUO-CHIC)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2022-02-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pruritus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07411755",
+          "briefTitle": "A Phase 1 Clinical Study Comparing GS101 and Dupixent\u00ae After Subcutaneous Injection"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2026-03-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis (AD)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06389136",
+          "briefTitle": "A Study of Upadacitinib in Adult Participants With Moderate-to-Severe Atopic Dermatitis and Inadequate Response to Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-06-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Upadacitinib",
+            "Rinvoq",
+            "ABT-494"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06665971",
+          "briefTitle": "Effect of Dupilumab on the Muscle Function of the Esophagus (food Pipe) in Participants with Eosinophilic Esophagitis (EoE)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-11-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-10-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis (EoE)"
+          ],
+          "keywords": [
+            "Dupilumab",
+            "Dupixent",
+            "EoE",
+            "Eosinophilic esophagitis",
+            "Esophagitis",
+            "inflammation",
+            "Esophagus",
+            "Dysphagia",
+            "Difficulty swallowing",
+            "food stuck in throat",
+            "Motility",
+            "Gastroenterology"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03620747",
+          "briefTitle": "Continuation of TRAVERSE- LTS12551 Evaluating Dupilumab Safety in Patients With Asthma (Long-Term Follow-Up)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-08-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-08-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01015027",
+          "briefTitle": "Ascending Dose Study of the Safety and Tolerability of REGN668(SAR231893) in Normal Healthy Volunteers"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-11-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03678545",
+          "briefTitle": "Dupilumab in Eosinophilic Gastritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-05-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Gastritis",
+            "Eosinophilic Gastroenteritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03983460",
+          "briefTitle": "Dupilumab Impact on Skin Resident Memory T Cells"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-03-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-06-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01920893",
+          "briefTitle": "An Evaluation of Dupilumab in Patients With Nasal Polyposis And Chronic Symptoms Of Sinusitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-08-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06572228",
+          "briefTitle": "Efficacy of Dupilumab Added to Medium Dose Inhaled Corticosteroid/Long-acting Beta-agonist (ICS/LABA) in Comparison to ICS Dose Escalation to High Dose ICS/LABA in Adolescent and Adult Patients With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-26"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-08-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Uncontrolled",
+            "Severe exacerbations",
+            "Type 2 Inflammation",
+            "Elevated blood eosinophils",
+            "Increased Fractional exhaled Nitric Oxide (FeNO)",
+            "Atopy and elevated Immunoglobulin E (IgE)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07386743",
+          "briefTitle": "A Phase III Study of GS101 Injection to Dupixent\u00ae"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis (AD)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05878093",
+          "briefTitle": "Dupilumab in Chinese Adult Participants With CRSwNP"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-05-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02898454",
+          "briefTitle": "Controlled Clinical Study of Dupilumab in Patients With Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-11-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-09-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis Phenotype With Nasal Polyps (CRSwNP)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04306965",
+          "briefTitle": "Apremilast 30 mg Twice Daily (BID) Combined With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-03-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05731128",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Dupilumab Therapy Compared With Placebo in Participants Aged \u226518 Years With Moderately to Severely Active Ulcerative Colitis With an Eosinophilic Phenotype (LIBERTY-UC SUCCEED (Study in UC for Clinical Efficacy Evaluation of Dupilumab))"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-01-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Colitis Ulcerative"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03930732",
+          "briefTitle": "Pivotal Study to Assess the Efficacy, Safety and Tolerability of Dupilumab in Patients With Moderate-to-severe COPD With Type 2 Inflammation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03054428",
+          "briefTitle": "Efficacy and Safety of Dupilumab in Participants \u226512 to <18 Years of Age, With Moderate-to-severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-03-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-02-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate-to-Severe Atopic Dermatitis",
+            "Dermatitis, Dermatitis Atopic",
+            "Eczema, Skin Diseases, Skin",
+            "Diseases Genetic, Genetic",
+            "Diseases Inborn, Skin",
+            "Disease, Eczematous Skin",
+            "Hypersensitivity, Immediate",
+            "Hypersensitivity, Immune System Diseases",
+            "Dermatitis, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05694884",
+          "briefTitle": "Study of Eblasakimab in Male or Female Moderate-to-Severe Atopic Dermatitis Patients Previously Treated With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2022-12-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-01-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "IL-13",
+            "ASLAN004",
+            "IL-13R\u03b11",
+            "Eczema",
+            "Anti-IL-13R\u03b11",
+            "atopic eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07112378",
+          "briefTitle": "A Study of Dupilumab in Small Children With an Allergic Condition of the Esophagus (Food Pipe): Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-08-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis (EoE)"
+          ],
+          "keywords": [
+            "Type 2 Inflammatory",
+            "Allergic/immune-mediated",
+            "Esophageal dysfunction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04400318",
+          "briefTitle": "The Effect of Dupilumab on Lung Inflammation and Related Changes in Airway Volumes Detectable by Functional Respiratory Imaging in Patients With Moderate-severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-06-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-05-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06884891",
+          "briefTitle": "A Phase \u2162 Comparative Study of QL2108 to Dupixent\u00ae"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05545072",
+          "briefTitle": "Add-on Dupilumab for AFRS as Postoperative Therapy (ADAPT)"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2023-10-26"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Fungal Rhinosinusitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05372003",
+          "briefTitle": "IL-4 and Insulin Resistance for Treatment of Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-08-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-05-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06465732",
+          "briefTitle": "Efficacy and Safety of Dupilumab in Combination With Tofacitinib in Moderate to Severe Adult AD Patients"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2025-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02134028",
+          "briefTitle": "Long-Term Safety Evaluation of Dupilumab in Patients With Asthma (LIBERTY ASTHMA TRAVERSE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-08-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-05-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01949311",
+          "briefTitle": "Open-label Study of Dupilumab in Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-10-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-09-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07309614",
+          "briefTitle": "A Study Assessing the Effect of Dupilumab on Inducing Clinical Remission in Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-12-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma Control"
+          ],
+          "keywords": [
+            "Asthma",
+            "Asthma control",
+            "moderate asthma",
+            "dupilumab",
+            "remission",
+            "type-2 inflammation",
+            "blood eosinophils",
+            "feno",
+            "exacerbations",
+            "trial",
+            "RCT"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03560466",
+          "briefTitle": "Assessment of the Safety and Efficacy of Dupilumab in Children With Asthma (Liberty Asthma Excursion)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-06-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-06-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07027527",
+          "briefTitle": "An Active Comparator Safety Study Evaluating the Combination of APG777 + APG990 in Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-06-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-06-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis",
+            "Moderate-to-Severe AD",
+            "APG777",
+            "Dupilumab",
+            "APG990"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01537640",
+          "briefTitle": "Comparison of the Pharmacokinetics and Safety of Two SAR231893 (REGN668) Drug Products in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-02-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03389893",
+          "briefTitle": "Effect of Dupilumab (Anti-IL4R\u03b1) on the Host-Microbe Interface in Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2018-07-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis (AD)"
+          ],
+          "keywords": [
+            "randomized double-masked (blind) placebo-controlled trial",
+            "T helper 2 (Th2) effect",
+            "cutaneous microbial community",
+            "skin barrier"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05680298",
+          "briefTitle": "Dupilumab-pediatric Skin Barrier Function and Lipidomics Study in Patients With Atopic Dermatitis in China"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-02-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-01-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04200755",
+          "briefTitle": "Clinical Trial to Evaluate Efficacy and Safety of Dupilumab in Localized Scleroderma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-05-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-12-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Localized Scleroderma"
+          ],
+          "keywords": [
+            "Morphea"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06293053",
+          "briefTitle": "A Study to Investigate the Pharmacokinetics and Safety of Dupilumab in Participants \u22656 Months to <18 Years of Age With Prurigo Nodularis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-03-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prurigo Nodularis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03793608",
+          "briefTitle": "Study to Evaluate Dupilumab Monotherapy in Pediatric Patients With Peanut Allergy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-03-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-01-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Peanut Allergy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03912259",
+          "briefTitle": "Evaluation of Dupilumab in Chinese Adult Patients With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-12-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06088771",
+          "briefTitle": "Neoadjuvant Dupilumab and Cemiplimab in Patients With Early-stage Resectable NSCLC"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-10-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-10-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Non-Small Cell Lung Cancer"
+          ],
+          "keywords": [
+            "Neoadjuvant",
+            "Dupilumab",
+            "Cemiplimab",
+            "Resectable",
+            "anti-PD1",
+            "Anti-IL-4Ra"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01259323",
+          "briefTitle": "Sequential Ascending Dose Study to Assess the Safety and Tolerability of REGN668 (SAR231893) in Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-12-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03694158",
+          "briefTitle": "Investigating Dupilumab's Effect in Asthma by Genotype"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-09-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02210780",
+          "briefTitle": "Study of Dupilumab and Immune Responses in Adults With Atopic Dermatitis (AD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-08-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-08-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06556264",
+          "briefTitle": "Immunologic Impact of Dupilumab in Patients Suffering From Asthma and Chronic Rhinosinusitis With Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2024-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-08-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps",
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04823130",
+          "briefTitle": "Dupilumab Effect on Pruritus Neuro-mechanisms in Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-03-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04206553",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Dupilumab in Adult Patients With Bullous Pemphigoid"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-10-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-12-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bullous Pemphigoid"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06750471",
+          "briefTitle": "Dupixent Study for Alternate Administration"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-10-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-12-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps",
+            "Sinusitis",
+            "Chronic Disease"
+          ],
+          "keywords": [
+            "Chronic rhinosinusitis",
+            "Dupilumab",
+            "Biologic Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04148352",
+          "briefTitle": "Dupilumab and Milk OIT for the Treatment of Cow's Milk Allergy"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-10-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-11-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergies Food Milk"
+          ],
+          "keywords": [
+            "Food allergy",
+            "Milk allergy",
+            "Oral Immunotherapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05590585",
+          "briefTitle": "Dupilumab in Adolescent and Adult Skin of Color Participants: Open-label Moderate-to-severe Eczema Trial"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-01-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-10-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate-to-Severe Atopic Dermatitis",
+            "Atopic Eczema"
+          ],
+          "keywords": [
+            "Eczematous Lesions",
+            "Pruritus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04998604",
+          "briefTitle": "EValuating trEatment RESponses of Dupilumab Versus Omalizumab in Type 2 Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-09-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps",
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02948959",
+          "briefTitle": "Evaluation of Dupilumab in Children With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-04-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-10-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04975438",
+          "briefTitle": "Clinical Effect, Safety and Tolerability of GSK1070806 in Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-11-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-07-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ],
+          "keywords": [
+            "Eczema activity severity index",
+            "GSK1070806"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04296864",
+          "briefTitle": "Evaluation of Dupilumab in Patients With Atopic Keratoconjunctivitis (AKC)"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-02-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-03-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Keratoconjunctivitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06743581",
+          "briefTitle": "Study of Neoadjuvant Cemiplimab and Dupilumab in Early-Stage Non-Small Cell Lung Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-12-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Non-Small Cell Lung Cancer",
+            "Immunotherapy",
+            "Neoadjuvant Therapy"
+          ],
+          "keywords": [
+            "NSCLC",
+            "Neoadjuvant immunotherapy",
+            "Cemiplimab",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04066998",
+          "briefTitle": "Cytokine Profile of Conjunctivitis, Performed Through Tears Analysis Among Patients Treated With Dupilumab"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2019-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-08-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Conjunctival Diseases",
+            "Atopic Dermatitis",
+            "Side Effect"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06352073",
+          "briefTitle": "Dupilumab for Eosinophilic Esophagitis With Severe Strictures"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis",
+            "EoE"
+          ],
+          "keywords": [
+            "EoE",
+            "Stricture",
+            "dupilumab",
+            "Eosinophilic Esophagitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06369467",
+          "briefTitle": "Short-Term Linvoseltamab Treatment on Top of Chronic Dupilumab Treatment for Adults With Severe Immunoglobulin E (IgE)-Mediated Food Allergy"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Food Allergy"
+          ],
+          "keywords": [
+            "Severe Immunoglobulin E (IgE)-Mediated Food Allergy",
+            "Peanut",
+            "Hazelnut",
+            "Walnut",
+            "Cashew",
+            "Milk",
+            "Egg/egg white",
+            "Soy",
+            "Wheat",
+            "Sesame",
+            "Cod",
+            "Salmon",
+            "Tuna",
+            "Lobster",
+            "Crab",
+            "Shrimp"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06705387",
+          "briefTitle": "Dupilumab Versus Topical Corticosteroid Effectiveness - Comparison in the Treatment of Stenotic EoE"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ],
+          "keywords": [
+            "Dupilumab",
+            "Fluticasone"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07905547",
+          "briefTitle": "A Study to Investigate Dupixent/ Dupilumab in Adult Indian Participants With Moderate-to-severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-10-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06509243",
+          "briefTitle": "Dupilumab and House Dust Mite Immunotherapy in Patients With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-02-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "biologics",
+            "allergen immunotherapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06116526",
+          "briefTitle": "Dupilumab De-escalation in Pediatric Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2024-04-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-11-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05265234",
+          "briefTitle": "Dupilmuab for Atopic Dermatitis Monitored With Noninvasive Imaging."
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2022-03-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eczema",
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "dermatitis",
+            "Dupilumab",
+            "Inflammatory Skin Diseases",
+            "itch relief",
+            "biologic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01854047",
+          "briefTitle": "An Evaluation of Dupilumab in Patients With Moderate to Severe Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-05-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01859988",
+          "briefTitle": "Study of Dupilumab Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-05-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06501807",
+          "briefTitle": "BIOlogics in Severe Nasal POlyposis SurvEy.: a French Registry"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-07-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rhinosinusitis Chronic",
+            "Nasal Polyps"
+          ],
+          "keywords": [
+            "nasal polyp",
+            "chronic rhinosinusitis",
+            "eosinophil",
+            "endotype"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04502862",
+          "briefTitle": "A Phase 4, Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel-group Study of the Effect of Dupilumab on Sleep Disturbance in Patients With Uncontrolled Persistent Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-08-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-08-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01385657",
+          "briefTitle": "Safety and Tolerability of Dupilumab in Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-07-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-06-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05866562",
+          "briefTitle": "Dupilumab in the Treatment of Pediatric Alopecia Areata"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-07-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Alopecia Areata"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03595488",
+          "briefTitle": "Dupilumab for Aspirin-exacerbated Respiratory Disease"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-09-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-07-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Aspirin-exacerbated Respiratory Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07587658",
+          "briefTitle": "This After Market Study is Seeing if Dupilumab Plus Usual Standard of Care (SOC) is Better Than Usual Care Alone for Adult Participants After a Severe Chronic Obstructive Pulmonary Disease (COPD) Flare-Up Requiring Hospitalization"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-05-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+          ],
+          "keywords": [
+            "Moderate and/or Severe Exacerbation",
+            "Eosinophilic phenotype",
+            "Elevated blood eosinophil counts",
+            "Type 2 inflammation",
+            "dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06004986",
+          "briefTitle": "DUPIlumab Dose REDUCtion in Patients With Controlled Atopic Eczema"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2023-08-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Atopic Dermatitis Eczema"
+          ],
+          "keywords": [
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05649098",
+          "briefTitle": "Repurposing Dupilumab for Management of Pruritic Genetic Inflammatory Skin Disorders"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-06-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-12-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Skin Diseases"
+          ],
+          "keywords": [
+            "Itch",
+            "Pruritus",
+            "epidermolysis bullosa",
+            "ichthyosis",
+            "genetic skin disorders"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07268313",
+          "briefTitle": "Complete Remission After Treatment With Biologics for Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-12-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01548404",
+          "briefTitle": "Study of Dupilumab in Adult Patients With Extrinsic Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-03-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04512339",
+          "briefTitle": "Dupilumab in Severe Chronic Hand Eczema"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-08-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hand Eczema"
+          ],
+          "keywords": [
+            "Hand eczema",
+            "Dupilumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05983068",
+          "briefTitle": "A Study of Long-term Effect of Dupilumab on Skin Barrier Function in Pediatric Participants With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-02-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06477653",
+          "briefTitle": "Dupilumab as Add-On Therapy for Hypereosinophilic Syndrome With Partial Clinical Response to Eosinophil-Depleting Biologic Agents"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypereosinophilic Syndrome"
+          ],
+          "keywords": [
+            "Hypereosinophilic Syndrome",
+            "Eosinophil",
+            "Monoclonal Antibody",
+            "Clinical Trial",
+            "Treatment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04678856",
+          "briefTitle": "Dupilumab in CRSsNP"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-12-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis Without Nasal Polyps",
+            "Sinusitis",
+            "Chronic Sinusitis",
+            "Sinus Disorder",
+            "Respiratory Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04791319",
+          "briefTitle": "A Study of Bermekimab (JNJ-77474462) in the Treatment of Participants With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-05-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-03-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02260986",
+          "briefTitle": "Study to Assess the Efficacy and Long-term Safety of Dupilumab (REGN668/SAR231893) in Adult Participants With Moderate-to-Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-10-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07358156",
+          "briefTitle": "A Study to Compare the Pharmacokinetics, Pharmacodynamic, Immunogenicity, and Safety of CKD-706 With US-Dupixent\u00ae, and EU-Dupixent\u00ae in Healthy Adult Participants."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "CKD-706"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04180488",
+          "briefTitle": "Dupilumab for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine and Who Are na\u00efve to, Intolerant of, or Incomplete Responders to Omalizumab (LIBERTY-CSU CUPID)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-12-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-11-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05976360",
+          "briefTitle": "A Study to Investigate the Pharmacokinetics, Tolerability and Safety of Two Different Dupilumab Drug Products in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-11-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04203797",
+          "briefTitle": "A Study to Evaluate the Effect of Dupilumab on Exercise Capacity in Adult Patients With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-07-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-12-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04430179",
+          "briefTitle": "Dupilumab Severe Eosinophilic Chronic Sinusitis Without Nasal Polyposis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2020-12-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Chronic Sinusitis Without Nasal Polyposis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    }
+  ]
+}

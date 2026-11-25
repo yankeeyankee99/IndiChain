@@ -1,0 +1,3946 @@
+{
+  "totalCount": 120,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02298933",
+          "briefTitle": "Complement Inhibition Using Eculizumab to Overcome Platelet Transfusion Refractoriness in Patients With Severe Thrombocytopenia"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-11-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-11-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Thrombocytopenia",
+            "Alloimmune Platelet Refractoriness"
+          ],
+          "keywords": [
+            "Complement Inhibition",
+            "Platelet Refractoriness",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07420296",
+          "briefTitle": "Modified Zipper Therapy for AQP4-IgG Positive Neuromyelitis Optica Spectrum Disorder"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica Spectrum Disorders (NMOSD)"
+          ],
+          "keywords": [
+            "NMOSD",
+            "Eculizumab",
+            "Plasma exchange",
+            "Corticosteroid pulse therapy",
+            "Optic neuritis",
+            "Longitudinally extensive transverse myelitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02093533",
+          "briefTitle": "Eculizumab in Primary MPGN"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-03-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Membranoproliferative Glomerulonephritis"
+          ],
+          "keywords": [
+            "Membranoproliferative glomerulonephritis",
+            "Nephrotic syndrome",
+            "Proteinuria",
+            "Alternative complement pathway",
+            "Complement inhibition",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00935883",
+          "briefTitle": "Complement Inhibition With Eculizumab for the Treatment of Non-Exudative Macular Degeneration (AMD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-07-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Age-Related Macular Degeneration"
+          ],
+          "keywords": [
+            "Age Related macular Degeneration",
+            "Macular Degeneration",
+            "Drusen",
+            "Geographic atrophy",
+            "Eculizumab",
+            "Soliris"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01095887",
+          "briefTitle": "Eculizumab to Prevent Antibody-mediated Rejection in ABO Blood Group Incompatible Living Donor Kidney Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2010-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-03-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney Transplant"
+          ],
+          "keywords": [
+            "ABO incompatibility",
+            "living donor kidney transplant",
+            "kidney transplant",
+            "ABO blood type incompatible"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01579838",
+          "briefTitle": "An Open Label Study of the Effects of Eculizumab in CD59 Deficiency"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2012-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-04-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Hemolysis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01192399",
+          "briefTitle": "Safety and Efficacy Study of Eculizumab in Paroxysmal Nocturnal Hemoglobinuria Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2007-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-09-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Hemolytic Paroxysmal Nocturnal Hemoglobinuria",
+            "Eculizumab",
+            "PNH",
+            "Japan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05116774",
+          "briefTitle": "BCX9930 for the Treatment of Paroxysmal Nocturnal Hemoglobinuria (PNH) in Participants With Inadequate Response to C5 Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-12-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-11-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "BCX9930",
+            "factor D inhibitor",
+            "proximal complement inhibitor",
+            "oral therapy",
+            "paroxysmal nocturnal hemoglobinuria",
+            "inadequate response to C5 inhibitor",
+            "C5 inhibitor",
+            "eculizumab",
+            "ravulizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04679103",
+          "briefTitle": "A Safety and Immunogenicity Study in Long-term Treatment of Eculizumab (JSC \"GENERIUM\", Russian Federation)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-05-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "eculizumab",
+            "humanized monoclonal antibodies",
+            "safety",
+            "paroxysmal nocturnal hemoglobinuria",
+            "rare disease",
+            "biosimilar",
+            "complement system",
+            "C5 component of complement",
+            "pro-inflammatory cytokines",
+            "Membrane attack complex (MAC)",
+            "immunogenicity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03030183",
+          "briefTitle": "Phase 2 Safety and Efficacy Study of Zilucoplan (RA101495) to Treat PNH Patients Who Have an Inadequate Response to Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-04-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-01-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03759366",
+          "briefTitle": "A Phase 3 Open-Label Study of Eculizumab in Pediatric Participants With Refractory Generalized Myasthenia Gravis (gMG)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-12-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Myasthenia Gravis",
+            "Myasthenia Gravis, Juvenile Form",
+            "Myasthenia Gravis, Generalized"
+          ],
+          "keywords": [
+            "Myasthenia Gravis",
+            "Myasthenia Gravis, Generalized"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07816237",
+          "briefTitle": "A Multicenter, Randomized, Open-Label, Positive Controlled Phase III Study to Evaluate the Efficacy and Safety of VSA012 Injection in Participants With Paroxysmal Nocturnal Hemoglobinuria Who Are Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-09-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria, PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04725812",
+          "briefTitle": "Complement Regulation to Undo Systemic Harm in Preeclampsia"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-09-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-01-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Preeclampsia",
+            "Severe Preeclampsia",
+            "Eculizumab",
+            "HELLP",
+            "HELLP Syndrome",
+            "HELLP Syndrome Second Trimester",
+            "Pregnancy Related",
+            "AHUS",
+            "PNH",
+            "Complement Regulatory Factor Defect",
+            "Complement Abnormality",
+            "HELLP Syndrome Third Trimester"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01221181",
+          "briefTitle": "Eculizumab Therapy for Dense Deposit Disease and C3 Nephropathy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-10-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dense Deposit Disease",
+            "Membranoproliferative Glomerulonephritis"
+          ],
+          "keywords": [
+            "Dense deposit disease",
+            "C3 nephropathy",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01892345",
+          "briefTitle": "A Randomized Controlled Trial of Eculizumab in AQP4 Antibody-positive Participants With NMO (PREVENT Study)"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2014-04-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-07-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica",
+            "Neuromyelitis Optica Spectrum Disorder"
+          ],
+          "keywords": [
+            "Neuromyelitis Optica",
+            "Neuromyelitis Optica Spectrum Disorder",
+            "Devic's disease, Transverse Myelitis",
+            "Optic Neuritis",
+            "relapse",
+            "eculizumab",
+            "soliris",
+            "NMO-IgG",
+            "CNS Autoimmune Disorders",
+            "Demyelinating Disorders",
+            "NMO",
+            "NMOSD"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00098280",
+          "briefTitle": "Eculizumab to Treat Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2004-12-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemoglobinuria, Paroxysmal"
+          ],
+          "keywords": [
+            "H5g1",
+            "PNH",
+            "TRIUMPH",
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01194804",
+          "briefTitle": "E07-001: Safety and Efficacy Extension Study of Eculizumab in Paroxysmal Nocturnal Hemoglobinuria Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2008-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-09-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Hemolytic Paroxysmal Nocturnal Hemoglobinuria",
+            "Eculizumab",
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04320602",
+          "briefTitle": "Ravulizumab in Adult Participants With Paroxysmal Nocturnal Hemoglobinuria Currently Treated With High-Dose Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-03-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "PNH",
+            "Ravulizumab",
+            "Ultomiris",
+            "Eculizumab",
+            "Soliris"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03999840",
+          "briefTitle": "Eculizumab to Cemdisiran Switch in aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2021-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-06-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "aHUS",
+            "cemdisiran",
+            "synthetic RNA interference"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01194973",
+          "briefTitle": "An Open-label, Multi-center Clinical Trial of Eculizumab in Adult Patients With Atypical Hemolytic-uremic Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-09-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic-Uremic Syndrome"
+          ],
+          "keywords": [
+            "Atypical Hemolytic-Uremic Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00844545",
+          "briefTitle": "Open Label Controlled Trial of Eculizumab in Adult Patients With Plasma Therapy-Resistant aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "aHUS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01403389",
+          "briefTitle": "A Study of the Activity of Eculizumab for Prevention of Delayed Graft Function In Deceased Donor Kidney Transplant"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2011-12-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-07-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Delayed Function of Renal Transplant"
+          ],
+          "keywords": [
+            "Kidney Transplant",
+            "Delayed Graft Function"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07184840",
+          "briefTitle": "Eculizumab For the Acute Attack of Neuromyelitis Optica Spectrum Disorder"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-09-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica Spectrum Disorder Attack"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "Acute Attack",
+            "Neuromyelitis Optica Spectrum Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07747090",
+          "briefTitle": "A Study of the Efficacy and Safety of FXS6837 Capsules Compared to Eculizumab for 24 Weeks in Patients With PNH."
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-12-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00130000",
+          "briefTitle": "Eculizumab to Treat Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2005-08-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2005-08-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Hemoglobinuria, Nocturnal"
+          ],
+          "keywords": [
+            "h5g.1",
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "SHEPHERD",
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06932744",
+          "briefTitle": "Study of Safety and Efficacy of MY008211A in Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients Who Are Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-04-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Haemoglobinuria (PNH)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00838513",
+          "briefTitle": "Open Label Controlled Trial of Eculizumab in Adult Patients With Plasma Therapy-sensitive Atypical Hemolytic Uremic Syndrome (aHUS)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-02-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "aHUS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06724809",
+          "briefTitle": "Efficacy, Safety, PK, PD, and ADA of Eculizumab in Chinese Adults With NMOSD"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-01-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-12-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "NMOSD",
+            "Neuromyelitis Optica Spectrum Disorders"
+          ],
+          "keywords": [
+            "NMOSD",
+            "Neuromyelitis Optica Spectrum Disorders",
+            "eculizumab",
+            "anti-AQP4"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06513338",
+          "briefTitle": "Complement C5 mAb in the Treatment of Anti-GBM Disease"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-03-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Autoimmune Diseases"
+          ],
+          "keywords": [
+            "complement C5",
+            "crescentic glomerulonephritis",
+            "anti-GBM disease",
+            "complement inhibition"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00867932",
+          "briefTitle": "Eculizumab Pharmacokinetics/Pharmacodynamics Study in Pediatric/Adolescent Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-10-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-03-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemoglobinuria, Paroxysmal"
+          ],
+          "keywords": [
+            "Alexion",
+            "Eculizumab",
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "PNH",
+            "Soliris"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04155424",
+          "briefTitle": "A Study of the Safety and Activity of Eculizumab in Pediatric Participants With Relapsing Neuromyelitis Optica Spectrum Disorder"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2020-01-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-11-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica",
+            "Neuromyelitis Optica Spectrum Disorder"
+          ],
+          "keywords": [
+            "Neuromyelitis Optica",
+            "Neuromyelitis Optica Spectrum Disorder",
+            "Devic's Disease",
+            "Transverse Myelitis",
+            "Optic Neuritis",
+            "Relapse",
+            "Eculizumab",
+            "Soliris",
+            "CNS Autoimmune Disorders",
+            "Demyelinating Disorders",
+            "NMO",
+            "NMOSD"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04935177",
+          "briefTitle": "Renal Function in Highly Sensitized Patients 1 Year After Desensitization With Imlifidase Prior to DD Kidney Tx"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-10-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-06-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney Transplantation in Highly Sensitized Patients"
+          ],
+          "keywords": [
+            "Desensitization",
+            "Highly sensitized",
+            "Positive crossmatch",
+            "Unlikely to be transplanted",
+            "Renal transplantation",
+            "Deceased donor"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04346797",
+          "briefTitle": "CORIMUNO19-ECU: Trial Evaluating Efficacy and Safety of Eculizumab (Soliris) in Patients With COVID-19 Infection, Nested in the CORIMUNO-19 Cohort"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-04-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "SARS-CoV-2",
+            "COVID19"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05863442",
+          "briefTitle": "Comparative PK, Safety, Tolerability, Immunogenicity, and PD Profile Study of TUR03 and Soliris in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2023-04-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ],
+          "keywords": [
+            "eculizumab",
+            "phase I",
+            "biosimilar"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04103489",
+          "briefTitle": "The Use of Eculizumab in HELLP Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-02-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-09-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "HELLP Syndrome (HELLP), Third Trimester",
+            "Complement Abnormality",
+            "Morbidity;Newborn",
+            "Maternal Injury",
+            "Preeclampsia Severe"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02591862",
+          "briefTitle": "Coversin in Paroxysmal Nocturnal Haemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-10-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Haemoglobinuria (PNH)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03406507",
+          "briefTitle": "A Study of Ravulizumab (ALXN1210) in Children and Adolescents With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-02-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Ravulizumab",
+            "ALXN1210",
+            "Ultomiris",
+            "Pharmacokinetics",
+            "Pharmacodynamics"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00670774",
+          "briefTitle": "Dosing Regimen of Eculizumab Added to Conventional Treatment in Positive Cross Match Living Donor Kidney Transplant"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2008-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2008-05-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney Transplant"
+          ],
+          "keywords": [
+            "Kidney",
+            "Transplant",
+            "donor"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05646563",
+          "briefTitle": "Study of NM8074 in Adult PNH Patients With Inadequate Response to Soliris"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2027-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-12-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03427060",
+          "briefTitle": "Coversin in PNH in Patients With Resistance to Eculizumab Due to Complement C5 Polymorphisms"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-05-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-02-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03078582",
+          "briefTitle": "Phase 2 Safety and Efficacy Study of Zilucoplan (RA101495) to Treat PNH Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-03-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-03-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04469465",
+          "briefTitle": "Danicopan as Add-on Therapy to a C5 Inhibitor in Paroxysmal Nocturnal Hemoglobinuria (PNH) Participants Who Have Clinically Evident Extravascular Hemolysis (EVH)(ALPHA)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-12-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-07-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+            "Extravascular Hemolysis (EVH)",
+            "Factor D inhibitor",
+            "Complement",
+            "Danicopan",
+            "C5 inhibitor"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06453135",
+          "briefTitle": "Eculizumab for Prevention of Antibody-Mediated Rejection in ABO-Incompatible Living Donor Kidney Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2024-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney Transplantation"
+          ],
+          "keywords": [
+            "Kidney Transplantation",
+            "Eculizumab",
+            "Antibody-mediated rejection"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00727194",
+          "briefTitle": "Safety and Efficacy Study of Eculizumab in Patients With Refractory Generalized Myasthenia Gravis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2008-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2008-08-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Myasthenia Gravis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03722329",
+          "briefTitle": "Pharmacokinetic, Safety, Tolerability, Immunogenicity, and Pharmacodynamic Study of SB12 in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-11-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03468140",
+          "briefTitle": "Pilot Trial of Eculizumab Therapy to Reduce Preservation Injury in Human Macrosteatotic Liver Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2021-10-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-03-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "End Stage Liver Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02301624",
+          "briefTitle": "Extension Study of ECU-MG-301 to Evaluate Safety and Efficacy of Eculizumab in Refractory Generalized Myasthenia Gravis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-11-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-11-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Refractory Generalized Myasthenia Gravis"
+          ],
+          "keywords": [
+            "gMG",
+            "Myasthenia Gravis",
+            "safety",
+            "efficacy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06987864",
+          "briefTitle": "An Extension Clinical Study of BCD-148 for the Treatment of Patients With PNH Previously Treated in Clinical Study No. BCD-148-2/NOCTURN"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-04-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-05-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "Paroxysmal nocturnal hemoglobinuria",
+            "eculizumab",
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06593938",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Oral HRS-5965 in Adult Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients Who Are Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-10-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03439839",
+          "briefTitle": "Study of Safety, Efficacy, Tolerability, Pharmacokinetics and Pharmacodynamics of LNP023 in in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-04-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-02-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH) With Signs of Active Hemolysis"
+          ],
+          "keywords": [
+            "Complement",
+            "alternative pathway",
+            "paroxysmal nocturnal hemoglobinuria",
+            "hemolysis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07410039",
+          "briefTitle": "Therapy in the Acute Phase of NMOSD: A Multicenter Prospective Real-World Study"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica Spectrum Disorder Attack"
+          ],
+          "keywords": [
+            "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+            "acute attack phase",
+            "eculizumab add-on therapy",
+            "AQP4-IgG positive"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07010302",
+          "briefTitle": "Rituximab Versus Ravulizumab, Inebilizumab, Satralizumab, and Eculizumab in NMOSD"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-06-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "NMOSD"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06449001",
+          "briefTitle": "Study of Danicopan as Add-on Treatment to Ravulizumab or Eculizumab in Pediatric Participants With PNH Who Have Clinically Significant Extravascular Hemolysis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-08-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "PNH",
+            "Extravascular Hemolysis"
+          ],
+          "keywords": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "PNH",
+            "Extravascular Hemolysis",
+            "Ravulizumab",
+            "Eculizumab",
+            "Danicopan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01193348",
+          "briefTitle": "An Open-Label, Multi-Center Clinical Trial of Eculizumab in Pediatric Patients With Atypical Hemolytic-Uremic Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-09-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic-Uremic Syndrome"
+          ],
+          "keywords": [
+            "Atypical Hemolytic-Uremic Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01399593",
+          "briefTitle": "Safety & Efficacy of Eculizumab to Prevent AMR in Living Donor Kidney Transplant Recipients Requiring Desensitization"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2011-11-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Antibody Mediated Rejection"
+          ],
+          "keywords": [
+            "Antibody Mediated Rejection",
+            "AMR",
+            "Acute Humoral Rejection",
+            "AHR",
+            "Living Donor",
+            "Kidney Transplant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01756508",
+          "briefTitle": "Eculizumab for Prevention and Treatment of Kidney Graft Reperfusion Injury"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-12-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "End-Stage Renal Disease",
+            "Kidney Failure",
+            "Graft Reperfusion Injury"
+          ],
+          "keywords": [
+            "eculizumab",
+            "kidney transplantation",
+            "reperfusion",
+            "rejection",
+            "infection"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04702568",
+          "briefTitle": "A Long-Term Safety Study of BCX9930 in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2020-12-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-01-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "PNH"
+          ],
+          "keywords": [
+            "BCX9930",
+            "Factor D inhibitor",
+            "PNH",
+            "paroxysmal Nocturnal Hemoglobinuria",
+            "oral treatment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04888507",
+          "briefTitle": "Pozelimab and Cemdisiran Combination Therapy in Adult Participants With Paroxysmal Nocturnal Hemoglobinuria Who Switch From Eculizumab Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-07-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04434092",
+          "briefTitle": "A Study Evaluating the Efficacy and Safety of Crovalimab Versus Eculizumab in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) Not Previously Treated With Complement Inhibitors"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2020-10-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04027803",
+          "briefTitle": "Comparative Study of Pharmacokinetics, Pharmacodynamics, Safety, and Immunogenicity of Single Intravenous Doses of BCD-148 and Soliris\u00ae"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-09-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Subjects"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05731050",
+          "briefTitle": "Study of NM8074 in Soliris-Treated Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "PNH - Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06764160",
+          "briefTitle": "Efficacy, Safety, Pharmacokinetics, Pharmacodynamics, and Immunogenicity of Eculizumab in Chinese Adults With gMG"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2025-01-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-01-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Generalized Myasthenia Gravis (gMG)",
+            "Refractory gMG"
+          ],
+          "keywords": [
+            "Generalized Myasthenia Gravis (gMG)",
+            "Refractory gMG",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03518203",
+          "briefTitle": "Eculizumab to Treat Thrombotic Microangiopathy/Atypical Hemolytic Uremic Syndrome -Associated Multiple Organ Dysfunction Syndrome in Hematopoietic Stem Cell Transplant Recipients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-08-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-05-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Thrombotic Microangiopathies",
+            "Atypical Hemolytic Uremic Syndrome",
+            "Multiple Organ Dysfunction Syndrome"
+          ],
+          "keywords": [
+            "Hematopoietic Stem Cell Transplant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05744921",
+          "briefTitle": "A Study in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) to Evaluate How Safe Long-term Treatment With Pozelimab + Cemdisiran Combination Therapy is and How Well it Works"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-03-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02145182",
+          "briefTitle": "Prevention of Delayed Graft Function Using Eculizumab Therapy (PROTECT Study)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-08-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-05-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Delayed Graft Function"
+          ],
+          "keywords": [
+            "DGF",
+            "Dialysis",
+            "Kidney",
+            "Kidney Transplantation",
+            "eGFR",
+            "Complement",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04060264",
+          "briefTitle": "Clinical Trial of BCD-148 and Soliris\u00ae for the Treatment of Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-08-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02714374",
+          "briefTitle": "GL-ONC1 Administered Intravenously Prior to Surgery to Patients With Solid Organ Cancers"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2016-03-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-03-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Solid Organ Cancers"
+          ],
+          "keywords": [
+            "GL-ONC1",
+            "Solid Organ Cancer",
+            "Cancer",
+            "Surgery",
+            "Oncolytic Virus",
+            "Soliris",
+            "Metastatic melanoma",
+            "Esophageal and gastric adenocarcinoma (Stage III/IV)",
+            "Cholangiocarcinoma",
+            "Pancreatic adenocarcinoma",
+            "Gallbladder cancer",
+            "Colorectal cancer (Stage IV)",
+            "High-grade mucinous appendix cancer",
+            "High-grade gastrointestinal neuroendocrine cancer",
+            "Mesothelioma",
+            "High-grade soft tissue sarcoma",
+            "Stage III or IV"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05876351",
+          "briefTitle": "Eculizumab in Pediatric and Adult Participants With Atypical Hemolytic Uremic Syndrome (aHUS) in China"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-07-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic"
+          ],
+          "keywords": [
+            "atypical hemolytic uremic",
+            "aHUS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02493725",
+          "briefTitle": "JET-GBS - Japanese Eculizumab Trial for GBS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-07-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gullain Barre Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02574403",
+          "briefTitle": "Study Assessing an Algorithm-based Strategy of Eculizumab Discontinuation in Children and Adults With aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-10-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "atypical hemolytic uremic syndrome (aHUS)",
+            "eculizumab discontinuation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05702996",
+          "briefTitle": "Study Evaluating the Efficacy of Eculizumab in the Treatment of Gemcitabine-induced Thrombotic Microangiopathies"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2023-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-01-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Thrombotic Microangiopathies"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "gemcitabine"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01895127",
+          "briefTitle": "Efficacy and Safety of Eculizumab for Treatment of Antibody-mediated Rejection Following Renal Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2013-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-07-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Antibody-mediated Rejection",
+            "Humoral Rejection"
+          ],
+          "keywords": [
+            "Kidney Transplant",
+            "Renal Transplant",
+            "Rejection",
+            "Antibody mediated",
+            "Humoral",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03748823",
+          "briefTitle": "Ravulizumab Subcutaneous (SC) Versus Ravulizumab Intravenous (IV) in Adults With Paroxysmal Nocturnal Hemoglobinuria (PNH) Currently Treated With Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-02-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05133531",
+          "briefTitle": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2022-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-11-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00112983",
+          "briefTitle": "Eculizumab in Treating Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2005-06-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Leukemia"
+          ],
+          "keywords": [
+            "adult acute lymphoblastic leukemia",
+            "adult acute myeloid leukemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00485576",
+          "briefTitle": "Safety and Efficacy Study of Eculizumab in Patients With Mild Allergic Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2007-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2007-06-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02003144",
+          "briefTitle": "An Open Label Extension Trial of Eculizumab in Relapsing NMO Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-01-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-12-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica",
+            "Neuromyelitis Optica Spectrum Disorder"
+          ],
+          "keywords": [
+            "Long-term safety study",
+            "Extension trial",
+            "Eculizumab",
+            "Neuromyelitis Optica Spectrum Disorder",
+            "Devic's disease",
+            "Transverse Myelitis",
+            "Optic Neuritis",
+            "Relapse",
+            "NMO-IgG",
+            "CNS Autoimmune Disorders",
+            "Demyelinating Disorders"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01275287",
+          "briefTitle": "Targeting Complement Activation in Antineutrophil Cytoplasmic Autoantibodies (ANCA)-Vasculitis - Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2011-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-01-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis"
+          ],
+          "keywords": [
+            "Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis",
+            "Complement Activation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02205541",
+          "briefTitle": "Eculizumab in Shiga-toxin Related Hemolytic and Uremic Syndrome Pediatric Patients - ECULISHU"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-07-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemolytic Uremic Syndrome of Childhood"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "Shiga-toxin",
+            "hemolytic and uremic syndrome",
+            "pediatric"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01997229",
+          "briefTitle": "Safety and Efficacy of Eculizumab in Refractory Generalized Myasthenia Gravis (REGAIN Study)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-11-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Refractory Generalized Myasthenia Gravis"
+          ],
+          "keywords": [
+            "Myasthenia Gravis",
+            "Eculizumab",
+            "safety",
+            "efficacy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05131204",
+          "briefTitle": "Efficacy and Safety of the Combination of Pozelimab and Cemdisiran Versus Continued Eculizumab or Ravulizumab Treatment in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2022-10-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-11-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03056040",
+          "briefTitle": "ALXN1210 Versus Eculizumab in Adult Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) Currently Treated With Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-05-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01029587",
+          "briefTitle": "Eculizumab to Enable Renal Transplantation in Patients With History of Catastrophic Antiphospholipid Antibody Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-12-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Antiphospholipid Antibody Syndrome",
+            "End Stage Renal Disease"
+          ],
+          "keywords": [
+            "CAPS",
+            "Kidney transplant",
+            "Renal transplant",
+            "Catastrophic Antiphospholipid Antibody Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04432584",
+          "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics, and Efficacy of Crovalimab Versus Eculizumab in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) Currently Treated With Complement Inhibitors"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2020-09-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04859608",
+          "briefTitle": "Personalized Spacing of Eculizumab Infusions Based on Therapeutic Pharmacological Monitoring (EspacECU)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-10-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemolytic-Uremic Syndrome, Atypical"
+          ],
+          "keywords": [
+            "Hemolytic-Uremic Syndrome",
+            "Kidney Diseases",
+            "Thrombotic Microangiopathies",
+            "Therapeutic drug monitoring",
+            "Eculizumab tailoring",
+            "Cost-utility analysis",
+            "Markov model"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00904826",
+          "briefTitle": "An Open Label Study of the Effects of Eculizumab in Neuromyelitis Optica"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-05-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica",
+            "Devic's Disease"
+          ],
+          "keywords": [
+            "NMO",
+            "Devic's disease",
+            "Neuromyelitis optica",
+            "NMO-IgG",
+            "Aquaporin-4 antibody",
+            "Eculizumab",
+            "Complement"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05726916",
+          "briefTitle": "Eculizumab in Hypertensive Emergency-associated Hemolytic Uremic Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-11-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypertensive Emergency-associated Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "Hypertensive emergency",
+            "atypical hemolytic uremic syndrome",
+            "complement",
+            "acute kidney injury",
+            "end stage renal disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01567085",
+          "briefTitle": "Safety & Efficacy Of Eculizumab In The Prevention Of AMR In Sensitized Recipients Of A Kidney Transplant From A Deceased Donor"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-08-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-03-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Stage V Chronic Kidney Disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07177859",
+          "briefTitle": "A Phase III Study of NTQ5082 Capsules in the Treatment of Paroxysmal Nocturnal Hemoglobinuria Patients"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02727608",
+          "briefTitle": "Complement Inhibitor Eculizumab in Clinical Islet Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-05-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-04-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Diabetes Mellitus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00844428",
+          "briefTitle": "Open Label Controlled Trial of Eculizumab in Adolescent Patients With Plasma Therapy-Sensitive aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01106027",
+          "briefTitle": "Dosing Regimen of Eculizumab Added to Conventional Treatment in Positive Crossmatch Deceased Donor Kidney Transplant"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2010-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-04-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney Transplant"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03472885",
+          "briefTitle": "Study of Danicopan in Participants With Paroxysmal Nocturnal Hemoglobinuria With Inadequate Response to Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-05-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-03-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "PNH",
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "ACH-0144471",
+            "Danicopan",
+            "Eculizumab",
+            "ALXN2040"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02029378",
+          "briefTitle": "Inhibition of Complement Activation (Eculizumab) in Guillain-Barre Syndrome Study"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2014-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-01-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Gullian Barre Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04558918",
+          "briefTitle": "Study of Efficacy and Safety of Twice Daily Oral LNP023 in Adult PNH Patients With Residual Anemia Despite Anti-C5 Antibody Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-01-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "Paroxysmal nocturnal hemoglobinuria",
+            "Hemoglobin",
+            "Anemia",
+            "LNP023",
+            "eculizumab",
+            "ravulizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06673394",
+          "briefTitle": "Eculizumab For Acute Attack of Neuromyelitis Optica Spectrum Disorder"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2025-09-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Neuromyelitis Optica Spectrum Disorder Attack"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "Acute Attack",
+            "Neuromyelitis Optica Spectrum Disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04752566",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Eculizumab in Guillain-Barr\u00e9 Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-03-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-02-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Guillain-Barre Syndrome"
+          ],
+          "keywords": [
+            "Eculizumab",
+            "Soliris",
+            "Alexion",
+            "C5 Inhibition Therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02113891",
+          "briefTitle": "Eculizumab Therapy for Subclinical Antibody-mediated Rejection in Kidney Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2015-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-04-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Subclinical Acute Antibody-mediated Rejection in Kidney Transplantation"
+          ],
+          "keywords": [
+            "Antibody-mediated rejection",
+            "Complement blockade",
+            "Eculizumab",
+            "Kidney transplantation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03157635",
+          "briefTitle": "Study to Assess Safety, Efficacy, Pharmacokinetics, and Pharmacodynamics of Crovalimab in Healthy Volunteers and Participants With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-11-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-05-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Hemoglobinuria, Nocturnal"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07519005",
+          "briefTitle": "Ex Vivo Perfusion of Gene-Edited Porcine Livers in Patients With Severe Hepatic Failure"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-04-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatic Failure"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05805202",
+          "briefTitle": "Functional Implications of Rare Gene Mutations in aHUS Open the Door to Personalized Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-05-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-04-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "Atypical hemolytic uremic syndrome",
+            "Induced pluripotent stem cells",
+            "Endothelial cells",
+            "Alternative complement pathway",
+            "Eculizumab",
+            "Drug screening (in vitro)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07707687",
+          "briefTitle": "Safety and Efficacy of Eculizumab in High-risk TA-TMA"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-07-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Transplant-Associated Thrombotic Microangiopathy (TA-TMA)"
+          ],
+          "keywords": [
+            "transplant-associated thrombotic microangiopathy (TA-TMA)",
+            "allogeneic hematopoietic stem cell transplantation",
+            "Eculizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04463056",
+          "briefTitle": "Efficacy and Safety of Elizaria\u00ae vs. Soliris\u00ae in Patients With PNH"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-07-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "Marchiafava-Micheli Syndrome",
+            "Paroxysmal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Paroxysmal Cold Hemoglobinuria",
+            "eculizumab",
+            "Complement Inactivating Agents",
+            "Hemolysis",
+            "Anemia, Hemolytic",
+            "Anemia",
+            "Hematologic Diseases",
+            "Bone Marrow Diseases",
+            "Hemoglobinuria",
+            "Proteinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03818607",
+          "briefTitle": "A Study Evaluating the Efficacy and Safety of ABP 959 Compared With Eculizumab in Adult Participants With PNH"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-01-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-01-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Marchiafava-Micheli Syndrome",
+            "Paroxysmal Cold Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02013037",
+          "briefTitle": "The De-novo Use of Eculizumab in Presensitized Patients Receiving Cardiac Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-12-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Antibody-mediated Rejection",
+            "Hyperacute Rejection of Cardiac Transplant",
+            "Left Ventricular Dysfunction",
+            "Cardiac Allograft Vasculopathy",
+            "Heart Graft Dysfunction"
+          ],
+          "keywords": [
+            "cardiac transplantation",
+            "immunosuppression",
+            "acute cellular rejection",
+            "antibody mediated rejection",
+            "sensitization",
+            "antibody production in cardiac patients",
+            "panel reactive antibodies",
+            "desensitization strategies in heart transplant patients",
+            "complement activation",
+            "complement c3d and c4d deposition",
+            "terminal complement inhibition",
+            "complement C5 binding",
+            "Eculizumab",
+            "monoclonal antibody",
+            "donor specific antibodies"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04058158",
+          "briefTitle": "A Study to Compare SB12 (Proposed Eculizumab Biosimilar) to Soliris in Subjects With Paroxysmal Nocturnal Haemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-08-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-08-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03500549",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of APL-2 in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-06-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-04-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05886244",
+          "briefTitle": "Eculizumab in Adult Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) in China"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-07-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-06-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "paroxysmal nocturnal hemoglobinuria",
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00122304",
+          "briefTitle": "Study of Safety in Hemolytic Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients Treated With Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2005-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemoglobinuria, Paroxysmal"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01303952",
+          "briefTitle": "Therapy of Chronic Cold Agglutinin Disease With Eculizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-02-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cold Agglutinin Disease"
+          ],
+          "keywords": [
+            "cold agglutinin disease",
+            "hemolysis",
+            "eculizumab",
+            "terminal complement inhibition"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00122330",
+          "briefTitle": "Study Using Eculizumab in Transfusion Dependent Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2005-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hemoglobinuria, Paroxysmal"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02946463",
+          "briefTitle": "ALXN1210 (Ravulizumab) Versus Eculizumab in Complement Inhibitor Treatment-Na\u00efve Adult Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-12-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-10-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00122317",
+          "briefTitle": "Extension Study of Eculizumab in Patients With Transfusion Dependent Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2005-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2005-07-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Hemoglobinuria, Nocturnal"
+          ],
+          "keywords": [
+            "transfusion dependent",
+            "paroxysmal nocturnal hemoglobinuria",
+            "hemolytic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01757431",
+          "briefTitle": "The Safety and Efficacy of Eculizumab in Japanese Patients With Atypical Hemolytic Uremic Syndrome (aHUS)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-05-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-12-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome (aHUS)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04170023",
+          "briefTitle": "Study of the Oral Factor D (FD) Inhibitor ALXN2050 in PNH Patients as Monotherapy"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2019-12-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-11-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "paroxysmal nocturnal hemoglobinuria",
+            "PNH",
+            "extravascular hemolysis",
+            "EVH",
+            "factor D inhibitor",
+            "complement",
+            "C5 inhibitor",
+            "danicopan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00844844",
+          "briefTitle": "Open Label Controlled Trial of Eculizumab in Adolescent Patients With Plasma Therapy-Resistant aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "aHUS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01919346",
+          "briefTitle": "Eculizumab for Prevention of Delayed Graft Function (DGF) in Kidney Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-08-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Delayed Graft Function",
+            "Kidney Transplantation",
+            "Complement Activity"
+          ],
+          "keywords": [
+            "Kidney Transplantation",
+            "Delayed Graft Function"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01410916",
+          "briefTitle": "Safety and Efficacy Study of Eculizumab in Shiga-Toxin Producing Escherichia Coli Hemolytic-Uremic Syndrome (STEC-HUS)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-08-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Shiga-like Toxin-producing Escherichia Coli"
+          ],
+          "keywords": [
+            "STEC-HUS",
+            "Shiga-like toxin-producing Escherichia Coli Hemolytic-Uremic Syndrome",
+            "uncontrolled complement activation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01327573",
+          "briefTitle": "Eculizumab Therapy for Chronic Complement-Mediated Injury in Kidney Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-04-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Kidney; Complications, Allograft"
+          ],
+          "keywords": [
+            "chronic kidney allograft injury",
+            "complement protein",
+            "eculizumab",
+            "Kidney transplantation"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06799546",
+          "briefTitle": "A Phase III Study to Evaluate the Efficacy and Safety of HSK39297 in Patients With Paroxysmal Nocturnal Hemoglobinuria Who Are Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2025-02-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-01-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    }
+  ]
+}

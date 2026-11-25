@@ -1,0 +1,11 @@
+{
+  "target": "IL5RA",
+  "as_of": "2017-04-15",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为本瑞利珠单抗（benralizumab，MEDI-563，KHK4563）。纳入研究开始日早于 2017-04-15 的患者试验。嗜酸粒细胞性肉芽肿性多血管炎 NCT03010436 的开始日就是冻结日，不计入。健康受试者试验不计入。针对 IL-5 配体的药物不计入。",
+  "known": [
+    {"name": "Asthma", "aliases": ["asthma", "哮喘"], "nct": "NCT00783289", "start": "2008-11-14"},
+    {"name": "Pulmonary Disease, Chronic Obstructive", "aliases": ["chronic obstructive pulmonary disease", "COPD", "慢性阻塞性肺疾病"], "nct": "NCT01227278", "start": "2010-11"},
+    {"name": "Hypereosinophilic Syndrome", "aliases": ["hypereosinophilic syndrome", "HES", "hypereosinophilia"], "nct": "NCT02130882", "start": "2014-05-19"},
+    {"name": "Eosinophilic Chronic Rhinosinusitis", "aliases": ["eosinophilic chronic rhinosinusitis", "ECRS"], "nct": "NCT02772419", "start": "2016-06"}
+  ]
+}

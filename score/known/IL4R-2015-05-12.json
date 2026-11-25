@@ -1,0 +1,10 @@
+{
+  "target": "IL4R",
+  "as_of": "2015-05-12",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为度普利尤单抗（REGN668，SAR231893）。纳入研究开始日早于 2015-05-12 的患者试验。嗜酸性食管炎 NCT02379052 的开始日就是冻结日，不计入。健康受试者试验不计入。",
+  "known": [
+    {"name": "Dermatitis, Atopic", "aliases": ["atopic dermatitis", "特应性皮炎"], "nct": "NCT01259323", "start": "2010-12"},
+    {"name": "Asthma", "aliases": ["asthma", "哮喘"], "nct": "NCT01312961", "start": "2011-03"},
+    {"name": "Nasal Polyps", "aliases": ["nasal polyposis", "chronic rhinosinusitis with nasal polyps", "鼻息肉"], "nct": "NCT01920893", "start": "2013-08"}
+  ]
+}

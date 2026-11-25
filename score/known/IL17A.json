@@ -1,0 +1,25 @@
+{
+  "target": "IL17A",
+  "as_of": "2016-07-11",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为司库奇尤单抗（AIN457）、依奇珠单抗（LY2439821）、比美吉珠单抗（UCB4940）。纳入研究开始日早于 2016-07-11 的患者试验。化脓性汗腺炎 NCT03099980 的开始日就是冻结日，不计入。健康受试者试验不计入。",
+  "known": [
+    {"name": "Arthritis, Rheumatoid", "aliases": ["rheumatoid arthritis", "类风湿关节炎"], "nct": "NCT00669942", "start": "2005-12"},
+    {"name": "Psoriasis", "aliases": ["plaque psoriasis", "chronic plaque psoriasis", "scalp psoriasis", "nail psoriasis", "genital psoriasis", "palmoplantar psoriasis", "银屑病"], "nct": "NCT00669916", "start": "2007-02"},
+    {"name": "Uveitis", "aliases": ["noninfectious uveitis", "non-infectious uveitis"], "nct": "NCT00685399", "start": "2008-06"},
+    {"name": "Crohn Disease", "aliases": ["Crohn's disease", "克罗恩病"], "nct": "NCT00584740", "start": "2008-08"},
+    {"name": "Spondylitis, Ankylosing", "aliases": ["ankylosing spondylitis", "强直性脊柱炎"], "nct": "NCT00809159", "start": "2009-03"},
+    {"name": "Arthritis, Psoriatic", "aliases": ["psoriatic arthritis", "银屑病关节炎"], "nct": "NCT00809614", "start": "2009-03"},
+    {"name": "Behcet Syndrome", "aliases": ["Behcet disease", "Behcet's disease"], "nct": "NCT00995709", "start": "2009-10"},
+    {"name": "Multiple Sclerosis", "aliases": ["relapsing-remitting multiple sclerosis", "RRMS", "多发性硬化"], "nct": "NCT01051817", "start": "2009-12"},
+    {"name": "Dry Eye Syndromes", "aliases": ["dry eye"], "nct": "NCT01250171", "start": "2010-11"},
+    {"name": "Polymyalgia Rheumatica", "aliases": ["polymyalgia rheumatica"], "nct": "NCT01364389", "start": "2011-02-14"},
+    {"name": "Asthma", "aliases": ["asthma"], "nct": "NCT01478360", "start": "2012-03"},
+    {"name": "Palmoplantar Pustular Psoriasis", "aliases": ["palmoplantar pustular psoriasis"], "nct": "NCT02008890", "start": "2013-12-26"},
+    {"name": "Diabetes Mellitus, Type 1", "aliases": ["type 1 diabetes", "type 1 diabetes mellitus", "1型糖尿病"], "nct": "NCT02044848", "start": "2014-02"},
+    {"name": "Axial Spondyloarthritis", "aliases": ["non-radiographic axial spondyloarthritis", "spondyloarthritis"], "nct": "NCT02696031", "start": "2016-04-29"},
+    {"name": "Dermatitis, Atopic", "aliases": ["atopic dermatitis", "特应性皮炎"], "nct": "NCT02594098", "start": "2015-11"},
+    {"name": "Alopecia Areata", "aliases": ["alopecia areata"], "nct": "NCT02599129", "start": "2015-11"},
+    {"name": "Dermatitis, Allergic Contact", "aliases": ["allergic contact dermatitis", "过敏性接触性皮炎"], "nct": "NCT02778711", "start": "2016-01"},
+    {"name": "Pyoderma Gangrenosum", "aliases": ["pyoderma gangrenosum"], "nct": "NCT02733094", "start": "2016-04"}
+  ]
+}

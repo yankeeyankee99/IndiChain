@@ -1,0 +1,2089 @@
+{
+  "totalCount": 68,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01624233",
+          "briefTitle": "A Study in Japanese Participants With Moderate-to-Severe Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-06-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03151551",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) Versus Adalimumab in Participants With Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-08-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-05-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01253265",
+          "briefTitle": "A Study in Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-12-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatoid Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02513550",
+          "briefTitle": "A Study Comparing Different Dosing Regimens of Ixekizumab (LY2439821) in Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-07-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06864026",
+          "briefTitle": "A Study to Investigate Effectiveness of Tirzepatide Following Initiation of Ixekizumab in Participants With Active Psoriatic Arthritis and Overweight or Obesity in Clinical Practice (TOGETHER AMPLIFY-PsA)"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis",
+            "Overweight or Obesity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02696798",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in TNF Inhibitor Experienced Participants With Radiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-04-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-03-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Spondyloarthritis"
+          ],
+          "keywords": [
+            "Ankylosing Spondylitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04537689",
+          "briefTitle": "Outcomes With Treatment and Withdraw of Ixekizumab in Patients With Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-12-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-09-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04724629",
+          "briefTitle": "Survival TRial Using CytoKines in COVID-19 (STRUCK Trial)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-01-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-01-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Covid19"
+          ],
+          "keywords": [
+            "Colchicine",
+            "Ixekizumab",
+            "Cytokine storm",
+            "Lung vasculitis",
+            "Recombinant Human Interleukin-2"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04372277",
+          "briefTitle": "Taltz in Combination With Enstilar for Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2020-04-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-05-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05042635",
+          "briefTitle": "Sequential Treatment of Psoriasis With Traditional Chinese and Western Medicine"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2021-10-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Plaque Psoriasis",
+            "Ixekizumab",
+            "Jueyin granules",
+            "Randomized controlled trial",
+            "Traditional Chinese medicine"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04610476",
+          "briefTitle": "Impact of Tapering Immunosuppressants on Maintaining Minimal Disease Activity in Adult Subjects With Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2020-10-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-10-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis",
+            "Withdrawal",
+            "Reduction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04083612",
+          "briefTitle": "Therapeutic Drug Monitoring of Ixekizumab in Psoriasis Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-05-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-09-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis Vulgaris"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "Therapeutic drug monitoring",
+            "Ixekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07138898",
+          "briefTitle": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-08-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatic Disease"
+          ],
+          "keywords": [
+            "rheumatoid arthritis",
+            "psoriatic arthritis",
+            "ankylosing spondylitis",
+            "systemic lupus erythematosus",
+            "juvenile idiopathic arthritis",
+            "spondyloarthritis",
+            "polymyalgia rheumatica",
+            "giant cell arteritis",
+            "vasculitis",
+            "granulomatosis with polyangiitis",
+            "dermatomyositis",
+            "polymyositis",
+            "inflammatory bowel disease-associated arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02993471",
+          "briefTitle": "A Study of Ixekizumab in Participants With Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-12-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-12-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04259346",
+          "briefTitle": "A Study of Two Formulations of Ixekizumab in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-02-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-02-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07200986",
+          "briefTitle": "Study to Compare Pharmacokinetics and Safety of CT-P52 and US-licensed Taltz in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-09-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-10-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01107457",
+          "briefTitle": "A Study in Participants With Moderate to Severe Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-04-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ],
+          "keywords": [
+            "Moderate",
+            "Severe",
+            "Plaque",
+            "Chronic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07789964",
+          "briefTitle": "A Study to Compare the Pharmacokinetics, Safety, Tolerability, and Immunogenicity of SB35 (Proposed Ixekizumab Biosimilar) to Taltz in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02584855",
+          "briefTitle": "A Long-Term Efficacy and Safety Study of Ixekizumab (LY2439821) in Participants With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-09-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-10-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Spondyloarthritis",
+            "Spondylarthropathy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03942042",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants in Japan With Generalized Pustular Psoriasis and Erythrodermic Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-07-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-05-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Generalized Pustular Psoriasis",
+            "Erythrodermic Psoriasis"
+          ],
+          "keywords": [
+            "Generalized Pustular Psoriasis (GPP)",
+            "Erythrodermic Psoriasis (EP)",
+            "Japan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01236118",
+          "briefTitle": "A Study of LY2439821 in Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2010-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2010-11-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatoid Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04102007",
+          "briefTitle": "A Study of the Safety and Efficacy of Risankizumab in Adult Participants With Plaque Psoriasis Who Have Had a Suboptimal Response to Secukinumab or Ixekizumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-11-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-09-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Plaque Psoriasis Risankizumab Secukinumab Ixekizumab Psoriasis Biologic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02543918",
+          "briefTitle": "A Study of the Immune Response to Vaccines and Ixekizumab (LY2439821) in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-09-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01646177",
+          "briefTitle": "A Study in Participants With Moderate to Severe Psoriasis (UNCOVER-3)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-07-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-07-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07149792",
+          "briefTitle": "A Multi-center RCT Clinical Trial on Personalized Precision Medicine for Patients With Psoriasis and Psoriatic Arthritis and Investigation on Cardiovascular Biomarkers"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Psoriasis Arthritis",
+            "Biologics"
+          ],
+          "keywords": [
+            "Prescreen, Biologics, Psoriasis, Strategic selection, Psoriatic arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05080218",
+          "briefTitle": "COVID-19 VaccinE Response in Rheumatology Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-11-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-10-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatoid Arthritis",
+            "Psoriatic Arthritis",
+            "Spondylarthritis"
+          ],
+          "keywords": [
+            "rheumatoid arthritis",
+            "COVID vaccine booster",
+            "spondyloarthritis",
+            "psoriatic arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04589325",
+          "briefTitle": "Ixekizumab Diabetes Intervention Trial (I-DIT)"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2022-11-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-10-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Type1 Diabetes Mellitus"
+          ],
+          "keywords": [
+            "Type 1 diabetes",
+            "New-onset",
+            "MMTT",
+            "Ixekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03364309",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Chinese Participants With Moderate-to-Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-04-26"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "plaque psoriasis",
+            "ixekizumab",
+            "skin condition",
+            "skin disease",
+            "itching",
+            "psoriasis vulgaris",
+            "immune-mediated systemic disease",
+            "skin lesions",
+            "scaly patches",
+            "papules"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02718898",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Genital Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-03-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Genital Psoriasis",
+            "Psoriasis"
+          ],
+          "keywords": [
+            "genital"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06588283",
+          "briefTitle": "Ixekizumab Concomitantly Administered With Tirzepatide in Adults With Moderate-to-Severe Plaque Psoriasis and Obesity or Overweight"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-09-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Obesity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06945107",
+          "briefTitle": "A Study of Switching to Picankibart in Chinese Patients With Plaque Psoriasis With an Inadequate Response to Interleukin-17 Monoclonal Antibody Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-05-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-04-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05030415",
+          "briefTitle": "Ixekizumab in Adult Patients With Lichen Planus and Lichen Planopilaris"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-08-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lichen Planus Scalp",
+            "Lichen Planus",
+            "Lichen Planopilaris"
+          ],
+          "keywords": [
+            "IL17 lichen planus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "EARLY_PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07352566",
+          "briefTitle": "Utilization of a Microdevice for Psoriasis and Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05309616",
+          "briefTitle": "Effects of Interleukin (IL)-17A Inhibition on Idiopathic Subglottic Stenosis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2025-02-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-04-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Idiopathic Subglottic Stenosis"
+          ],
+          "keywords": [
+            "IL-17a inhibition"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00966875",
+          "briefTitle": "A Study in Patients With Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-08-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatoid Arthritis"
+          ],
+          "keywords": [
+            "rheumatoid arthritis",
+            "RA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03137160",
+          "briefTitle": "An Open-Label, Proof-of-Concept Study of Ixekizumab in the Treatment of Pyoderma Gangrenosum"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-05-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-05-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pyoderma Gangrenosum"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02349295",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-12-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-01-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03485976",
+          "briefTitle": "Ixekizumab in the Treatment of Pityriasis Rubra Pilaris (PRP)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-05-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-04-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pityriasis Rubra Pilaris"
+          ],
+          "keywords": [
+            "Ixekizumab",
+            "IL-17",
+            "Pityriasis Rubra Pilaris (PRP)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04527380",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Children With Juvenile Idiopathic Arthritis Categories of Enthesitis-related Arthritis (Including Juvenile Onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-04-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-08-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Juvenile Psoriatic Arthritis",
+            "Enthesitis Related Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03848403",
+          "briefTitle": "Study of Ixekizumab in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2019-01-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-02-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04285229",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Chinese Participants With Radiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-04-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-02-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Spondyloarthritis"
+          ],
+          "keywords": [
+            "Ankylosing spondylitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01597245",
+          "briefTitle": "A Phase 3 Study in Participants With Moderate to Severe Psoriasis (UNCOVER-2)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-05-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-05-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06398106",
+          "briefTitle": "Proactive TDM Versus Standard Use of Biologics in Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-05-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis Vulgaris"
+          ],
+          "keywords": [
+            "Therapeutic drug monitoring",
+            "Biologics"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02757352",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants With Nonradiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-08-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-05-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Axial Spondyloarthritis"
+          ],
+          "keywords": [
+            "ankylosing",
+            "nonradiographic spondyloarthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02561806",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-09-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03099538",
+          "briefTitle": "Ixekizumab in the Treatment of Bullous Pemphigoid"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-08-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-04-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bullous Pemphigoid",
+            "Pemphigoid"
+          ],
+          "keywords": [
+            "Ixekizumab",
+            "Bullous Pemphigoid",
+            "Pemphigoid",
+            "IL17",
+            "IL-17",
+            "Interleukin 17"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05503875",
+          "briefTitle": "Immunoclassification of Psoriasis: a Strategy for Precision Medicine"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-01-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-08-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Immunoclassification",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03129100",
+          "briefTitle": "A Long Term Extension Study of Ixekizumab (LY2439821) in Participants With Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-05-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Axial Spondyloarthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06811558",
+          "briefTitle": "Ixekizumab Versus Secukizumab in Over 70-year-old Patients with Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-02-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Over 70-year-old Patients with Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03073213",
+          "briefTitle": "A Study of Ixekizumab in Chinese Participants With Psoriasis Vulgaris"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-04-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-03-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07443956",
+          "briefTitle": "Combination of Biologic and Anti-obesity Therapies in Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-03-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis (PsA)",
+            "Obesity & Overweight"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "Obesity",
+            "PsA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06374979",
+          "briefTitle": "Efficacy and Safety of Ixekizumab in Patients with Refractory Guttate Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2025-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Guttate Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01474512",
+          "briefTitle": "A Phase 3 Study in Participants With Moderate to Severe Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-11-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-11-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01777191",
+          "briefTitle": "Evaluation of Ixekizumab Using Auto-Injector or Prefilled Syringe in Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-01-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06085079",
+          "briefTitle": "Ixekizumab for the Management of Refractory Non-Infectious Uveitis: A Proof-of-Concept Study"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2022-06-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-10-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Uveitis, Posterior",
+            "Uveitis, Anterior",
+            "Uveitis, Intermediate",
+            "Panuveitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03073200",
+          "briefTitle": "Study of Ixekizumab (LY2439821) in Children 6 to Less Than 18 Years With Moderate-to-Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-03-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-03-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "children",
+            "psoriasis treatment",
+            "adolescents"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06588296",
+          "briefTitle": "Ixekizumab Concomitantly Administered With Tirzepatide in Adults With Psoriatic Arthritis and Obesity or Overweight"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-09-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis",
+            "Obesity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01695239",
+          "briefTitle": "A Study of Ixekizumab in Participants With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2012-09-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis, Arthritic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01870284",
+          "briefTitle": "Study of Ixekizumab in Participants With Active Ankylosing Spondylitis (AS)"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2014-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-06-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Spondylitis, Ankylosing"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03848416",
+          "briefTitle": "A Study of Ixekizumab in Healthy Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-01-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-02-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05855967",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants Aged \u226518 Years With Moderate-to-Severe Plaque or Active Psoriatic Arthritis in India"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-06-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-05-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis",
+            "Psoriatic Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03573323",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) Compared to Guselkumab in Participants With Moderate-to-Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-11-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-06-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "biologic",
+            "biologic therapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04340076",
+          "briefTitle": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-08-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Psoriasis Vulgaris"
+          ],
+          "keywords": [
+            "skin diseases",
+            "skin diseases (papulosquamous)",
+            "biologicals",
+            "IL17 inhibitors",
+            "IL23 inhibitors",
+            "dose reduction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02634801",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque Psoriasis Naive to Systemic Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-01-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-12-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Fumaderm"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02696785",
+          "briefTitle": "A Study of Ixekizumab (LY2439821) in bDMARD-Naive Participants With Radiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-05-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-03-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Spondyloarthritis"
+          ],
+          "keywords": [
+            "Ankylosing Spondylitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02387801",
+          "briefTitle": "A Study of the Early Activity of Ixekizumab (LY2439821) in Moderate-to-Severe Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-03-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06857942",
+          "briefTitle": "A Study to Investigate the Effectiveness of Tirzepatide (LY3298176) Following Initiation of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque PsO and Obesity or Overweight in Clinical Practice (TOGETHER AMPLIFY-PsO)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Overweight or Obesity"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04979910",
+          "briefTitle": "Targeting IL-17A for Treatment-Resistant Depression"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-08-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-07-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Major Depressive Disorder"
+          ],
+          "keywords": [
+            "depression",
+            "investigational medication",
+            "treatment resistant depression",
+            "inflammation",
+            "ixekizumab",
+            "major depressive disorder"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    }
+  ]
+}

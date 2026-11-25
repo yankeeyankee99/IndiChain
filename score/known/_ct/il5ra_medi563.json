@@ -1,0 +1,2143 @@
+{
+  "totalCount": 121,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03186209",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab in Patients With Uncontrolled Asthma on Medium to High Dose Inhaled Corticosteroid Plus LABA (MIRACLE)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04272463",
+          "briefTitle": "ChAracterisation of ItaliaN Severe Uncontrolled Asthmatic patieNts Key Features When Receiving Benralizumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-03-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04612725",
+          "briefTitle": "A Study to Investigate the Use of Benralizumab in Patients With Chronic Spontaneous Urticaria Who Are Symptomatic Despite the Use of Antihistamines (ARROYO)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-10-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04102800",
+          "briefTitle": "Benralizumab Exacerbation Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-09-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04617171",
+          "briefTitle": "Benralizumab Initiated During Severe Asthma Attack"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-06-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma Attack",
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06126692",
+          "briefTitle": "3TR Asthma Biologics Cohort (ABC) Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03473977",
+          "briefTitle": "Benralizumab for Eosinophilic Gastritis (BEGS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Gastritis or Gastroenteritis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03450083",
+          "briefTitle": "Benralizumab Effect on Severe Chronic Rhinosinusitis With Eosinophilic Polyposis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis (Diagnosis)",
+            "Nasal Polyps",
+            "Eosinophilia"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04552288",
+          "briefTitle": "Study of Benralizumab in People With Skin Side Effects Caused by Cancer Therapies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Solid Tumor",
+            "Solid Carcinoma",
+            "Solid Tumor, Adult",
+            "Hematologic Malignancy"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07159295",
+          "briefTitle": "Study in Portuguese Hospitals to Describe Patient Characteristics, Treatment Patterns and Outcomes"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-08-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05180357",
+          "briefTitle": "RANS. Study in Patients With Severe Eosinophilic Asthma and Nasal Polyps."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma",
+            "Nasal Polyps"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00659659",
+          "briefTitle": "A Study to Evaluate the Safety, Tolerability and Effects of MEDI-563 in Adults With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02772419",
+          "briefTitle": "Study of Benralizumab (KHK4563) in Patients With Eosinophilic Chronic Rhinosinusitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Chronic Rhinosinusitis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06288516",
+          "briefTitle": "BenRalizumab Effect on Airway Remodeling in Severe asTHma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-03-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma; Eosinophilic",
+            "Airway Remodeling"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03953300",
+          "briefTitle": "Benralizumab Airway Remodeling Study in Severe Eosinophilic Asthmatics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05384938",
+          "briefTitle": "FAsenra Safety Trial in India"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-11-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "In Adult Patients of Severe Asthma With Eosinophilic Phenotype in India"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06734884",
+          "briefTitle": "Interest of a Targeted Therapy for the Treatment of a Severe Form of Hypersensitivity to Drug (DRESS Syndrome)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2027-01-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "DRESS Syndrome"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02869438",
+          "briefTitle": "A Study to Evaluate the Onset of Effect and Time Course of Change in Lung Function With Benralizumab in Severe, Uncontrolled Asthma Patients With Eosinophilic Inflammation"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02821416",
+          "briefTitle": "Study to Evaluate the Effect of Benralizumab on Allergen-Induced Inflammation in Mild, Atopic Asthmatics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-10-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05972213",
+          "briefTitle": "Phenotypic and Functional Characterization of Neutrophils and Eosinophils in Severe Asthma Treated With Biotherapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05528913",
+          "briefTitle": "Benralizumab in Chronic Prurigo - Investigating Clinical Efficacy (BICPIC)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Prurigo"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03470311",
+          "briefTitle": "Benralizumab in Patients With Inadequate Response to Anti-IL5 Monoclonal Antibody Therapies"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Prednisone Dependent Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06862206",
+          "briefTitle": "This is a Non-interventional, Study to Assess Demographic Characteristics and Patient Reported Outcomes in China Patients With SEA Treated With Benralizumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-07-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02075255",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab to Reduce OCS Use in Patients With Uncontrolled Asthma on High Dose Inhaled Corticosteroid Plus LABA and Chronic OCS Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-04-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04108962",
+          "briefTitle": "Benralizumab in the Treatment of Patients With Severe Asthma With ABPA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "ABPA",
+            "Severe Asthma",
+            "Allergic Bronchopulmonary Aspergillosis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05091333",
+          "briefTitle": "FASENRA Regulatory Postmarketing Surveillance in Korea"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma, EGPA(Eosinophilic Granulomatosis With Polyangiitis)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04126499",
+          "briefTitle": "Study to Characterise Patients Receiving Benralizumab in the Framework of an Individualized Access Program in Spain"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-01-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07530770",
+          "briefTitle": "Real-World Effectiveness of Benralizumab in Allergic Bronchopulmonary Aspergillosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-09-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Bronchopulmonary Aspergillosis",
+            "Severe Asthma",
+            "ABPA"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02918071",
+          "briefTitle": "Study to Assess Functionality, Reliability, and Performance of a Single-Use Auto-Injector With Benralizumab Administered at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-11-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06512883",
+          "briefTitle": "A Trial to Investigate Benralizumab in Children With Eosinophilic Diseases"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-04-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+            "Hypereosinophilia Syndrome (HES)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06348173",
+          "briefTitle": "Response and Remission to Treatment With Anti-IL5/IL5R Antagonists"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-06-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {}
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04157348",
+          "briefTitle": "Efficacy and Safety of Benralizumab in EGPA Compared to Mepolizumab."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Granulomatous Vasculitis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03833141",
+          "briefTitle": "Patient Reported Outcomes in Adults With Severe Eosinophilic Asthma on Benralizumab."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-11-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04718389",
+          "briefTitle": "A Study of GSK3511294 (Depemokimab) Compared With Mepolizumab or Benralizumab in Participants With Severe Asthma With an Eosinophilic Phenotype"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-01-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00783289",
+          "briefTitle": "A Phase 2a Study to Evaluate the Safety and Tolerability of Benralizumab (MEDI-563) in Adults With Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2008-11-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06750289",
+          "briefTitle": "Randomised Clinical Trial to Investigate Efficacy and Safety of Benralizumab 30 mg SC as an add-on Therapy in Uncontrolled Eosinophilic Asthma Patients Treated With Medium-dose ICS-LABA Compared to Conventional Escalation to High-dose ICS-LABA Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04612790",
+          "briefTitle": "A Study to Investigate the Use of Benralizumab in Patients With Bullous Pemphigoid."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-03-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bullous Pemphigoid"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02814643",
+          "briefTitle": "Study to Evaluate the Potential Effect of Benralizumab on the Humoral Immune Response to the Seasonal Influenza Vaccination in Adolescent and Young Adult Patients With Severe Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-07-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03794999",
+          "briefTitle": "Benralizumab Pregnancy Exposure Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-03-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06239441",
+          "briefTitle": "Effectiveness of Anti-IL-5/IL5R Inhibitors"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03588546",
+          "briefTitle": "FASENRA SCEI for Long-term Use"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-05-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07654842",
+          "briefTitle": "Fasenra: An Asthma Study"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Asthma",
+            "Severe Asthma",
+            "Severe Eosinophilic Asthma",
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04365205",
+          "briefTitle": "Effect of Benralizumab on Airway Remodeling in Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04200326",
+          "briefTitle": "Real-life First Dose Effect of Fasenra in Patients With Severe Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Uncontrolled Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06024707",
+          "briefTitle": "Fluctuation Analyses of Asthma Patients With Biologics Use"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05251909",
+          "briefTitle": "Efficacy and Safety of Benralizumab in Patients With Eosinophilic Gastritis and/or Gastroenteritis (The HUDSON GI Study)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-01-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Gastritis",
+            "Eosinophilic Gastroenteritis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06456450",
+          "briefTitle": "Taiwan Severe Asthma Biologic Registry"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-11-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pulmonary Disease",
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05932849",
+          "briefTitle": "Benralizumab Patient Access Programme Study: Retrospective Study in UK Severe Asthma Centres"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06385236",
+          "briefTitle": "Leveraging Pharmacogenomics in Asthma for Predication, Mechanism and Endotyping"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00512486",
+          "briefTitle": "A Sequential Dose-Escalation Study in Subjects With Mild Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2006-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04565483",
+          "briefTitle": "Predictive Signature of Benralizumab Response"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-10-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma; Eosinophilic",
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01914757",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab in Adults and Adolescents Inadequately Controlled on Inhaled Corticosteroid Plus Long-acting \u03b22 Agonist"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01238861",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of MEDI-563 in Adults With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01227278",
+          "briefTitle": "A Study to Evaluate the Effectiveness of MEDI-563 in Subjects With Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2010-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pulmonary Disease, Chronic Obstructive"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03401229",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab for Patients With Severe Nasal Polyposis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyposis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01947946",
+          "briefTitle": "Efficacy and Safety Study of Benralizumab Added to Medium-dose Inhaled Corticosteroid Plus LABA in Patients With Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2013-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02130882",
+          "briefTitle": "Study to Evaluate Safety and Efficacy of Benralizumab in Subjects With Hypereosinophilic Syndrome"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-05-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Respiratory System Agents",
+            "Anti-Asthmatic Agents",
+            "Hematologic Diseases",
+            "Leukocyte Disorders",
+            "Hypereosinophilia"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03563066",
+          "briefTitle": "Effect of Benralizumab in Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-09-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Dermatitis, Atopic",
+            "Dermatitis",
+            "Eczema",
+            "Skin Diseases",
+            "Skin Diseases, Genetic",
+            "Genetic Diseases, Inborn",
+            "Skin Diseases, Eczematous",
+            "Hypersensitivity",
+            "Hypersensitivity, Immediate",
+            "Immune System Diseases"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05966584",
+          "briefTitle": "A Study to Prevent Rash in People Starting Alpelisib for the Treatment of Breast Cancer"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-07-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Breast Cancer"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05270278",
+          "briefTitle": "Characteristics of Type 2- High Inflammatory Endotype of Asthma Using New Biomarkers From Peripheral Blood and Exhaled Air and Its Effect on the Outcome of Therapy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-08-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma; Eosinophilic",
+            "Asthma Chronic",
+            "Bronchial Asthma",
+            "Asthma, Bronchial"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02155660",
+          "briefTitle": "Efficacy and Safety of Benralizumab in Moderate to Very Severe Chronic Obstructive Pulmonary Disease (COPD) With Exacerbation History"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Very Severe Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04158050",
+          "briefTitle": "Comparison of Biologicals in Treatment of Severe Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2018-01-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {}
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05692180",
+          "briefTitle": "A Multicentre, Randomised, Double-blind, Parallel Group, Placebo-controlled, Time-to-first Asthma Exacerbation Phase III Efficacy and Safety Study of Benralizumab in Paediatric Patients With Severe Eosinophilic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05271526",
+          "briefTitle": "Real World Evidence of Benralizumab in Eosinophilic Severe AsThma in Russia (BEST)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-05-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04181190",
+          "briefTitle": "Effects of Anti-IL5 Biological Treatments on Blood IgE Levels in Severe Asthmatic Patients"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-10-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Asthma; Eosinophilic"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04184284",
+          "briefTitle": "Change in Patient-Reported Outcomes in Severe Eosinophilic Asthma Patients Treated With Benralizumab Under Real-life Conditions"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04543409",
+          "briefTitle": "A Study of Benralizumab in Patients With Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02138916",
+          "briefTitle": "Benralizumab Efficacy in Moderate to Very Severe Chronic Obstructive Pulmonary Disease (COPD) With Exacerbation History"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2014-06-13"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Very Severe Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04256772",
+          "briefTitle": "Anti-IL5 and Other Biotherapies in Cystic Fibrosis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-07-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cystic Fibrosis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04185012",
+          "briefTitle": "NAsal Polyps: Inflammatory & Molecular Phenotyping of Responders to Benralizumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-02-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nasal Polyps"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03733535",
+          "briefTitle": "Evaluating the Effect of Benralizumab in Severe, Poorly-controlled Eosinophilic Asthma Using Inhaled Hyperpolarized 129-Xenon MRI"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-03-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma; Eosinophilic"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04221802",
+          "briefTitle": "Patient-reported Outcomes in Real-world Use of Benralizumab in Patients With Severe Eosinophilic Asthma in Belgium"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-12-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04605094",
+          "briefTitle": "Efficacy and Safety Study of the Use of Benralizumab for Patients With Moderate to Severe Atopic Dermatitis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-11-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04305405",
+          "briefTitle": "PK/PD and Long Term Safety Study of Benralizumab in Children With Severe Eosinophilic Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Uncontrolled Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03183024",
+          "briefTitle": "Treatment of Chronic Urticarial Unresponsive to H1-antihistamines With an Anti-IL5Ralpha Monoclonal Antibody"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-09-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Idiopathic Urticaria"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05228041",
+          "briefTitle": "BIOlogics in Severe Nasal POlyposis SurvEy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-02-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00768079",
+          "briefTitle": "A Phase 2 Study to Evaluate the Safety and Efficacy of Intravenously Administered Benralizumab (MEDI-563)."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2009-02-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05273359",
+          "briefTitle": "Immunological Basis for Benralizumab Activity in Chronic Obstructive Pulmonary Disease (COPD)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07815886",
+          "briefTitle": "Benralizumab Effectiveness in EGPA"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-02-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Granulomatosis With Polyangiitis (EGPA)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07823842",
+          "briefTitle": "T2AIR: Real-World Efficacy and Safety of Biologics Targeting Type 2 Inflammation in Asthma and COPD"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "COPD (Chronic Obstructive Pulmonary Disease)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04053634",
+          "briefTitle": "Efficacy and Safety of Benralizumab in Moderate to Very Severe Chronic Obstructive Pulmonary Disease (COPD) With a History of Frequent Exacerbations"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-08-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06261567",
+          "briefTitle": "A Retrospective Chart Review to Investigate Clinical Remission in Patients With Severe Asthma Treated With Biologics in the United Kingdom National Health Service"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-02-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07602881",
+          "briefTitle": "Blood Exosomal Multi-omics and Lung Radiomics for Predicting Efficacy and Prognosis of Severe Eosinophilic ACOS With Biologics"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-06-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic ACOS (Asthma-COPD Overlap)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03907137",
+          "briefTitle": "Real World Study With Benralizumab in Severe Asthma in Switzerland"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-01-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07444567",
+          "briefTitle": "Roll-over Study for Participants Who Have Completed a Previous Clinical Study With Benralizumab (Fasenra) and Benefit From Continued Treatment"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2026-07-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Eosinophilic Granulomatosis With Polyangiitis (EGPA)",
+            "Hypereosinophilic Syndrome (HES)"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04648839",
+          "briefTitle": "Observational Retrospective Study on Clinical Outcomes of Patients Receiving Benralizumab in Spain."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-02-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05847452",
+          "briefTitle": "Beyond the Eosinophil: Understanding the Impact of Eosinophil Depletion on T2 Inflammation. (BEUTI)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2023-05-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02808819",
+          "briefTitle": "A Safety Extension Study With Benralizumab for Asthmatic Adults on Inhaled Corticosteroid Plus Long-acting \u03b22 Agonist"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2016-06-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06427876",
+          "briefTitle": "Fasenra Pediatric Japan Post-Marketing Study(PMS)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2024-07-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bronchial Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02417961",
+          "briefTitle": "Study to Assess Functionality, Reliability, and Performance of a Pre-filled Syringe With Benralizumab Administered at Home"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-04-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02968914",
+          "briefTitle": "Pharmacokinetic Comparability of Benralizumab Using Accessorized Pre-Filled Syringe or Autoinjector in Healthy Volunteers"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-01-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Chronic Obstructive Pulmonary Disease"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04191304",
+          "briefTitle": "A Phase III Study to Evaluate the Efficacy and Safety of Benralizumab in Patients With Hypereosinophilic Syndrome (HES)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hypereosinophilic Syndrome"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02322775",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of Benralizumab in Adult Patients With Mild to Moderate Persistent Asthma"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2015-02-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05006573",
+          "briefTitle": "Efficacy and Safety of Benralizumab in Patients With Non-cystic Fibrosis Bronchiectasis"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2021-07-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Non-cystic Fibrosis Bronchiectasis"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07218172",
+          "briefTitle": "Characterization and Clinical Outcomes of Severe Asthma Patients in Israel Treated With Benralizumab (SAIL-B)"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-03-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05552508",
+          "briefTitle": "BURAN: Benralizumab on Airway Dynamics in Severe Eosinophilic Asthma Using Functional Respiratory Imaging"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2022-10-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03170271",
+          "briefTitle": "A Study of the Safety and Effectiveness of Benralizumab to Treat Patients With Severe Uncontrolled Asthma."
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2017-07-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03928262",
+          "briefTitle": "Pharmacokinetic Study of Benralizumab in Healthy Chinese Subjects"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2019-04-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Subjects"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": true
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07214753",
+          "briefTitle": "A Real-life Observational Study in Severe Eosinophilic Asthma Adult Participant Treated With Benralizumab in Italy"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2025-12-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04159519",
+          "briefTitle": "A Study to Assess the Reduction of Daily Maintenance ICS/LABA Treatment Towards Anti-Inflammatory Reliever Treatment in Patients With Severe Eosinophilic Asthma Treated With Benralizumab"
+        },
+        "statusModule": {
+          "startDateStruct": {
+            "date": "2020-07-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Severe Eosinophilic Asthma"
+          ]
+        },
+        "eligibilityModule": {
+          "healthyVolunteers": false
+        }
+      }
+    }
+  ],
+  "nextPageToken": "ZVNj7o2Elu8o3lpyDcD4qbWtmpOQJJxsZvig2vYdkA"
+}

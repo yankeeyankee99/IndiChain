@@ -1,0 +1,97 @@
+{
+  "totalCount": 3,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03446144",
+          "briefTitle": "Safety and Efficacy of IONIS-FB-Lrx in up to 120 Patients 55 and Older With Geographic Atrophy (GA) Secondary to Age-Related Macular Degeneration (AMD)"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2018-03-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-02-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Geographic Atrophy",
+            "Age Related Macular Degeneration"
+          ],
+          "keywords": [
+            "Geographic Atrophy",
+            "Age Related Macular Degeneration",
+            "IONIS-FB-Lrx",
+            "Complement Factor B"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03815825",
+          "briefTitle": "GOLDEN STUDY: A Study to Assess Safety and Efficacy of Multiple Doses of IONIS-FB-LRx in Participants With Geographic Atrophy Secondary to Age-Related Macular Degeneration (AMD)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-03-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-01-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Macular Degeneration",
+            "Geographic Atrophy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04014335",
+          "briefTitle": "A Study to Evaluate the Effectiveness and Safety of IONIS-FB-LRx, an Antisense Inhibitor of Complement Factor B, in Adult Participants With Primary IgA Nephropathy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-12-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-07-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Primary IgA Nephropathy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    }
+  ]
+}

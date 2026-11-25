@@ -1,0 +1,97 @@
+{
+  "totalCount": 3,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00048308",
+          "briefTitle": "Effect of Pexelizumab on All-Cause Mortality and Myocardial Infarction in Patients Undergoing Coronary Artery Bypass Graft Surgery With Cardio-Pulmonary Bypass"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2002-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2002-10-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cardio-pulmonary Bypass",
+            "Coronary Artery Bypass Graft"
+          ],
+          "keywords": [
+            "CABG"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00091637",
+          "briefTitle": "Pexelizumab in Conjunction With Angioplasty in Acute Myocardial Infarction (APEX-AMI)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2004-09-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Acute Myocardial Infarction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00088179",
+          "briefTitle": "Pexelizumab in Patients Undergoing Coronary Artery Bypass Grafting With Cardiopulmonary Bypass (PRIMO-CABG II)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2004-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2004-07-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Coronary Artery Disease"
+          ],
+          "keywords": [
+            "CABG",
+            "CPB"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    }
+  ]
+}

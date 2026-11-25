@@ -1,0 +1,12 @@
+{
+  "target": "Kv1.3",
+  "as_of": "2026-04-30",
+  "source": "nominate结果/Kv1.3提名新颖性对照.docx",
+  "known": [
+    {"name": "Psoriasis", "aliases": ["plaque psoriasis", "银屑病"]},
+    {"name": "Multiple Sclerosis", "aliases": ["多发性硬化"]},
+    {"name": "Arthritis, Rheumatoid", "aliases": ["rheumatoid arthritis", "类风湿关节炎"]},
+    {"name": "Diabetes Mellitus, Type 1", "aliases": ["type 1 diabetes", "type 1 diabetes mellitus", "1型糖尿病"]},
+    {"name": "Dermatitis, Allergic Contact", "aliases": ["allergic contact dermatitis", "过敏性接触性皮炎"]}
+  ]
+}

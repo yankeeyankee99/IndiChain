@@ -1,0 +1,1708 @@
+{
+  "totalCount": 51,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07013123",
+          "briefTitle": "Potency of HDM Sublingual AIT Tablets in Assuring the Persistency of Asthma Control in HDM Allergic Patients With Severe Asthma, Treated With Tezepelumab"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-06-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma",
+            "Allergy to House Dust Mites"
+          ],
+          "keywords": [
+            "Asthma",
+            "Dust Mite Allergy",
+            "Allergen immunotherapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07771855",
+          "briefTitle": "Efficacy of an Anti-TSLP Monoclonal Antibody in the Management of Chronic Bronchial Disease Induced by Bronchiolitis Obliterans Syndrome in Allogeneic Hematopoietic Stem Cells Transplantation Recipients"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bronchiolitis Obliterans Syndrome (BOS)",
+            "HSCT",
+            "Bronchial Disease"
+          ],
+          "keywords": [
+            "Efficacy anti-TSLP monoclonal antibody (tezepelumab) in chronic bronchial disease induced Bronchiolitis obliterans syndrome (BOS) in HSCT recipient.",
+            "BOS",
+            "HSCT",
+            "tezepzlumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03406078",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of Tezepelumab in Reducing Oral Corticosteroid Use in Adults With Oral Corticosteroid Dependent Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-03-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07363642",
+          "briefTitle": "Phase 3b Study in Patients With Severe Asthma Treated With Tezepelumab"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-01-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "Severe Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06740045",
+          "briefTitle": "Opening the \"Black Box\" on Tezepelumab's Effect on Chronic Rhinosinusitis With Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-12-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03706079",
+          "briefTitle": "Extension Study to Evaluate the Safety and Tolerability of Tezepelumab in Adults and Adolescents With Severe, Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-01-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma, Uncontrolled Asthma, Severe Uncontrolled Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05507242",
+          "briefTitle": "Effects of Blocking TSLP on Airway Inflammation and the Epithelial Immune-response to Exacerbation Triggers in Patients With COPD"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2022-10-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-08-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "COPD",
+            "COPD Exacerbation",
+            "COPD Bronchitis",
+            "Airway Disease",
+            "Immune System Disorder"
+          ],
+          "keywords": [
+            "COPD"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05280418",
+          "briefTitle": "Tezepelumab on Airway Structure and Function in Patients With Uncontrolled Moderate-to-severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-11-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05583227",
+          "briefTitle": "Efficacy and Safety of Tezepelumab in Patients With Eosinophilic Esophagitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2022-11-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-10-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Eosinophilic Esophagitis"
+          ],
+          "keywords": [
+            "Chronic Esophagitis",
+            "Eosinophilic Esophagitis",
+            "Eosinophilic"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02698501",
+          "briefTitle": "Effects of Anti-TSLP in Patients With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-03-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Airway hyperresponsiveness",
+            "TSLP",
+            "Mast cell",
+            "Eosinophil"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03968978",
+          "briefTitle": "Tezepelumab Home Use Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-05-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-05-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma, Severe Uncontrolled Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07015996",
+          "briefTitle": "Efficacy of Tezepelumab in Peanut Oral Immunotherapy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-06-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Peanut Allergy"
+          ],
+          "keywords": [
+            "Tezepelumab",
+            "Peanut",
+            "Oral Immunotherapy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04833855",
+          "briefTitle": "Study to Evaluate Tezepelumab in Adults With Chronic Spontaneous Urticaria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-04-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "keywords": [
+            "CSU"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07757841",
+          "briefTitle": "Real-World Effectiveness of Tezepelumab in Allergic Bronchopulmonary Aspergillosis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Allergic Bronchopulmonary Aspergillosis",
+            "Severe Asthma",
+            "ABPA"
+          ],
+          "keywords": [
+            "ABPA",
+            "Tezepelumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06023589",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Tezepelumab Compared With Placebo in Children 5 to < 12 Years Old With Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-08-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-09-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Uncontrolled Asthma",
+            "Severe Uncontrolled Asthma",
+            "Human monoclonal antibody (IgG2\u03bb) cytokine"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06473779",
+          "briefTitle": "Open-label Study to Assess Reduction of Background Asthma Medication While Sustaining Asthma Control and Clinical Remission With Tezepelumab in Patients 12-80yrs With Severe Asthma."
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-09-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-06-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "Severe Asthma",
+            "ICS reduction",
+            "Asthma control",
+            "Clinical remission"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06189742",
+          "briefTitle": "Tezepelumab in Allergic Rhinitis and Asthma Study (TEZARS)"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-01-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma With Allergic Rhinitis"
+          ],
+          "keywords": [
+            "Allergy",
+            "Allergic Rhinitis",
+            "Allergic Asthma",
+            "Allergic Asthma and Allergic Rhinitis",
+            "Tezepelumab",
+            "Seasonal allergies",
+            "Perennial allergies",
+            "Intermitent allergies",
+            "Persistant allergies"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02054130",
+          "briefTitle": "Study to Evaluate the Efficacy and Safety of MEDI9929 (AMG 157) in Adult Subjects With Inadequately Controlled, Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-12-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-02-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07520162",
+          "briefTitle": "A Study to Investigate NPS and Symptoms in Chinese Adult Participants With CRSwNP Initiating Treatment With Tezepelumab"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-04-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ],
+          "keywords": [
+            "CRSwNP(Chronic Rhinosinusitis with Nasal Polyps)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06883305",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Tezepelumab in Adult Participants With Moderate to Very Severe COPD (D5241C00006)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+          ],
+          "keywords": [
+            "COPD",
+            "Moderate COPD",
+            "Severe COPD",
+            "Very Severe COPD",
+            "chronic obstructive pulmonary disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05740748",
+          "briefTitle": "Tezepelumab and Methacholine Airway Hyperresponsiveness in Participants With Mild Allergic Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "UNKNOWN",
+          "startDateStruct": {
+            "date": "2023-04-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-02-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma, Allergic"
+          ],
+          "keywords": [
+            "asthma",
+            "airway hyperresponsiveness",
+            "mast cell",
+            "Thymic stromal lymphopoietin",
+            "tezepelumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02512900",
+          "briefTitle": "A Study to Evaluate the Pharmacokinetics of MEDI9929 (AMG 157) in Adolescents With Mild to Moderate Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-09-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-07-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05398263",
+          "briefTitle": "Tezepelumab Efficacy and Safety in Reducing Oral Corticosteroid Use in Adults With Oral Corticosteroid Dependent Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2022-08-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-05-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Severe Asthma",
+            "Oral Corticosteroid Dependent Asthma",
+            "Tezepelumab",
+            "Phase 3 Study",
+            "Reducing Oral Corticosteroid"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06230354",
+          "briefTitle": "Explore the Efficacy and Mechanism of Action of Tezepelumab in Eosinophilic Granulomatosis With Polyangiitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-01-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "EGPA - Eosinophilic Granulomatosis With Polyangiitis"
+          ],
+          "keywords": [
+            "EGPA",
+            "Eosinophilic granulomatosis with polyangiitis",
+            "Tezepelumab",
+            "Mechanism",
+            "Alarmin",
+            "Vasculitis",
+            "Experimental Medicine"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03809663",
+          "briefTitle": "A Dose Ranging Placebo-Controlled Double-Blind Study to Evaluate the Safety and Efficacy of Tezepelumab in Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2019-03-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-01-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Atopic Dermatitis",
+            "eczema",
+            "tezepelumab",
+            "dermatology",
+            "dermatitis",
+            "inflammation",
+            "skin",
+            "moderate dermatitis",
+            "severe dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03347279",
+          "briefTitle": "Study to Evaluate Tezepelumab in Adults & Adolescents With Severe Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-11-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma, Uncontrolled Asthma, Severe Uncontrolled Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02237196",
+          "briefTitle": "Anti-TSLP (AMG 157) Plus Antigen-Specific Immunotherapy for Induction of Tolerance in Individuals With Cat Allergy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-03-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-09-11"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cat Allergy",
+            "Cat Hypersensitivity"
+          ],
+          "keywords": [
+            "cat-allergic",
+            "cat immunotherapy",
+            "anti-thymic stromal lymphopoietin (anti-TSLP)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07046117",
+          "briefTitle": "Effect of Tezepelumab on Barrier Function in Severe Asthmatic Patients With and Without Comorbid Chronic Rhinosinusitis With Nasal Polyps"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-10-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-07-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma Bronchiale",
+            "Chronic Rhinosinusitis With Nasal Polyps (CRSwNP)"
+          ],
+          "keywords": [
+            "asthma",
+            "chronic rhinosinusitis with nasal polyps",
+            "tezepelumab",
+            "epithelial barrier",
+            "airways"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07735494",
+          "briefTitle": "Physical Activity Promotion and Clinical Remission in Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-07-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "Severe Asthma",
+            "Treatable Traits",
+            "Tezepelumab",
+            "Self-management",
+            "Behavioural Intervention"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00757042",
+          "briefTitle": "Safety Study of Tezepelumab (AMG 157) in Healthy Adults and Adults With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2008-09-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2008-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis",
+            "Healthy Volunteers"
+          ],
+          "keywords": [
+            "atopic dermatitis",
+            "skin diseases",
+            "healthy volunteer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04039113",
+          "briefTitle": "Tezepelumab COPD Exacerbation Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-07-30"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-07-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+          ],
+          "keywords": [
+            "COPD",
+            "Moderate COPD",
+            "Severe COPD",
+            "chronic obstructive pulmonary disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04362410",
+          "briefTitle": "Tezepelumab Phase 1 PK Study in Healthy Chinese Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-05-18"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Subjects"
+          ],
+          "keywords": [
+            "Pharmacokinetics",
+            "Safety",
+            "Tolerability",
+            "Immunogenicity",
+            "Tezepelumab",
+            "Healthy Chinese Subjects"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05329194",
+          "briefTitle": "Effectiveness and Safety Study of Tezepelumab in Adults & Adolescent Participants With Severe Asthma in the United States"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-04-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-04-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Inhaled corticosteroids (ICS)",
+            "Post-Authorization",
+            "Baseline Blood eosinophil count (BEC)",
+            "long-acting- \u03b22 Agonist (LABA)",
+            "Real-world participant population"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03989544",
+          "briefTitle": "A Study to Evaluate the Pharmacokinetics of Tezepelumab After Being Delivered by an Accessorized Pre Filled Syringe or Autoinjector Compared With Vial and Syringe in Healthy Adult Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-06-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-06-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Pharmacokinetics",
+            "Human monoclonal antibody",
+            "Tezepelumab",
+            "Accessorized Pre-filled Syringe",
+            "Autoinjector"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02525094",
+          "briefTitle": "Phase 2a Study to Evaluate the Efficacy and Safety of MEDI9929 in Adults With Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-08-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-08-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atopic Dermatitis"
+          ],
+          "keywords": [
+            "Eczema"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06706817",
+          "briefTitle": "A Study to Investigate Changes in Symptoms in Adult Participants With Chronic Rhinosinusitis With Nasal Polyposis Initiating Treatment With Tezepelumab"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-12-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ],
+          "keywords": [
+            "Chronic rhinosinusitis",
+            "Rhinosinusitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03927157",
+          "briefTitle": "Study to Evaluate Tezepelumab in Adults With Severe Uncontrolled Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-06-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Uncontrolled Asthma",
+            "Severe Uncontrolled Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04851964",
+          "briefTitle": "Efficacy and Safety of Tezepelumab in Participants With Severe Chronic Rhinosinusitis With Nasal Polyposis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-04-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Rhinosinusitis With Nasal Polyps"
+          ],
+          "keywords": [
+            "Chronic rhinosinusitis with nasal polyps",
+            "Nasal polyps",
+            "Nasal polyposis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07302516",
+          "briefTitle": "Compare the Efficacy and Safety of QL2302 Versus Tezspire\u00ae in Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-12-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00972179",
+          "briefTitle": "Safety Study of Tezepelumab (AMG 157) in Healthy Adults"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2009-09-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2009-09-04"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ],
+          "keywords": [
+            "healthy volunteers"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05651841",
+          "briefTitle": "REVErsing Airway Remodelling With Tezepelumab"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-03-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-12-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Airway Remodelling, Asthmatic"
+          ],
+          "keywords": [
+            "exacerbating asthma",
+            "Severe asthma",
+            "Airway Remodelling"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01405963",
+          "briefTitle": "Double-blind, Multiple Dose Study of Tezepelumab (AMG 157) in Adults With Mild Atopic Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2011-10-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2011-07-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Amgen",
+            "AMG 157",
+            "Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05062759",
+          "briefTitle": "Study to Assess the Effect of Tezepelumab on the Immune Response to Influenza Vaccination in Participants With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-08-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-09-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Asthma"
+          ],
+          "keywords": [
+            "Tezepelumab",
+            "Humoral Immune Response",
+            "Quadrivalent Influenza Vaccination",
+            "Antibody response",
+            "Subcutaneous"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05274815",
+          "briefTitle": "Study to Evaluate Efficacy and Safety of Tezepelumab in Reducing Oral Corticosteroid Use in Adult Patients With Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-05-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Severe Asthma",
+            "Oral Corticosteroids"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06705764",
+          "briefTitle": "Tezepelumab in the Treatment of Emergency Room Asthma in Adults (TERAA)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-05-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-11-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Severe Asthma",
+            "Asthma Exacerbation",
+            "Tezepelumab",
+            "Emergency deparment visits for asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT01913028",
+          "briefTitle": "A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Immunogenicity of MEDI9929 After Single Administration in Healthy Male Japanese Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2013-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2013-07-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy"
+          ],
+          "keywords": [
+            "safety, tolerability, pharmacokinetics,immunogenicity, MEDI9929, Japanese"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04673630",
+          "briefTitle": "Study to Evaluate the Pharmacokinetics of Tezepelumab in Children With Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-02-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-12-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma"
+          ],
+          "keywords": [
+            "Mild asthma",
+            "Moderate asthma",
+            "Severe asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04048343",
+          "briefTitle": "Long-term Safety of Tezepelumab in Japanese Subjects With Inadequately Controlled Severe Asthma"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-06-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-08-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Severe Asthma"
+          ],
+          "keywords": [
+            "Asthma",
+            "Uncontrolled Asthma",
+            "Severe Uncontrolled Asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03688074",
+          "briefTitle": "Study to Evaluate Tezepelumab on Airway Inflammation in Adults With Uncontrolled Asthma (CASCADE)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-11-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-09-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Asthma",
+            "Bronchial Diseases",
+            "Respiratory Tract Diseases",
+            "Lung Diseases, Obstructive",
+            "Lung Diseases",
+            "Respiratory Hypersensitivity",
+            "Hypersensitivity, Immediate",
+            "Hypersensitivity",
+            "Immune System Diseases"
+          ],
+          "keywords": [
+            "Asthma",
+            "Uncontrolled asthma",
+            "Severe uncontrolled asthma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07327697",
+          "briefTitle": "A Comparative Phase 1 Study to Evaluate the Pharmacokinetic and Safety of QL2302 vs. Tezspire\u00ae in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06878261",
+          "briefTitle": "A Study to Investigate the Efficacy and Safety of Tezepelumab in Adult Participants With Moderate to Very Severe COPD (D5241C00007)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+          ],
+          "keywords": [
+            "COPD",
+            "Moderate COPD",
+            "Severe COPD",
+            "Very Severe COPD",
+            "chronic obstructive pulmonary disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    }
+  ]
+}

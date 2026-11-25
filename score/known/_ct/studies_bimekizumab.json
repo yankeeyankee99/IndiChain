@@ -1,0 +1,1965 @@
+{
+  "totalCount": 58,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04242446",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-02-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-01-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "UCB4940",
+            "HS",
+            "Hidradenitis Suppurativa",
+            "Acne inversa"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02430909",
+          "briefTitle": "Multiple Dose Study of UCB4940 as add-on to Certolizumab Pegol in Subjects With Rheumatoid Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-04-30"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatoid Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02141763",
+          "briefTitle": "Multiple Dose Study of UCB4940 in Subjects With Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2014-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2014-05-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07767864",
+          "briefTitle": "Efficacy of Bimekizumab in Adults With Pyoderma Gangrenosum"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pyoderma Gangrenosum"
+          ],
+          "keywords": [
+            "PG",
+            "Pyoderma",
+            "Pyoderma Gangrenosum",
+            "Chronic wounds",
+            "Chronic ulcers",
+            "Non-healing ulcers",
+            "Wound"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02963506",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Different Doses of Bimekizumab in Subjects With Active Ankylosing Spondylitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-11-15"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Ankylosing Spondylitis"
+          ],
+          "keywords": [
+            "AS",
+            "Ankylosing Spondylitis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03928743",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Subjects With Active Ankylosing Spondylitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Ankylosing Spondylitis"
+          ],
+          "keywords": [
+            "Ankylosing spondylitis",
+            "AS",
+            "Bimekizumab",
+            "Axial spondyloarthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07290036",
+          "briefTitle": "A Study to Learn if Bimekizumab Given in Different Ways is Safe and Moves Similarly Throughout the Body Over Time in Adults"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-12-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis",
+            "Axial Spondyloarthritis"
+          ],
+          "keywords": [
+            "Bimekizumab, BKZ, Phase 1B"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07138898",
+          "briefTitle": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-12-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-08-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Rheumatic Disease"
+          ],
+          "keywords": [
+            "rheumatoid arthritis",
+            "psoriatic arthritis",
+            "ankylosing spondylitis",
+            "systemic lupus erythematosus",
+            "juvenile idiopathic arthritis",
+            "spondyloarthritis",
+            "polymyalgia rheumatica",
+            "giant cell arteritis",
+            "vasculitis",
+            "granulomatosis with polyangiitis",
+            "dermatomyositis",
+            "polymyositis",
+            "inflammatory bowel disease-associated arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03410992",
+          "briefTitle": "A Study With a Initial Treatment Period Followed by a Randomized-withdrawal Period to Evaluate the Efficacy and Safety of Bimekizumab in Adult Subjects With Moderate to Severe Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-02-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis",
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06624228",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Adult Study Participants With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-10-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-10-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "bimekizumab",
+            "risankizumab",
+            "arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06668181",
+          "briefTitle": "An Open-label Study to Evaluate the Pharmacokinetics and Safety of Bimekizumab in Pediatric Study Participants With Active Juvenile Idiopathic Arthritis Subtypes Enthesitis-related Arthritis (Including Juvenile-onset Ankylosing Spondylitis) and Juvenile Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-03-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-10-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Enthesitis-related Arthritis",
+            "Juvenile Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Arthritis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03025542",
+          "briefTitle": "A Study to Evaluate the Pharmacokinetics (PK), Pharmacodynamics (PD), and Safety of Bimekizumab in Patients With Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-12-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-01-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "Chronic Plaque Psoriasis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05499416",
+          "briefTitle": "Effect of Bimekizumab in Patients With Psoriasis Vulgaris and Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "WITHDRAWN",
+          "startDateStruct": {
+            "date": "2023-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-08-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis Vulgaris",
+            "Active Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "plaque psoriasis",
+            "systemic therapy",
+            "psoriasis vulgaris",
+            "arthritic psoriasis",
+            "bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03766685",
+          "briefTitle": "A Study to Evaluate the Safe and Effective Use of the Prefilled Safety Syringe or the Auto-injector for the Subcutaneous Self-injection of Bimekizumab Solution by Subjects With Moderate to Severe Chronic Plaque Psoriasis (PSO)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-12-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-12-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis",
+            "Auto-Injector"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04242498",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-03-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-01-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "UCB4940",
+            "HS",
+            "Hidradenitis Suppurativa",
+            "Acne inversa"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02529956",
+          "briefTitle": "A Study to Assess the Safety, Pharmacokinetics and Pharmacodynamics of UCB4940 in Patients With Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2012-11"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-08-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Mild to Moderate Psoriasis"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "UCB4940"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03010527",
+          "briefTitle": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Patients With Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-12-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-01-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Chronic plaque psoriasis",
+            "Psoriasis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03215277",
+          "briefTitle": "A Study to Test the Efficacy and Safety of Bimekizumab and Certolizumab Pegol in Patients With Active Ankylosing Spondylitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-10-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-07-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Ankylosing Spondylitis"
+          ],
+          "keywords": [
+            "Ankylosing Spondylitis",
+            "Bimekizumab",
+            "AS",
+            "Certolizumab Pegol",
+            "Cimzia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07149792",
+          "briefTitle": "A Multi-center RCT Clinical Trial on Personalized Precision Medicine for Patients With Psoriasis and Psoriatic Arthritis and Investigation on Cardiovascular Biomarkers"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-09-02"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Psoriasis Arthritis",
+            "Biologics"
+          ],
+          "keywords": [
+            "Prescreen, Biologics, Psoriasis, Strategic selection, Psoriatic arthritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07497620",
+          "briefTitle": "Bimzelx (Bimekizumab) For The Treatment Of Adult Onset Pityriasis Rubra Pilaris (PRP)"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-03-27"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Pityriasis Rubra Pilaris"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03536884",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to an Active Comparator in Adult Subjects With Moderate to Severe Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-06-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-05-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07219420",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Study Participants With Palmoplantar Pustulosis"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-14"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-10-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Palmoplantar Pustulosis"
+          ],
+          "keywords": [
+            "Bimekizumab, PPP"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03248531",
+          "briefTitle": "A Study to Test the Efficacy, Safety and Pharmacokinetics of Bimekizumab in Subjects With Moderate to Severe Hidradenitis Suppurativa."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-09-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-08-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Hidradenitis Suppurativa",
+            "Bimekizumab",
+            "HS",
+            "Moderate to Severe HS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07836283",
+          "briefTitle": "Evaluation of the Efficacy and Safety of Bimekizumab (BZK) or Adalimumab (ADA) in the Treatment of Anterior Chest Wall Pain Associated With Active Axial Spondyloarthritis Refractory to NSAIDs With Hypothesis of Superiority of Bimekizumab"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-09-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Axial or Predominantly Axial SpondyloArthritis With or Without Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05020249",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Adult Korean Study Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-09-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Moderate to Severe Plaque Psoriasis",
+            "Korean Study Participants",
+            "BKZ",
+            "UCB4940"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07352566",
+          "briefTitle": "Utilization of a Microdevice for Psoriasis and Atopic Dermatitis"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-01-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Atopic Dermatitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04901195",
+          "briefTitle": "A Study to Test the Long-term Treatment of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-05-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "UCB4940",
+            "HS",
+            "Hidradenitis Suppurativa",
+            "Acne inversa"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03347110",
+          "briefTitle": "A Study to Evaluate the Long-Term Safety and Efficacy of Bimekizumab in Subjects With Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-11-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "Psoriatic Arthritis",
+            "PsA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06506916",
+          "briefTitle": "A Study to Evaluate the Effect of Bimekizumab on Gene Expression Biomarkers in Study Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-07-29"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Plaque Psoriasis",
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Moderate to Severe Plaque Psoriasis",
+            "PSO",
+            "Phase 3",
+            "Bimekizumab",
+            "Biomarkers",
+            "PsA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03355573",
+          "briefTitle": "A Study to Evaluate the Long Term Safety and Efficacy of Bimekizumab in Subjects With Ankylosing Spondylitis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-11-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-11-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Ankylosing Spondylitis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "Ankylosing Spondylitis",
+            "AS"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03895385",
+          "briefTitle": "A Study to Evaluate the Antibody Response of Influenza Vaccination Following Concomitant Exposure to Bimekizumab in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ],
+          "keywords": [
+            "BKZ",
+            "UCB4940",
+            "Healthy Subjects"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04436640",
+          "briefTitle": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Subjects With Active Axial Spondyloarthritis Including Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-06-16"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-06-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Axial Spondyloarthritis",
+            "Ankylosing Spondylitis",
+            "r-axSpa",
+            "Nr-axSpa"
+          ],
+          "keywords": [
+            "AxSpa",
+            "Radiographic",
+            "Non-radiographic",
+            "AS",
+            "Bimekizumab",
+            "Axial spondyloarthritis",
+            "Ankylosing spondylitis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03896581",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in the Treatment of Subjects With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-03-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "PsA",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02905006",
+          "briefTitle": "Study to Evaluate Safety and Efficacy of Different Doses of Bimekizumab in Patients With Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-09-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "Chronic Plaque Psoriasis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04718896",
+          "briefTitle": "A Study to Assess the Pharmacokinetics, Safety, and Efficacy of Two Doses of Bimekizumab in Adolescent Study Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-04-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-01-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Plaque Psoriasis"
+          ],
+          "keywords": [
+            "bimekizumab",
+            "BKZ",
+            "adolescent study participants",
+            "psoriasis",
+            "PSO"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06425549",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Ustekinumab in Children and Adolescents From 6 Years to Less Than 18 Years of Age With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-06-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-05-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Plaque Psoriasis"
+          ],
+          "keywords": [
+            "bimekizumab",
+            "BKZ",
+            "ustekinumab",
+            "paediatric study participants",
+            "children",
+            "adolescents",
+            "Psoriasis",
+            "PSO",
+            "Plaque Psoriasis",
+            "Paediatric Psoriasis",
+            "Pediatric Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03928704",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Subjects With Active Nonradiographic Axial Spondyloarthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-04-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Nonradiographic Axial Spondyloarthritis"
+          ],
+          "keywords": [
+            "Nonradiographic axial spondyloarthritis",
+            "Axial spondyloarthritis",
+            "Nr-axSpA",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06888193",
+          "briefTitle": "A Study to Assess the Concentration of Bimekizumab in Mature Breast Milk From Mothers Receiving Treatment With Bimzelx\u00ae (Bimekizumab)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-03-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Moderate to Severe Plaque Psoriasis",
+            "Psoriatic Arthritis",
+            "Axial Spondyloarthritis",
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "Breastfeeding mothers",
+            "Bimzelx\u00ae",
+            "PSO",
+            "HS",
+            "AxSpa",
+            "PsA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07554014",
+          "briefTitle": "A Single-center, Prospective, Self-controlled, Observational Real-world Study of the Efficacy and Safety of Anti-IL-17A/F Monoclonal Antibody Combined With Non-ablative Dot Laser for the Treatment of Mild to Moderate Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-04-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa (HS)"
+          ],
+          "keywords": [
+            "Laser Therapy",
+            "Antibodies, Bispecific"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03707717",
+          "briefTitle": "A Study to Compare the Blood Level of Bimekizumab Injected Subcutaneously Either by a Prefilled Syringe or by an Auto-injector in Adult Healthy Volunteer Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-10-15"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-10-16"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ],
+          "keywords": [
+            "BKZ",
+            "UCB4940",
+            "Auto-Injector",
+            "Healthy Participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02969525",
+          "briefTitle": "A Study to Evaluate the Dose Response Based on the Efficacy, Safety and Tolerability of Bimekizumab in Subjects With Active Psoriatic Arthritis Which is a Type of Inflammatory Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2016-11-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "PsA",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06011733",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Chinese Adult Study Participants With Moderate to Severe Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-10-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-08-25"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "PSO",
+            "Bimekizumab",
+            "Chinese Adults Study Participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03370133",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab Compared to Placebo and an Active Comparator in Adult Subjects With Moderate to Severe Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-12-06"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-12"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis",
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06921850",
+          "briefTitle": "A Study to Assess the Pharmacokinetics and Safety of Bimekizumab in Children and Adolescents With Moderate to Severe Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-04-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-04-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "HS",
+            "Hidradenitis Suppurativa"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04255862",
+          "briefTitle": "A Study to Evaluate the Bioequivalence of Bimekizumab Given as 1x2mL or 2x1mL Subcutaneous Injection in Healthy Study Participants"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2020-02-12"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-02-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Study Participants"
+          ],
+          "keywords": [
+            "UCB4940",
+            "Bimekizumab",
+            "Bioequivalence",
+            "Auto-injector",
+            "Healthy study participants",
+            "Safety-syringe"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05292131",
+          "briefTitle": "A Bioequivalence Study of Bimekizumab Given as 1x2mL or 2x1mL Subcutaneous Injection Using an Autoinjector in Healthy Study Participants"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-03-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-23"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Study Participants"
+          ],
+          "keywords": [
+            "UCB4940",
+            "BKZ",
+            "bimekizumab",
+            "Bioequivalence",
+            "Auto-injector",
+            "Healthy study participants"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04009499",
+          "briefTitle": "A Study to Assess the Long-term Safety, Tolerability, and Efficacy of Bimekizumab in the Treatment of Subjects With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-08-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-07-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "PsA",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06742333",
+          "briefTitle": "Early Intervention in Plaque Psoriasis: is Bimekizumab Able to Delay Chronic Inflammation?"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-07-22"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-12-19"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07766005",
+          "briefTitle": "A Study of SPY072 in Adults With Moderate to Severe Hidradenitis Suppurativa (The SKYLIGHT Trial)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-08-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa (HS)"
+          ],
+          "keywords": [
+            "Hidradenitis suppurativa",
+            "Hidradenitis",
+            "Skin diseases",
+            "Sweat gland diseases",
+            "Skin and connective tissue diseases"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07388446",
+          "briefTitle": "MAIT Cells in Hidradenitis Suppurativa"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-02-01"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2026-02-05"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hidradenitis Suppurativa (HS)"
+          ],
+          "keywords": [
+            "Hidradenitis suppurativa",
+            "physiopathology",
+            "immunology",
+            "Mucosal Associated Invariant T cells"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06336343",
+          "briefTitle": "Bimekizumab in Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-06-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-03-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Plaque Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03412747",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Adult Subjects With Moderate to Severe Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-01-26"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-01-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03598790",
+          "briefTitle": "A Study to Evaluate the Efficacy and Safety of Bimekizumab in Adult Subjects With Moderate to Severe Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-09-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-07-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis",
+            "Moderate to Severe Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "PSO",
+            "Psoriasis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04340076",
+          "briefTitle": "Dose Reduction of IL17 and IL23 Inhibitors in Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2020-08-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-04-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriasis",
+            "Psoriasis Vulgaris"
+          ],
+          "keywords": [
+            "skin diseases",
+            "skin diseases (papulosquamous)",
+            "biologicals",
+            "IL17 inhibitors",
+            "IL23 inhibitors",
+            "dose reduction"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03230292",
+          "briefTitle": "A Study to Evaluate the Long-term Safety, Tolerability and Efficacy of Bimekizumab in Adult Patients With Chronic Plaque Psoriasis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2017-07-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-07-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Plaque Psoriasis"
+          ],
+          "keywords": [
+            "Psoriasis",
+            "Chronic Plaque Psoriasis",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05028127",
+          "briefTitle": "A Study to Evaluate the Relative Bioavailability and Tolerability of Bimekizumab in Healthy Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2016-03-04"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-08-31"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Healthy Volunteers"
+          ],
+          "keywords": [
+            "Bimekizumab",
+            "Phase 1"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03895203",
+          "briefTitle": "A Study to Test the Efficacy and Safety of Bimekizumab in the Treatment of Subjects With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "PsA",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04109976",
+          "briefTitle": "A Study to Evaluate the Safe and Effective Use of the Prefilled Safety Syringe or the Auto-injector for the Subcutaneous Self-injection of Bimekizumab Solution by Subjects With Active Psoriatic Arthritis"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-08-13"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-10-01"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Psoriatic Arthritis"
+          ],
+          "keywords": [
+            "Psoriatic Arthritis",
+            "PsA",
+            "Auto-Injector",
+            "Bimekizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    }
+  ]
+}

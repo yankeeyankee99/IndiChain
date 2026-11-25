@@ -1,0 +1,33 @@
+# Backup run. Target and disease are given. Prompts and the report are English.
+# This file does not extend the live scope. The live Kv1.3 run is unchanged.
+# Copy and judgment both use DeepSeek-V4-Pro with thinking enabled.
+
+model_copy: deepseek-v4-pro
+model_judge: deepseek-v4-pro
+
+# Literature cutoff. Child scopes must also set as_of; extends drops a parent as_of when the child omits the key.
+as_of: "2026-04-30"
+
+target: KCNA3
+target_names:
+  - Kv1.3
+  - KCNA3
+  - HGK5
+  - P22001
+exclude_known: false
+chains: 1
+nodes: 7
+reading_line: "ID | cell | process | molecule | sentence"
+harvest_and: []
+disease_mesh: D005922
+disease_name: Glomerulonephritis, IGA
+
+reading_question: "In these abstracts, after {names} is perturbed, which cell, process, or molecule is stated?"
+
+reading_target_lock: true
+
+reading_screen: "These lines come from abstracts. Keep a whole line when it states a cell, process, or molecule of {names}. Different spellings of the same target still count as that target. Drop a line that states no cell, process, or molecule. Summarize the kept lines in one sentence, then list them under the heading Sentences kept."
+
+literature_sources:
+  - pubmed
+  - bohrium

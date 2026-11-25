@@ -1,0 +1,29 @@
+{
+  "target": "IL4R",
+  "as_of": "2020-10-28",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为度普利尤单抗（REGN668，SAR231893）。纳入研究开始日早于 2020-10-28 的患者试验。大疱性类天疱疮 NCT04206553 的开始日就是冻结日，不计入。已有特应性皮炎患者出现结膜炎的观察 NCT04066998，以及鼻窦炎患者里观察睡眠呼吸暂停的 NCT03675022，不另立适应症。健康受试者试验不计入。",
+  "known": [
+    {"name": "Dermatitis, Atopic", "aliases": ["atopic dermatitis", "特应性皮炎"], "nct": "NCT01259323", "start": "2010-12"},
+    {"name": "Asthma", "aliases": ["asthma", "哮喘"], "nct": "NCT01312961", "start": "2011-03"},
+    {"name": "Nasal Polyps", "aliases": ["nasal polyposis", "chronic rhinosinusitis with nasal polyps", "鼻息肉"], "nct": "NCT01920893", "start": "2013-08"},
+    {"name": "Eosinophilic Esophagitis", "aliases": ["eosinophilic esophagitis", "嗜酸性食管炎"], "nct": "NCT02379052", "start": "2015-05-12"},
+    {"name": "Alopecia Areata", "aliases": ["alopecia areata"], "nct": "NCT03359356", "start": "2018-01-09"},
+    {"name": "Rhinitis, Allergic", "aliases": ["allergic rhinitis"], "nct": "NCT03558997", "start": "2018-06-07"},
+    {"name": "Asthma, Aspirin-Induced", "aliases": ["aspirin-exacerbated respiratory disease", "AERD"], "nct": "NCT03595488", "start": "2018-09-05"},
+    {"name": "Peanut Hypersensitivity", "aliases": ["peanut allergy"], "nct": "NCT03682770", "start": "2018-10-03"},
+    {"name": "Chronic Urticaria", "aliases": ["chronic spontaneous urticaria"], "nct": "NCT03749135", "start": "2018-11-12"},
+    {"name": "Cholinergic Urticaria", "aliases": ["cholinergic urticaria"], "nct": "NCT03749148", "start": "2018-12-10"},
+    {"name": "Pulmonary Disease, Chronic Obstructive", "aliases": ["chronic obstructive pulmonary disease", "COPD"], "nct": "NCT03930732", "start": "2019-04-15"},
+    {"name": "Hand Eczema", "aliases": ["chronic hand eczema"], "nct": "NCT03861455", "start": "2019-07-15"},
+    {"name": "Prostatic Neoplasms", "aliases": ["prostate cancer"], "nct": "NCT03886493", "start": "2019-08-28"},
+    {"name": "Prurigo Nodularis", "aliases": ["prurigo nodularis"], "nct": "NCT04183335", "start": "2019-12-12"},
+    {"name": "Dermatitis, Allergic Contact", "aliases": ["allergic contact dermatitis"], "nct": "NCT03935971", "start": "2019-12-18"},
+    {"name": "Food Hypersensitivity", "aliases": ["food allergy", "food hypersensitivity"], "nct": "NCT03679676", "start": "2020-02-05"},
+    {"name": "Keratoconjunctivitis, Atopic", "aliases": ["atopic keratoconjunctivitis"], "nct": "NCT04296864", "start": "2020-02-10"},
+    {"name": "Scleroderma, Localized", "aliases": ["localized scleroderma", "morphea"], "nct": "NCT04200755", "start": "2020-05-19"},
+    {"name": "Netherton Syndrome", "aliases": ["Netherton syndrome"], "nct": "NCT04244006", "start": "2020-07-23"},
+    {"name": "Hepatic Pruritus", "aliases": ["chronic hepatic pruritus"], "nct": "NCT04256759", "start": "2020-09-01"},
+    {"name": "Aspergillosis, Allergic Bronchopulmonary", "aliases": ["allergic bronchopulmonary aspergillosis", "ABPA"], "nct": "NCT04442269", "start": "2020-09-15"},
+    {"name": "Chronic Rhinosinusitis Without Nasal Polyps", "aliases": ["chronic sinusitis without nasal polyps", "CRSsNP"], "nct": "NCT04362501", "start": "2020-10-15"}
+  ]
+}

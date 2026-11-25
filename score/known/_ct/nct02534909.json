@@ -1,0 +1,39 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02534909",
+      "briefTitle": "Proof of Concept Study to Assess the Efficacy, Safety and Pharmacokinetics of LFG316 in Patients With Paroxysmal Nocturnal Hemoglobinuria"
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "LFG316 then LNP023",
+          "type": "EXPERIMENTAL",
+          "description": "During treatment periods 1 to 3, the regimen included LFG316 at a dosage of 20 mg/kg administered as an intravenous (i.v.) infusion biweekly.\n\nIn treatment period 4, the patients were given:\n\n* LFG316 at a dosage of 20 mg/kg as an i.v. infusion every two weeks for four weeks, amounting to two infusions in total.\n* LNP023 at a dose of 200 mg administered orally twice daily (b.i.d.) for approximately 20 weeks, with four 50 mg capsules taken at each administration.",
+          "interventionNames": [
+            "Biological: LFG316",
+            "Drug: LNP023"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "LFG316",
+          "description": "LFG316 20 mg/kg was administered to all patients enrolled in the study:\n\n* Treatment Periods 1 to 3: LFG316 20 mg/kg as i.v. infusion every 2 weeks\n* Treatment Period 4: LFG316 20 mg/kg as i.v. infusion every 2 weeks for 4 weeks (total 2 infusions).",
+          "armGroupLabels": [
+            "LFG316 then LNP023"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "LNP023",
+          "description": "Treatment Period 4: LNP023 200 mg b.i.d. for approximately 20 weeks. Four capsules (each 50 mg) were administered each time study medication was taken.",
+          "armGroupLabels": [
+            "LFG316 then LNP023"
+          ]
+        }
+      ]
+    }
+  }
+}

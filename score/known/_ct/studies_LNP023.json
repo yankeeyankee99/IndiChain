@@ -1,0 +1,975 @@
+{
+  "totalCount": 27,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06797518",
+          "briefTitle": "Study to Evaluate the Impact of Iptacopan on Top of SOC on Biopsy Changes in Kidneys of Adult Patients With IgAN"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-02-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-01-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Glomerulonephritis, IGA",
+            "Immunoglobulin A Nephropathy"
+          ],
+          "keywords": [
+            "IgAN, Renal Biopsy, Iptacopan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05230537",
+          "briefTitle": "A Masked, Placebo-controlled Study to Assess Iptacopan in Age-related Macular Degeneration"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-02-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-02-09"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Age-Related Macular Degeneration"
+          ],
+          "keywords": [
+            "Age-related macular degeneration",
+            "Macular degeneration",
+            "vision loss, macula damage",
+            "retina damage",
+            "dry macular degeneration",
+            "wet macular degeneration",
+            "AMD",
+            "Best Corrected Visual Acuity",
+            "Neovascular AMD",
+            "OCT"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04578834",
+          "briefTitle": "Study of Efficacy and Safety of LNP023 in Primary IgA Nephropathy Patients"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-01-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-10-08"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "IgA Nephropathy"
+          ],
+          "keywords": [
+            "LNP023",
+            "IgA nephropathy",
+            "IgAN, proteinuria",
+            "UPCR",
+            "eGFR",
+            "eGFR slope",
+            "kidney function decline"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05795140",
+          "briefTitle": "Evaluate Long-term Safety, Tolerability and Efficacy of Iptacopan in Study Participants With aHUS"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-05-08"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-04-03"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "aHUS",
+            "iptacopan",
+            "atypical hemolytic uremic syndrome",
+            "thrombotic microangiopathy",
+            "TMA",
+            "dialysis",
+            "CKD",
+            "eGFR",
+            "PE/PI",
+            "Complement 3 Glomerulopathy (C3G)",
+            "IgAN",
+            "PNH"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03955445",
+          "briefTitle": "Long-term Efficacy, Safety and Tolerability of Iptacopan in C3G or IC-MPGN"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2019-10-03"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-05-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "C3 Glomerulopathy",
+            "Immune-complex-membranoproliferative Glomerulonephritis"
+          ],
+          "keywords": [
+            "C3G",
+            "C3 glomerulopathy",
+            "C3GN",
+            "C3 glomerulonephritis",
+            "DDD",
+            "dense deposit disease",
+            "iptacopan",
+            "LNP023",
+            "IC-MPGN",
+            "idiopathic immune-complex- membranoproliferative glomerulonephritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02534909",
+          "briefTitle": "Proof of Concept Study to Assess the Efficacy, Safety and Pharmacokinetics of LFG316 in Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2015-09-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2015-08-28"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+            "LFG316",
+            "LNP023"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04154787",
+          "briefTitle": "Efficacy and Safety of LNP023 Compared With Rituximab in Subjects With Idiopathic Membranous Nephropathy"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2019-11-23"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-11-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Idiopathic Membranous Nephropathy"
+          ],
+          "keywords": [
+            "Idiopathic membranous nephropathy",
+            "MN"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06934967",
+          "briefTitle": "Study to Assess the Pharmacokinetics, Safety, and Tolerability of Iptacopan in Pediatric PNH Patients"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-10-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-04-18"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "Iptacopan,",
+            "PNH,",
+            "hemoglobin,",
+            "anemia"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05630001",
+          "briefTitle": "Single Arm, Open Label Trial With Iptacopan Treatment for 24 Weeks, in Patients on Stable Regimen of Anti-C5 Who Switch to Iptacopan."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2023-04-24"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-11-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Paroxysmal Nocturnal Hemoglobinuria",
+            "iptacopan",
+            "single arm open-label",
+            "Hb\u226510 g/dL in response to anti-C5 antibody",
+            "switch to iptacopan",
+            "PNH",
+            "LNP023"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05086744",
+          "briefTitle": "Basket Study to Assess Efficacy, Safety and PK of Iptacopan (LNP023) in Autoimmune Benign Hematological Disorders"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2021-12-21"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-10-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Immune Thrombocytopenia (ITP)",
+            "Cold Agglutinin Disease (CAD)"
+          ],
+          "keywords": [
+            "LNP023",
+            "Iptacopan",
+            "Immune thrombocytopenia",
+            "Cold agglutinin disease",
+            "Autoimmune benign hematological disorders"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03896152",
+          "briefTitle": "Efficacy, Safety, Pharmacokinetics and Pharmacodynamics Study, Assessing Multiple LNP023 Doses in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-04-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-03-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Complement",
+            "alternative pathway",
+            "paroxysmal nocturnal hemoglobinuria",
+            "hemolysis",
+            "LNP023",
+            "PNH",
+            "LDH",
+            "hemoglobin",
+            "Iptacopan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04747613",
+          "briefTitle": "Long-term Safety and Tolerability of Iptacopan in Patients With Paroxysmal Nocturnal Hemoglobinuria"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-07-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-02-10"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria"
+          ],
+          "keywords": [
+            "Iptacopan",
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+            "Hemoglobin",
+            "Anemia",
+            "LNP023"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03439839",
+          "briefTitle": "Study of Safety, Efficacy, Tolerability, Pharmacokinetics and Pharmacodynamics of LNP023 in in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-04-09"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2018-02-20"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH) With Signs of Active Hemolysis"
+          ],
+          "keywords": [
+            "Complement",
+            "alternative pathway",
+            "paroxysmal nocturnal hemoglobinuria",
+            "hemolysis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06388941",
+          "briefTitle": "Iptacopan in Patients With ANCA Associated Vasculitis"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-08-05"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-04-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Anti-Neutrophil Cytoplasm Antibodies (ANCA) Associated Vasculitis"
+          ],
+          "keywords": [
+            "ANCA-associated vasculitis;",
+            "granulomatosis with polyangiitis (GPA);",
+            "microscopic polyangiitis (MPA);",
+            "LNP023 (iptacopan)."
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05755386",
+          "briefTitle": "Study of Efficacy and Safety of Iptacopan in Participants With IC-MPGN"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-10-02"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-03-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "IC-MPGN"
+          ],
+          "keywords": [
+            "LNP023",
+            "IC-MPGN",
+            "iptacopan",
+            "UPCR",
+            "eGFR",
+            "proteinuria"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03373461",
+          "briefTitle": "Study of Safety and Efficacy of LNP023 in Patients With Kidney Disease Caused by Inflammation"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2018-02-07"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2017-12-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "IgA Nephropathy"
+          ],
+          "keywords": [
+            "glomerunephritis, complement driven, chronic kidney disease"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04557462",
+          "briefTitle": "A Rollover Extension Program (REP) to Evaluate the Long-term Safety and Tolerability of Open Label Iptacopan/LNP023 in Participants With Primary IgA Nephropathy"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-09-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-09-21"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Primary IgA Nephropathy"
+          ],
+          "keywords": [
+            "Immunoglobulin A nephropathy",
+            "Primary IgA nephropathy",
+            "IgAN",
+            "chronic kidney disease",
+            "glomerulonephritis",
+            "complement alternative pathway",
+            "eGFR",
+            "UPCR",
+            "UACR",
+            "LNP023"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05268289",
+          "briefTitle": "Study of Efficacy and Safety of LNP023 in Participants With Active Lupus Nephritis Class III-IV, +/- V"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2022-08-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2022-03-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lupus Nephritis"
+          ],
+          "keywords": [
+            "LNP023",
+            "Iptacopan",
+            "Lupus Nephritis",
+            "proteinuria",
+            "Urine Protein-to-Creatinine Ratio",
+            "complete renal response",
+            "estimated glomerular filtration rate",
+            "renal flares",
+            "Systemic Lupus Erythematosus"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06517758",
+          "briefTitle": "A Phase III Study to Investigate Efficacy, Safety and Tolerability of Iptacopan Compared With Placebo in Participants Aged 18 to 85 Years With gMG."
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-07-31"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2024-07-24"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Generalized Myasthenia Gravis"
+          ],
+          "keywords": [
+            "Myasthenia Gravis",
+            "gMG",
+            "randomized",
+            "placebo-controlled",
+            "double-blind",
+            "phase III",
+            "AChR+",
+            "SOC treatment",
+            "iptacopan",
+            "LNP023"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04558918",
+          "briefTitle": "Study of Efficacy and Safety of Twice Daily Oral LNP023 in Adult PNH Patients With Residual Anemia Despite Anti-C5 Antibody Treatment"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-01-25"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2020-09-22"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "Paroxysmal nocturnal hemoglobinuria",
+            "Hemoglobin",
+            "Anemia",
+            "LNP023",
+            "eculizumab",
+            "ravulizumab"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05078580",
+          "briefTitle": "Pharmacokinetic (PK) and Safety Study of Iptacopan (LNP023) in Participants With Mild, Moderate, and Severe Hepatic Impairment Compared to Matched Control Healthy Participants With Normal Hepatic Function."
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-11-10"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-10-14"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatic Impairment"
+          ],
+          "keywords": [
+            "LNP023",
+            "iptacopan",
+            "hepatic impairment",
+            "single-dose"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04820530",
+          "briefTitle": "Study of Efficacy and Safety of Twice Daily Oral Iptacopan (LNP023) in Adult PNH Patients Who Are Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2021-07-19"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-03-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Paroxysmal Nocturnal Hemoglobinuria (PNH)"
+          ],
+          "keywords": [
+            "Paroxysmal nocturnal hemoglobinuria",
+            "Hemoglobin",
+            "Anemia",
+            "LNP023",
+            "Iptacopan"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04889430",
+          "briefTitle": "Efficacy and Safety of Iptacopan (LNP023) in Adult Patients With Atypical Hemolytic Uremic Syndrome Naive to Complement Inhibitor Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2022-01-17"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-05-17"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "LNP023",
+            "iptacopan",
+            "aHUS",
+            "atypical hemolytic uremic syndrome",
+            "thrombotic microangiopathy"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04817618",
+          "briefTitle": "Study of Efficacy and Safety of Iptacopan in Patients With C3 Glomerulopathy."
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2021-07-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2021-03-26"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "C3G"
+          ],
+          "keywords": [
+            "LNP023",
+            "iptacopan",
+            "C3G",
+            "UPCR",
+            "eGFR",
+            "proteinuria",
+            "Quality of life"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05935215",
+          "briefTitle": "Efficacy and Safety of Switching From Anti-C5 Antibody Treatment to Iptacopan Treatment in Study Participants With Atypical Hemolytic Uremic Syndrome (aHUS)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2024-02-28"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2023-07-07"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Atypical Hemolytic Uremic Syndrome"
+          ],
+          "keywords": [
+            "Atypical Hemolytic Uremic Syndrome",
+            "aHUS,",
+            "thrombotic microangiopathy",
+            "TMA"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03832114",
+          "briefTitle": "Study on Efficacy and Safety of LNP023 in C3 Glomerulopathy Patients Transplanted and Not Transplanted"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2019-02-20"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2019-02-06"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Glomerulonephritis"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06994845",
+          "briefTitle": "Study to Assess the Efficacy, Pharmacokinetics, Safety and Tolerability of Iptacopan in Pediatric Patients With Primary IgAN"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-27"
+          },
+          "studyFirstPostDateStruct": {
+            "date": "2025-05-29"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Primary Immunoglobulin A Nephropathy (IgAN)"
+          ],
+          "keywords": [
+            "Iptacopan,",
+            "primary IgA nephropathy,",
+            "IgAN,",
+            "proteinuria,",
+            "UPCR,",
+            "eGFR,",
+            "kidney function decline,",
+            "pediatric,",
+            "adolescents"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ]
+        }
+      }
+    }
+  ]
+}

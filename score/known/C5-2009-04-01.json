@@ -1,0 +1,13 @@
+{
+  "target": "C5",
+  "as_of": "2009-04-01",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为依库珠单抗和佩克珠单抗。纳入研究开始日早于 2009-04-01 的患者试验。视神经脊髓炎 NCT00904826 的开始日是 2009-04，不计入。NCT00112983 的条件栏写 Leukemia，题名是阵发性血红蛋白尿，不另立白血病。NCT00088179 的条件栏写 Coronary Artery Disease，题名是搭桥手术，不另立冠心病。",
+  "known": [
+    {"name": "Coronary Artery Bypass", "aliases": ["coronary artery bypass graft", "CABG", "cardio-pulmonary bypass"], "nct": "NCT00048308", "start": "2002-01"},
+    {"name": "Myocardial Infarction", "aliases": ["acute myocardial infarction"], "nct": "NCT00091637", "start": "2004-04"},
+    {"name": "Hemoglobinuria, Paroxysmal", "aliases": ["paroxysmal nocturnal hemoglobinuria", "PNH", "阵发性血红蛋白尿"], "nct": "NCT00122330", "start": "2004-10"},
+    {"name": "Asthma", "aliases": ["allergic asthma", "哮喘"], "nct": "NCT00485576", "start": "2007-09"},
+    {"name": "Positive Crossmatch Kidney Transplant", "aliases": ["positive crossmatch living donor kidney transplant"], "nct": "NCT00670774", "start": "2008-03"},
+    {"name": "Myasthenia Gravis", "aliases": ["refractory generalized myasthenia gravis", "generalized myasthenia gravis"], "nct": "NCT00727194", "start": "2008-10"}
+  ]
+}

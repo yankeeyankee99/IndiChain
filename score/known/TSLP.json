@@ -1,0 +1,12 @@
+{
+  "target": "TSLP",
+  "as_of": "2021-04-22",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-05。药物为特泽利尤单抗（AMG 157，MEDI9929）。纳入研究开始日早于 2021-04-22 的患者试验。伴鼻息肉的慢性鼻窦炎 NCT04851964 的开始日就是冻结日，不计入。哮喘试验 NCT03688074 登记里展开的支气管疾病、呼吸系统疾病、超敏反应等上位词不另立适应症。健康受试者试验不计入。",
+  "known": [
+    {"name": "Dermatitis, Atopic", "aliases": ["atopic dermatitis", "特应性皮炎"], "nct": "NCT00757042", "start": "2008-09-18"},
+    {"name": "Asthma", "aliases": ["asthma", "severe asthma", "哮喘"], "nct": "NCT01405963", "start": "2011-10-31"},
+    {"name": "Cat Allergy", "aliases": ["cat hypersensitivity"], "nct": "NCT02237196", "start": "2015-03-03"},
+    {"name": "Pulmonary Disease, Chronic Obstructive", "aliases": ["chronic obstructive pulmonary disease", "COPD"], "nct": "NCT04039113", "start": "2019-07-30"},
+    {"name": "Chronic Urticaria", "aliases": ["chronic spontaneous urticaria"], "nct": "NCT04833855", "start": "2021-04-15"}
+  ]
+}

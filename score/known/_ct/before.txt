@@ -1,0 +1,506 @@
+
+==== IL17A <2016-07-11
+trials 111
+2005-12    NCT00669942 Rheumatoid Arthritis
+           Double Blind, Placebo-controlled, Study of the Safety, Tolerability and Pharmacokinetics of AIN457 in Rheumatoid Arthrit
+2007-02    NCT00669916 Plaque Psoriasis
+           A Study Comparing AIN457 to Placebo in Subjects With a Diagnosis of Moderate to Severe Stable Plaque Psoriasis
+2008-06    NCT00685399 Non-infectious Uveitis
+           Safety and Efficacy of AIN457 in Noninfectious Uveitis
+2008-08    NCT00584740 Crohn's Disease
+           Efficacy, Safety and Tolerability of AIN457 in Moderate to Severe Active Crohn's Disease
+2008-09-10 NCT00770965 Chronic Plaque Psoriasis
+           Phase II Efficacy Study Looking at a Single-dose of One of Three Dose Levels of AIN457 in Patients With Chronic Plaque-t
+2008-12    NCT00805480 Chronic Plaque Psoriasis
+           Multiple-loading Dose Regimen Study in Patients With Chronic Plaque-type Psoriasis
+2009-03    NCT00809159 Ankylosing Spondylitis
+           Double Blind, Placebo Controlled Study to Assess Efficacy of AIN457 in Moderate to Severe Ankylosing Spondylitis
+2009-03    NCT00809614 Psoriatic Arthritis
+           Efficacy of AIN457 in Adults (18-65 Years) With Psoriatic Arthritis
+2009-07    NCT00928512 Rheumatoid Arthritis
+           Efficacy, Safety and Tolerability of AIN457 in Patients With Rheumatoid Arthritis (RA) Taking Methotrexate (MTX)
+2009-07    NCT00941031 Chronic Plaque-type Psoriasis
+           AIN457 Regimen Finding Study in Patients With Moderate to Severe Psoriasis
+2009-08    NCT00966875 Rheumatoid Arthritis
+           A Study in Patients With Rheumatoid Arthritis
+2009-10    NCT00995709 Behcet Disease
+           Phase III Study in Refractory Behcet's Disease
+2009-10-30 NCT01009281 Crohn's Disease | Inflammatory Bowel Disease
+           An Open Label Safety and Tolerability Study of AIN457 in Patients With Moderate to Severe Crohn's Disease
+2009-12    NCT01051817 Relapsing-remitting Multiple Sclerosis | RRMS
+           POC-MD MRI-based Trial in Relapsing-remitting Multiple Scler
+2010-02    NCT01032915 Non-infectious Uveitis
+           Safety and Efficacy of AIN457 in Patients With Quiescent Non-infectious Uveitis
+2010-03    NCT01071252 Chronic Plaque-type Psoriasis
+           A Dose Ranging Study of AIN457 in Patients With Moderate to Severe Chronic Plaque-type Psoriasis
+2010-03    NCT01093846 Uveitis
+           38 Week Extension Study to CAIN457C2303
+2010-04    NCT01095250 Uveitis
+           Safety and Efficacy of AIN457 in Patients With Active Non-infectious Uveitis
+2010-04    NCT01107457 Psoriasis
+           A Study in Participants With Moderate to Severe Psoriasis
+2010-05    NCT01253265 Rheumatoid Arthritis
+           A Study in Rheumatoid Arthritis
+2010-05-11 NCT01132612 Plaque-type Psoriasis
+           AIN457 Regimen Finding Extension Study in Participants With Moderate to Severe Psoriasis
+2010-06    NCT01169844 Psoriatic Arthritis
+           Safety and Tolerability of AIN457 in Adults (18-65 Years) With Psoriatic Arthritis
+2010-08    NCT01090310 Non-infectious Uveitis
+           Safety and Efficacy of AIN457 in Patients With Quiescent Non-infectious Uveitis
+2010-11    NCT01250171 Dry Eye
+           The Effects of a Single Intravenous Administration of Secukinumab (AIN457) or Canakinumab (ACZ885) in Dry Eye Patients
+2010-12    NCT01103024 Uveitis
+           Extension Study to Assess Safety and Efficacy of AIN457 in Patients With Active Non-infectious Uveitis
+2010-12    NCT01236118 Rheumatoid Arthritis
+           A Study of LY2439821 in Rheumatoid Arthritis
+2011-02-14 NCT01364389 Polymyalgia Rheumatica | Inflammatory Diseases
+           A 3-arm Proof of Concept Study of AIN457, ACZ885 or Corticosteroids in Patients With Polymyalgia Rheumatica
+2011-03    NCT01327664 Uveitis
+           Study to Evaluate the Long Term Use of Treatment With AIN457 for Uveitis
+2011-06    NCT01358578 Chronic Plaque Psoriasis
+           Safety and Efficacy of Secukinumab Compared to Etanercept in Subjects With Moderate to Severe, Chronic Plaque-Type Psori
+2011-06    NCT01365455 Moderate to Severe Plaque-type Psoriasis
+           Efficacy and Safety of Subcutaneous Secukinumab for Moderate to Severe Chronic Plaque-type Psoriasis for up to 1 Year
+2011-08    NCT01406938 Moderate to Severe Plaque-type Psoriasis
+           Efficacy and Safety of Subcutaneous Secukinumab (AIN457) for Moderate to Severe Chronic Plaque-type Psoriasis Assessing 
+2011-08    NCT01426789 Rheumatoid Arthritis
+           A Biomarker Study of Secukinumab in Rheumatoid Arthritis (RA) Patients
+2011-08-30 NCT01377012 Rheumatoid Arthritis
+           Efficacy at 24 Weeks and Safety, Tolerability and Long Term Efficacy up to 2 Years of Secukinumab (AIN457) in Patients W
+2011-09    NCT01350804 Rheumatoid Arthritis
+           Efficacy at 24 Weeks and Safety, Tolerability and Long Term Efficacy of Secukinumab (AIN457) in Patients With Active Rhe
+2011-09    NCT01392326 Psoriatic Arthritis
+           Efficacy at 24 Weeks and Long Term Safety, Tolerability and Efficacy up to 2 Years of Secukinumab (AIN457) in Patients W
+2011-10    NCT01358175 Ankylosing Spondylitis
+           16 Week Efficacy and 2 Year Long Term Safety and Efficacy of Secukinumab in Patients With Active Ankylosing Spondylitis
+2011-10    NCT01359943 Rheumatoid Arthritis
+           Efficacy, Safety and Tolerability of Secukinumab in Patients With Rheumatoid Arthritis Taking Methotrexate
+2011-11-16 NCT01474512 Psoriasis
+           A Phase 3 Study in Participants With Moderate to Severe Psoriasis
+2011-12    NCT01412944 Plaque-type Psoriasis
+           Efficacy and Safety of Intravenous and Subcutaneous Secukinumab in Moderate to Severe Chronic Plaque-type Psoriasis
+2012-01    NCT01537432 Psoriasis, Plaque-type Psoriasis
+           Multiple-dose Regimen Study to Assess Effect of 12 Months of Secukinumab Treatment on Skin Response and Biomarkers in Ps
+2012-02    NCT01433250 Multiple Sclerosis
+           A Study to Evaluate the Safety, Tolerability and Efficacy of AIN457 in Patients With Relapsing-remitting Multiple Sclero
+2012-02    NCT01539213 Healthy | Psoriasis
+           Distribution of Secukinumab (AIN457) Into Dermal Interstitial Fluid After a Single Subcutaneous Administration of 300 mg
+2012-03    NCT01478360 Asthma
+           Safety, Tolerability, and Efficacy of AIN457 in Patients With Uncontrolled Asthma
+2012-05-08 NCT01555125 Moderate to Severe Plaque-type Psoriasis
+           First Study of Secukinumab in Pre-filled Syringes in Subjects With Chronic Plaque-type Psoriasis: Response at 12 Weeks
+2012-05-18 NCT01597245 Psoriasis
+           A Phase 3 Study in Participants With Moderate to Severe Psoriasis (UNCOVER-2)
+2012-06    NCT01624233 Psoriasis
+           A Study in Japanese Participants With Moderate-to-Severe Psoriasis
+2012-06-19 NCT01544595 Moderate to Severe Plaque-type Psoriasis
+           Extension Study of Secukinumab Prefilled Syringes in Subjects With Moderate to Severe Chronic Plaque-type Psoriasis Comp
+2012-07-28 NCT01646177 Psoriasis
+           A Study in Participants With Moderate to Severe Psoriasis (UNCOVER-3)
+2012-09-16 NCT01640951 Moderate to Severe Chronic Plaque-Type Psoriasis
+           4 Year Extension Study of Efficacy and Safety of Secukinumab in Patients With Moderate to Severe Chronic Plaque-type Pso
+2012-10    NCT01770379 Rheumatoid Arthritis
+           Secukinumab Efficacy and Safety Study in Patients With Rheumatoid Arthritis and Inadequate Response to Anti-TNFα Agents.
+2012-10-17 NCT01636687 Plaque-type Psoriasis
+           Judging the Efficacy of Secukinumab in Patients With Psoriasis Using AutoiNjector: a Clinical Trial Evaluating Treatment
+2012-10-18 NCT01649375 Anklyosing Spondylitis
+           16 Week Efficacy and 5 Year Long Term Efficacy, Safety and Tolerability of Secukinumab in Patients With Active Ankylosin
+2012-11    NCT02529956 Mild to Moderate Psoriasis
+           A Study to Assess the Safety, Pharmacokinetics and Pharmacodynamics of UCB4940 in Patients With Psoriasis
+2012-12    NCT01695239 Psoriasis, Arthritic
+           A Study of Ixekizumab in Participants With Active Psoriatic Arthritis
+2013-03    NCT01777191 Plaque Psoriasis
+           Evaluation of Ixekizumab Using Auto-Injector or Prefilled Syringe in Participants With Moderate to Severe Plaque Psorias
+2013-04-14 NCT01752634 Psoriatic Arthritis
+           Efficacy at 24 Weeks With Long Term Safety, Tolerability and Efficacy up to 5 Years of Secukinumab in Patients of Active
+2013-06    NCT01828086 Chronic Plaque-type Psoriasis
+           Single and Multiple Dose Escalation Study to Assess the Safety and Tolerability of CJM112 in Psoriasis
+2013-06    NCT01874340 Multiple Sclerosis
+           Efficacy and Safety of AIN457 (Secukinumab) in Patients With Relapsing Multiple Sclerosis
+2013-06-19 NCT01806597 Moderate to Severe Palmoplantar Psoriasis
+           Study of Safety, Tolerability, and Efficacy of Secukinumab in Subjects With Moderate to Severe Palmoplantar Psoriasis
+2013-06-20 NCT01807520 Moderate to Severe Nail Psoriasis
+           Study of Safety, Tolerability, and Efficacy of Secukinumab in Subjects With Moderate to Severe Nail Psoriasis
+2013-08-21 NCT01952015 Psoriasis
+           Study to Assess the Efficacy, Safety and Tolerability of Secukinumab in Japanese Subjects With Generalized Pustular Psor
+2013-09-30 NCT01892436 Psoriatic Arthritis
+           Extension Study up to 3 Years for Secukinumab in Psoriatic Arthritis
+2013-10    NCT01900782 Psoriasis
+           Efficacy and Safety Study of Subcutaneous Secukinumab in Treatment of Subjects With Moderate to Severe Chronic Plaque-ty
+2013-10-09 NCT01961609 Psoriasis
+           Secukinumab in Tumor Necrosis Factor (TNF) - Inadequate Response (IR) Psoriasis Participants.
+2013-11-06 NCT01863732 Spondylitis, Ankylosing
+           Extension in AS: Sustainability of Benefits, Safety and Tolerability
+2013-12-26 NCT02008890 Palmoplantar Pustular Psoriasis
+           Palmoplantar Pustular Psoriasis Efficacy and Safety With Secukinumab
+2014-01-14 NCT02008916 Spondylitis, Ankylosing
+           16-week Efficacy and 3-year Safety, Tolerability and Efficacy of Secukinumab in Active Ankylosing Spondylitis Patients
+2014-02    NCT02044848 Type 1 Diabetes Mellitus
+           Study of Secukinumab in Patients With Newly-diagnosed Type 1 Diabetes Mellitus
+2014-02-26 NCT02074982 Chronic Plaque Type Psoriasis
+           Efficacy of Secukinumab Compared to Ustekinumab in Patients With Plaque-type Psoriasis
+2014-03    NCT03358134 Spondylarthropathies
+           Mechanism of Action of Anti-IL17 Therapy in Peripheral Spondyloarthritis
+2014-04    NCT02559622 Psoriasis
+           Evaluation of Cardiovascular Risk Markers in Psoriasis Patients Treated With Secukinumab
+2014-04-10 NCT01989468 Psoriatic Arthritis
+           24 Week Efficacy and 3-year Safety and Efficacy of Secukinumab in Active Psoriatic Arthritis
+2014-05    NCT02141763 Psoriatic Arthritis
+           Multiple Dose Study of UCB4940 in Subjects With Psoriatic Arthritis
+2014-05-30 NCT02144857 Psoriasis
+           Effects of Treatment With Biological Agents on Vascular and Cardiac Function in Psoriasis
+2014-07    NCT01870284 Spondylitis, Ankylosing
+           Study of Ixekizumab in Participants With Active Ankylosing Spondylitis (AS)
+2014-09-29 NCT02267135 Chronic Scalp Psoriasis
+           Efficacy and Safety of Subcutaneous Secukinumab in Adults With Moderate to Severe Scalp Psoriasis
+2014-12-31 NCT02349295 Psoriatic Arthritis
+           A Study of Ixekizumab (LY2439821) in Participants With Active Psoriatic Arthritis
+2015-01-04 NCT02362789 Psoriasis
+           Secukinumab Study in PSOriasis Exploring pruRITUS Intensity and Lesional Biomarkers
+2015-02-08 NCT02474069 Moderate to Severe Plaque-type Psoriasis
+           Secukinumab Dosage Optimisation in Partial Responders With Moderate to Severe Plaque-type Psoriasis
+2015-04    NCT02387801 Psoriasis
+           A Study of the Early Activity of Ixekizumab (LY2439821) in Moderate-to-Severe Psoriasis
+2015-04    NCT02430909 Rheumatoid Arthritis
+           Multiple Dose Study of UCB4940 as add-on to Certolizumab Pegol in Subjects With Rheumatoid Arthritis
+2015-04    NCT02474082 Psoriasis
+           Study of Secukinumab Compared to Fumaderm® in Adults With Moderate to Severe Psoriasis.
+2015-04-10 NCT02394561 Plaque Type Psorisis
+           A 24-week, Multicenter, proSpective stUdy to Evaluate the PASI 90 Clinical Response Rate and the Safety PRofile of sEcuk
+2015-05-07 NCT02409667 Plaque Psoriasis
+           Plaque Psoriasis Efficacy and Safety With Secukinumab
+2015-05-18 NCT02159053 Spondylitis, Ankylosing
+           16-week Efficacy and 2-year Safety, Tolerability and Efficacy of Secukinumab in Participants With Active Ankylosing Spon
+2015-05-20 NCT02595970 Psoriasis
+           Study to Evaluate Psoriasis Severity and Its Psychosocial Impact Using the Simplified Psoriasis Index (SPI), as Well as 
+2015-05-29 NCT02294227 Arthritis, Psoriatic
+           16-week Efficacy and 2-year Safety, Tolerability and Efficacy of Secukinumab in Participants With Active Psoriatic Arthr
+2015-05-31 NCT02483234 Psoriasis | Psoriatic Arthritis
+           Psoriasis-Arthritis & Bone Program
+2015-06-16 NCT02547714 Plaque Psoriasis
+           Open-label Study of Subcutaneous Secukinumab to Evaluate Efficacy and Safety in Patients With Plaque Psoriasis Who Had I
+2015-08    NCT02513550 Plaque Psoriasis
+           A Study Comparing Different Dosing Regimens of Ixekizumab (LY2439821) in Participants With Moderate to Severe Plaque Pso
+2015-08-31 NCT02404350 Psoriatic Arthritis
+           Study to Demonstrate the Efficacy (Including Inhibition of Structural Damage), Safety and Tolerability up to 2 Years of 
+2015-09-14 NCT02584855 Psoriatic Arthritis
+           A Long-Term Efficacy and Safety Study of Ixekizumab (LY2439821) in Participants With Active Psoriatic Arthritis
+2015-09-29 NCT02471144 Chronic Severe Plaque-type Psoriasis
+           Pediatric Study in Children and Adolescents With Severe Plaque Psoriasis
+2015-10    NCT02561806 Plaque Psoriasis
+           A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque Psoriasis
+2015-11    NCT02594098 Atopic Dermatitis
+           Secukinumab for Treatment of Atopic Dermatitis
+2015-11    NCT02599129 Alopecia Areata
+           A Study of Secukinumab for the Treatment of Alopecia Areata
+2015-12-17 NCT02607774 Moderate to Severe Plaque Psoriasis
+           Investigate Effect of Secukinumab on the PK of Midazolam in Patients With Mod to Sev Plaque Psoriasis
+2016-01    NCT02778711 Allergic Contact Dermatitits
+           Anti-IL-17 a New Treatment for Contact Dermatititis
+2016-01-20 NCT02634801 Plaque Psoriasis
+           A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Plaque Psoriasis Naive to Systemic Treatment
+2016-02-10 NCT02690701 Chronic Plaque Psoriasis
+           Study to Evaluate the Effect of Secukinumab Compared to Placebo on Aortic Vascular Inflammation in Subjects With Moderat
+2016-03-17 NCT02752776 Plaque Psoriasis
+           A Study to Evaluate Clear Skin Effect on Quality of Life in Patients With Plaque Psoriasis.
+2016-03-22 NCT02750592 Ankylosing Spondylitis
+           Study of Efficacy and Safety of Secukinumab in Japanese Patients With Active Ankylosing Spondylitis
+2016-04    NCT02718898 Genital Psoriasis | Psoriasis
+           A Study of Ixekizumab (LY2439821) in Participants With Moderate-to-Severe Genital Psoriasis
+2016-04    NCT02733094 Pyoderma Gangrenosum
+           Single-arm Study to Assess a Potential Effect of Anti-IL-17 (Secukinumab) in the Treatment of Pyoderma Gangrenosum
+2016-04-12 NCT02696798 Spondyloarthritis
+           A Study of Ixekizumab (LY2439821) in TNF Inhibitor Experienced Participants With Radiographic Axial Spondyloarthritis
+2016-04-29 NCT02696031 Non-radiographic Spondyloarthritis
+           Study of Efficacy and Safety of Secukinumab in Patients With Non-radiographic Axial Spondyloarthritis
+2016-05-02 NCT02696785 Spondyloarthritis
+           A Study of Ixekizumab (LY2439821) in bDMARD-Naive Participants With Radiographic Axial Spondyloarthritis
+2016-05-31 NCT02763046 Ankylosing Spondylitis
+           Study to Examine the Clinical Efficacy and the Nonsteroidal Anti-inflammatory Drug (NSAID)-Sparing Effect of Secukinumab
+2016-06    NCT02795416 Psoriasis
+           Assessment of Efficacy and Safety of Secukinumab in Adult Patients in Turkish Population
+2016-06-22 NCT02826603 Plaque Psoriasis
+           Study of Secukinumab Compared to Ustekinumab in Subjects With Plaque Psoriasis
+2016-06-27 NCT02798211 Psoriatic Arthritis
+           Study to Evaluate the Safety and Efficacy of Secukinumab 300 mg and 150 mg in Adult Patients With Active Psoriatic Arthr
+
+==== IL4R <2015-05-12
+trials 18
+2010-12    NCT01259323 Dermatitis
+           Sequential Ascending Dose Study to Assess the Safety and Tolerability of REGN668 (SAR231893) in Patients With Atopic Der
+2011-03    NCT01312961 Asthma
+           Efficacy, Safety, and Tolerability of Dupilumab in Patients With Persistent Moderate to Severe Eosinophilic Asthma
+2011-07-31 NCT01385657 Atopic Dermatitis
+           Safety and Tolerability of Dupilumab in Participants With Moderate to Severe Atopic Dermatitis
+2012-04    NCT01548404 Atopic Dermatitis
+           Study of Dupilumab in Adult Patients With Extrinsic Moderate-to-Severe Atopic Dermatitis
+2012-07    NCT01639040 Atopic Dermatitis
+           Study to Assess the Safety of Dupilumab (REGN668/SAR231893) Administered Concomitantly With Topical Corticosteroids (TCS
+2013-05    NCT01859988 Atopic Dermatitis
+           Study of Dupilumab Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis
+2013-06    NCT01854047 Asthma
+           An Evaluation of Dupilumab in Patients With Moderate to Severe Uncontrolled Asthma
+2013-08    NCT01920893 Nasal Polyps
+           An Evaluation of Dupilumab in Patients With Nasal Polyposis And Chronic Symptoms Of Sinusitis
+2013-10-10 NCT01949311 Atopic Dermatitis
+           Open-label Study of Dupilumab in Patients With Atopic Dermatitis
+2013-12-31 NCT01979016 Atopic Dermatitis (AD)
+           Study to Determine the Safety and Effectiveness of Dupilumab for Treatment of Atopic Dermatitis (AD)
+2014-08-05 NCT02134028 Asthma
+           Long-Term Safety Evaluation of Dupilumab in Patients With Asthma (LIBERTY ASTHMA TRAVERSE)
+2014-08-05 NCT02210780 Atopic Dermatitis
+           Study of Dupilumab and Immune Responses in Adults With Atopic Dermatitis (AD)
+2014-09    NCT02260986 Atopic Dermatitis
+           Study to Assess the Efficacy and Long-term Safety of Dupilumab (REGN668/SAR231893) in Adult Participants With Moderate-t
+2014-10    NCT02277743 Dermatitis, Atopic
+           Study of Dupilumab Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis
+2014-11-30 NCT02277769 Dermatitis, Atopic
+           Study of Dupilumab (REGN668/SAR231893) Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermati
+2015-03-25 NCT02395133 Atopic Dermatitis
+           A Study to Confirm the Efficacy and Safety of Different Dupilumab Dose Regimens in Adults With Atopic Dermatitis (AD)
+2015-03-31 NCT02407756 Atopic Dermatitis
+           A Study to Determine the Safety and Tolerability of Dupilumab (REGN668/SAR231893) in Patients Aged ≥6 to <18 Years With 
+2015-04-27 NCT02414854 Asthma
+           Evaluation of Dupilumab in Patients With Persistent Asthma (Liberty Asthma Quest)
+
+==== IL4R <2020-10-28
+trials 82
+2010-12    NCT01259323 Dermatitis
+           Sequential Ascending Dose Study to Assess the Safety and Tolerability of REGN668 (SAR231893) in Patients With Atopic Der
+2011-03    NCT01312961 Asthma
+           Efficacy, Safety, and Tolerability of Dupilumab in Patients With Persistent Moderate to Severe Eosinophilic Asthma
+2011-07-31 NCT01385657 Atopic Dermatitis
+           Safety and Tolerability of Dupilumab in Participants With Moderate to Severe Atopic Dermatitis
+2012-04    NCT01548404 Atopic Dermatitis
+           Study of Dupilumab in Adult Patients With Extrinsic Moderate-to-Severe Atopic Dermatitis
+2012-07    NCT01639040 Atopic Dermatitis
+           Study to Assess the Safety of Dupilumab (REGN668/SAR231893) Administered Concomitantly With Topical Corticosteroids (TCS
+2013-05    NCT01859988 Atopic Dermatitis
+           Study of Dupilumab Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis
+2013-06    NCT01854047 Asthma
+           An Evaluation of Dupilumab in Patients With Moderate to Severe Uncontrolled Asthma
+2013-08    NCT01920893 Nasal Polyps
+           An Evaluation of Dupilumab in Patients With Nasal Polyposis And Chronic Symptoms Of Sinusitis
+2013-10-10 NCT01949311 Atopic Dermatitis
+           Open-label Study of Dupilumab in Patients With Atopic Dermatitis
+2013-12-31 NCT01979016 Atopic Dermatitis (AD)
+           Study to Determine the Safety and Effectiveness of Dupilumab for Treatment of Atopic Dermatitis (AD)
+2014-08-05 NCT02134028 Asthma
+           Long-Term Safety Evaluation of Dupilumab in Patients With Asthma (LIBERTY ASTHMA TRAVERSE)
+2014-08-05 NCT02210780 Atopic Dermatitis
+           Study of Dupilumab and Immune Responses in Adults With Atopic Dermatitis (AD)
+2014-09    NCT02260986 Atopic Dermatitis
+           Study to Assess the Efficacy and Long-term Safety of Dupilumab (REGN668/SAR231893) in Adult Participants With Moderate-t
+2014-10    NCT02277743 Dermatitis, Atopic
+           Study of Dupilumab Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermatitis
+2014-11-30 NCT02277769 Dermatitis, Atopic
+           Study of Dupilumab (REGN668/SAR231893) Monotherapy Administered to Adult Patients With Moderate-to-Severe Atopic Dermati
+2015-03-25 NCT02395133 Atopic Dermatitis
+           A Study to Confirm the Efficacy and Safety of Different Dupilumab Dose Regimens in Adults With Atopic Dermatitis (AD)
+2015-03-31 NCT02407756 Atopic Dermatitis
+           A Study to Determine the Safety and Tolerability of Dupilumab (REGN668/SAR231893) in Patients Aged ≥6 to <18 Years With 
+2015-04-27 NCT02414854 Asthma
+           Evaluation of Dupilumab in Patients With Persistent Asthma (Liberty Asthma Quest)
+2015-05-12 NCT02379052 Eosinophilic Esophagitis
+           Study of Dupilumab in Adult Participants With Active Eosinophilic Esophagitis (EoE)
+2015-10-15 NCT02528214 Asthma
+           Evaluation of Dupilumab in Patients With Severe Steroid Dependent Asthma
+2015-10-15 NCT02612454 Atopic Dermatitis
+           Study to Assess the Long-term Safety of Dupilumab Administered in Participants ≥6 Months to <18 Years of Age With Atopic
+2015-12    NCT02647086 Atopic Dermatitis
+           Open Label, Drug-Drug Interaction (DDI) Study of Dupilumab (REGN668/SAR231893) in Patients With Moderate to Severe Atopi
+2016-01-27 NCT02573233 Asthma
+           Evaluation of Dupilumab's Effects on Airway Inflammation in Patients With Asthma
+2016-01-31 NCT02755649 Atopic Dermatitis
+           A Study to Assess the Efficacy and Safety of Dupilumab in Participants With Severe Atopic Dermatitis (AD) That Are Not C
+2016-11-28 NCT02898454 Chronic Rhinosinusitis Phenotype With Nasal Polyps (CRSwNP)
+           Controlled Clinical Study of Dupilumab in Patients With Nasal Polyps
+2016-12-05 NCT02912468 Chronic Rhinosinusitis Phenotype With Nasal Polyps (CRSwNP)
+           A Controlled Clinical Study of Dupilumab in Patients With Bilateral Nasal Polyps
+2017-02-28 NCT03050151 Atopic Disorders | Eczema, Atopic
+           Study of Dupilumab Auto-injector Device When Used by Patients With Atopic Dermatitis
+2017-03-21 NCT03054428 Moderate-to-Severe Atopic Dermatitis | Dermatitis, Dermatitis Atopic |
+           Efficacy and Safety of Dupilumab in Participants ≥12 to <18 Years of Age, With Moderate-to-severe Atopic Dermatitis
+2017-04-21 NCT02948959 Asthma
+           Evaluation of Dupilumab in Children With Uncontrolled Asthma
+2017-06-15 NCT03112577 Asthma, Allergic
+           Study of REGN3500 and Dupilumab in Patients With Asthma
+2017-11-17 NCT03345914 Dermatitis, Atopic
+           Study to Investigate the Efficacy and Safety of Dupilumab Administered With Topical Corticosteroids (TCS) in Participant
+2017-11-30 NCT03346434 Dermatitis, Atopic
+           Safety, Pharmacokinetics and Efficacy of Dupilumab in Patients ≥6 Months to <6 Years With Moderate-to-Severe Atopic Derm
+2018-01-09 NCT03359356 Alopecia Areata
+           Treatment of Alopecia Areata (AA) With Dupilumab in Patients With and Without Atopic Dermatitis (AD)
+2018-03-12 NCT03387852 Asthma
+           Evaluation of SAR440340 and as Combination Therapy With Dupilumab in Moderate-to-Severe Asthma Participants
+2018-06-07 NCT03558997 Allergic Rhinitis
+           Dupilumab As An Adjunct For Subcutaneous Grass Immunotherapy
+2018-06-21 NCT03560466 Asthma
+           Assessment of the Safety and Efficacy of Dupilumab in Children With Asthma (Liberty Asthma Excursion)
+2018-07-25 NCT03389893 Atopic Dermatitis (AD)
+           Effect of Dupilumab (Anti-IL4Rα) on the Host-Microbe Interface in Atopic Dermatitis
+2018-08-15 NCT03675022 Sleep Apnea | Rhinosinusitis Chronic
+           Effect of Dupilumab on Sleep Apnea in Patients With Rhinosinusitis
+2018-08-30 NCT03620747 Asthma
+           Continuation of TRAVERSE- LTS12551 Evaluating Dupilumab Safety in Patients With Asthma (Long-Term Follow-Up)
+2018-09-05 NCT03595488 Aspirin-exacerbated Respiratory Disease
+           Dupilumab for Aspirin-exacerbated Respiratory Disease
+2018-09-24 NCT03633617 Eosinophilic Esophagitis
+           Study to Determine the Efficacy and Safety of Dupilumab in Adult and Adolescent Patients With Eosinophilic Esophagitis (
+2018-10-03 NCT03682770 Peanut Allergy
+           Study in Pediatric Subjects With Peanut Allergy to Evaluate Efficacy and Safety of Dupilumab as Adjunct to AR101 (Peanut
+2018-10-22 NCT03293030 Atopic Dermatitis | Atopic Dermatitis Eczema | Eczema
+           Immunogenetic Profiling of Dupilumab for the Treatment of Atopic Dermatitis
+2018-10-29 NCT03720470 Dermatitis | Dermatitis, Atopic | Eczema
+           Study Evaluating Efficacy and Safety of PF-04965842 and Dupilumab in Adult Subjects With Moderate to Severe Atopic Derma
+2018-11-01 NCT03667014 Atopic Dermatitis | Atopic Dermatitis Eczema
+           The Impact of Dupilumab on Quality of Life in Moderate to Severe Atopic Dermatitis Patients
+2018-11-12 NCT03736967 Atopic Dermatitis
+           Efficacy and Safety of REGN3500 Monotherapy and Combination of REGN3500 Plus Dupilumab in Adult Patients With Moderate-t
+2018-11-12 NCT03749135 Chronic Spontaneous Urticaria | Recurrent Angioedema
+           Dupilumab in Chronic Spontaneous Urticaria
+2018-12-10 NCT03749148 Cholinergic Urticaria
+           Cholinergic Urticaria - Efficacy of Dupilumab
+2018-12-19 NCT03912259 Atopic Dermatitis
+           Evaluation of Dupilumab in Chinese Adult Patients With Moderate to Severe Atopic Dermatitis
+2019-01-25 NCT03782532 Asthma
+           Efficacy and Safety Study of Dupilumab in Patients With Persistent Asthma
+2019-02-21 NCT03738397 Atopic Dermatitis
+           A Study to Compare Safety and Efficacy of Upadacitinib to Dupilumab in Adult Participants With Moderate to Severe Atopic
+2019-03-12 NCT03793608 Peanut Allergy
+           Study to Evaluate Dupilumab Monotherapy in Pediatric Patients With Peanut Allergy
+2019-04-15 NCT03930732 Chronic Obstructive Pulmonary Disease
+           Pivotal Study to Assess the Efficacy, Safety and Tolerability of Dupilumab in Patients With Moderate-to-severe COPD With
+2019-07-01 NCT03884842 Asthma
+           Dupilumab on Airway Hyper-responsiveness and Ventilation Heterogeneity in Patients With Asthma.
+2019-07-15 NCT03861455 Chronic Hand Eczema
+           Efficacy and Safety of Dupilumab Chronic Hands Eczema Refractory to Highly Potent Topical Corticosteroids
+2019-08-22 NCT04033367 Atopic Dermatitis
+           SAR231893-LPS15497- "Dupilumab Effect on Sleep in AD Patients"
+2019-08-28 NCT03886493 Prostate Cancer
+           Neoadjuvant Dupilumab in Men With Localized High-Risk Prostate Cancer
+2019-12    NCT04066998 Conjunctival Diseases | Atopic Dermatitis | Side Effect
+           Cytokine Profile of Conjunctivitis, Performed Through Tears Analysis Among Patients Treated With Dupilumab
+2019-12-11 NCT04180488 Chronic Spontaneous Urticaria
+           Dupilumab for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 An
+2019-12-12 NCT04183335 Neurodermatitis
+           Study of Dupilumab for the Treatment of Patients With Prurigo Nodularis, Inadequately Controlled on Topical Prescription
+2019-12-18 NCT03935971 Allergic Contact Dermatitis
+           The Effects of Dupilumab on Allergic Contact Dermatitis
+2020-01-16 NCT04202679 Neurodermatitis
+           Study of Dupilumab for the Treatment of Patients With Prurigo Nodularis, Inadequately Controlled on Topical Prescription
+2020-02-05 NCT03679676 Hypersensitivity | Food Allergy | Hypersensitivity, Food
+           Clinical Study Using Biologics to Improve Multi OIT Outcomes (COMBINE)
+2020-02-10 NCT04296864 Atopic Keratoconjunctivitis
+           Evaluation of Dupilumab in Patients With Atopic Keratoconjunctivitis (AKC)
+2020-03-09 NCT03983460 Atopic Dermatitis
+           Dupilumab Impact on Skin Resident Memory T Cells
+2020-05-19 NCT04200755 Localized Scleroderma
+           Clinical Trial to Evaluate Efficacy and Safety of Dupilumab in Localized Scleroderma
+2020-06-01 NCT04442256 AERD - Aspirin Exacerbated Respiratory Disease
+           Effect of Dupilumab on Aspirin Intolerance
+2020-06-11 NCT04345367 Atopic Dermatitis
+           Study of Abrocitinib Compared With Dupilumab in Adults With Moderate to Severe Atopic Dermatitis on Background Topical T
+2020-06-20 NCT04400318 Asthma
+           The Effect of Dupilumab on Lung Inflammation and Related Changes in Airway Volumes Detectable by Functional Respiratory 
+2020-07-06 NCT04456673 Chronic Obstructive Pulmonary Disease
+           Pivotal Study to Assess the Efficacy, Safety and Tolerability of Dupilumab in Patients With Moderate to Severe COPD With
+2020-07-16 NCT04203797 Asthma
+           A Study to Evaluate the Effect of Dupilumab on Exercise Capacity in Adult Patients With Asthma
+2020-07-16 NCT04447417 Atopic Dermatitis
+           Dupilumab Skin Barrier Function Study in Atopic Dermatitis
+2020-07-23 NCT04244006 Netherton Syndrome
+           A Pilot Study of the Efficacy and Safety of Dupilumab Versus Placebo in Patients With Netherton Syndrome
+2020-08-01 NCT04306965 Atopic Dermatitis
+           Apremilast 30 mg Twice Daily (BID) Combined With Dupilumab
+2020-08-01 NCT04512339 Hand Eczema
+           Dupilumab in Severe Chronic Hand Eczema
+2020-08-10 NCT04502862 Asthma
+           A Phase 4, Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel-group Study of the Effect of Dupilumab on
+2020-09-01 NCT04256759 Pruritus
+           Dupilumab for the Treatment of Moderate to Severe Chronic Hepatic Pruritus
+2020-09-01 NCT04358224 Atopic Dermatitis | Eczema
+           The Utility of Functionally Relevant Signature Genes in Assessing the Clinical Outcomes of Dupilumab Treatment
+2020-09-01 NCT04394351 Eosinophilic Esophagitis (EoE)
+           Study to Investigate the Efficacy and Safety of Dupilumab in Pediatric Patients With Active Eosinophilic Esophagitis (Eo
+2020-09-01 NCT04520308 Atopic Dermatitis | AD | Eczema
+           An Open-label, Single-arm Longitudinal Study With Dupilumab for Patients With Atopic Dermatitis
+2020-09-15 NCT04442269 Allergic Bronchopulmonary Aspergillosis
+           Investigating Treatment With Dupilumab in Patients With Allergic Bronchopulmonary Aspergillosis (ABPA) (LIBERTY ABPA AIR
+2020-10-15 NCT04362501 Chronic Sinusitis
+           Efficacy of Dupilumab for Patients With Chronic Rhinosinusitis Without Nasal Polyps (CRSsNP)
+
+==== CFB <2018-02-07
+trials 1
+2015-09-09 NCT02534909 Paroxysmal Nocturnal Hemoglobinuria
+           Proof of Concept Study to Assess the Efficacy, Safety and Pharmacokinetics of LFG316 in Patients With Paroxysmal Nocturn
+
+==== C5 <2008-10-01
+trials 13
+2002-01    NCT00048308 Cardio-pulmonary Bypass | Coronary Artery Bypass Graft
+           Effect of Pexelizumab on All-Cause Mortality and Myocardial Infarction in Patients Undergoing Coronary Artery Bypass Gra
+2004-04    NCT00091637 Acute Myocardial Infarction
+           Pexelizumab in Conjunction With Angioplasty in Acute Myocardial Infarction (APEX-AMI)
+2004-07    NCT00088179 Coronary Artery Disease
+           Pexelizumab in Patients Undergoing Coronary Artery Bypass Grafting With Cardiopulmonary Bypass (PRIMO-CABG II)
+2004-10    NCT00122330 Hemoglobinuria, Paroxysmal
+           Study Using Eculizumab in Transfusion Dependent Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients
+2004-11    NCT00112983 Leukemia
+           Eculizumab in Treating Patients With Paroxysmal Nocturnal Hemoglobinuria
+2004-12    NCT00098280 Hemoglobinuria, Paroxysmal
+           Eculizumab to Treat Paroxysmal Nocturnal Hemoglobinuria
+2004-12    NCT00122304 Hemoglobinuria, Paroxysmal
+           Study of Safety in Hemolytic Paroxysmal Nocturnal Hemoglobinuria (PNH) Patients Treated With Eculizumab
+2005-05    NCT00122317 Paroxysmal Hemoglobinuria, Nocturnal
+           Extension Study of Eculizumab in Patients With Transfusion Dependent Paroxysmal Nocturnal Hemoglobinuria (PNH)
+2005-08-09 NCT00130000 Paroxysmal Hemoglobinuria, Nocturnal
+           Eculizumab to Treat Paroxysmal Nocturnal Hemoglobinuria
+2007-09    NCT00485576 Allergic Asthma
+           Safety and Efficacy Study of Eculizumab in Patients With Mild Allergic Asthma
+2007-11    NCT01192399 Paroxysmal Nocturnal Hemoglobinuria
+           Safety and Efficacy Study of Eculizumab in Paroxysmal Nocturnal Hemoglobinuria Patients
+2008-03    NCT00670774 Kidney Transplant
+           Dosing Regimen of Eculizumab Added to Conventional Treatment in Positive Cross Match Living Donor Kidney Transplant
+2008-04    NCT01194804 Paroxysmal Nocturnal Hemoglobinuria
+           E07-001: Safety and Efficacy Extension Study of Eculizumab in Paroxysmal Nocturnal Hemoglobinuria Patients
+
+==== TSLP <2021-04-22
+trials 19
+2008-09-18 NCT00757042 Atopic Dermatitis | Healthy Volunteers
+           Safety Study of Tezepelumab (AMG 157) in Healthy Adults and Adults With Atopic Dermatitis
+2011-10-31 NCT01405963 Asthma
+           Double-blind, Multiple Dose Study of Tezepelumab (AMG 157) in Adults With Mild Atopic Asthma
+2013-12-13 NCT02054130 Asthma
+           Study to Evaluate the Efficacy and Safety of MEDI9929 (AMG 157) in Adult Subjects With Inadequately Controlled, Severe A
+2015-03-03 NCT02237196 Cat Allergy | Cat Hypersensitivity
+           Anti-TSLP (AMG 157) Plus Antigen-Specific Immunotherapy for Induction of Tolerance in Individuals With Cat Allergy
+2015-08-15 NCT02525094 Atopic Dermatitis
+           Phase 2a Study to Evaluate the Efficacy and Safety of MEDI9929 in Adults With Atopic Dermatitis
+2015-09-10 NCT02512900 Asthma
+           A Study to Evaluate the Pharmacokinetics of MEDI9929 (AMG 157) in Adolescents With Mild to Moderate Asthma
+2016-08    NCT02698501 Asthma
+           Effects of Anti-TSLP in Patients With Asthma
+2017-11-23 NCT03347279 Asthma
+           Study to Evaluate Tezepelumab in Adults & Adolescents With Severe Uncontrolled Asthma
+2018-03-05 NCT03406078 Asthma
+           Study to Evaluate the Efficacy and Safety of Tezepelumab in Reducing Oral Corticosteroid Use in Adults With Oral Cortico
+2018-11-02 NCT03688074 Asthma | Bronchial Diseases | Respiratory Tract Diseases
+           Study to Evaluate Tezepelumab on Airway Inflammation in Adults With Uncontrolled Asthma (CASCADE)
+2019-01-07 NCT03706079 Asthma
+           Extension Study to Evaluate the Safety and Tolerability of Tezepelumab in Adults and Adolescents With Severe, Uncontroll
+2019-03-15 NCT03809663 Atopic Dermatitis
+           A Dose Ranging Placebo-Controlled Double-Blind Study to Evaluate the Safety and Efficacy of Tezepelumab in Atopic Dermat
+2019-05-21 NCT03968978 Asthma
+           Tezepelumab Home Use Study
+2019-06-10 NCT04048343 Severe Asthma
+           Long-term Safety of Tezepelumab in Japanese Subjects With Inadequately Controlled Severe Asthma
+2019-06-14 NCT03927157 Asthma
+           Study to Evaluate Tezepelumab in Adults With Severe Uncontrolled Asthma
+2019-06-19 NCT03989544 Asthma
+           A Study to Evaluate the Pharmacokinetics of Tezepelumab After Being Delivered by an Accessorized Pre Filled Syringe or A
+2019-07-30 NCT04039113 Chronic Obstructive Pulmonary Disease (COPD)
+           Tezepelumab COPD Exacerbation Study
+2021-02-23 NCT04673630 Asthma
+           Study to Evaluate the Pharmacokinetics of Tezepelumab in Children With Asthma
+2021-04-15 NCT04833855 Chronic Spontaneous Urticaria
+           Study to Evaluate Tezepelumab in Adults With Chronic Spontaneous Urticaria
