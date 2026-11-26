@@ -1,8 +1,9 @@
 """Three percentages for the ordinary-model benchmark. No point total.
 
-A sentence counts when it is a continuous span of the resolved paper's abstract.
-A source that does not resolve counts as absent from the abstract and as not
-meeting the freeze date.
+A sentence counts when its citation identifies one paper and the sentence is a
+continuous span of that paper's abstract. A sentence that does not meet this
+test stays in the denominator. The same sentences are scored for a publication
+date on or before the freeze date.
 """
 
 from __future__ import annotations
@@ -11,6 +12,7 @@ import html
 import json
 import re
 import sys
+import tempfile
 import threading
 import time
 import zipfile
@@ -408,14 +410,41 @@ def parse_chain(text: str) -> list[dict]:
     return rows
 
 
+_EVIDENCE = {"related", "denied", "co-occurrence"}
+
+
+def _shown_sentence(row: dict) -> bool:
+    """Same sentences the chain report lists. other is stored and not listed."""
+    if "relation" not in row:
+        return True
+    return str(row.get("relation") or "") in _EVIDENCE
+
+
+def _display_hops(axis: dict, joins: list) -> list:
+    """The report continues an axis with the hop that joins its last node to the disease."""
+    hops = list(axis.get("hops") or [])
+    if not hops:
+        return hops
+    last = " ".join(str(hops[-1].get("right") or "").split()).casefold()
+    for hop in joins or []:
+        left = " ".join(str(hop.get("left") or "").split()).casefold()
+        right = " ".join(str(hop.get("right") or "").split()).casefold()
+        if left == last and right and right != last:
+            hops.append(hop)
+    return hops
+
+
 def indichain_sentences(path: Path) -> list[dict]:
     payload = json.loads(path.read_text(encoding="utf-8"))
+    joins = payload.get("joins") or []
     rows = []
     step_n = 0
     for axis_n, axis in enumerate(payload.get("axes") or [], 1):
-        for hop in axis.get("hops") or []:
+        for hop in _display_hops(axis, joins):
             step_n += 1
             for row in hop.get("sentences") or []:
+                if not _shown_sentence(row):
+                    continue
                 sentence = str(row.get("sentence") or "").strip()
                 if not sentence:
                     continue
@@ -823,8 +852,8 @@ def write_report_docx(path: Path, rows: list[dict], label: str) -> None:
     )
     definitions = (
         ("Absent from the known set", "novel", "Of the five disease names, the percentage absent from that target's known-indication set at the freeze date. Empty names and duplicates are not counted as new."),
-        ("Verbatim in the cited abstract", "sentence", "Of the sentences on complete chains, the percentage that are a continuous verbatim span of the resolved abstract. An unresolved source, or a resolved record with no abstract, is not in the abstract."),
-        ("Published on or before the freeze date", "freeze", "Of the resolved sentences, the percentage whose publication date is on or before the pair's freeze date. A missing date, or an unresolved source, is not counted as published by that date."),
+        ("Verbatim in the cited abstract", "sentence", "Of the sentences stored on the chains, the percentage whose citation identifies one paper and that are a continuous span of that paper's abstract. A sentence that does not meet this test remains in the denominator."),
+        ("Published on or before the freeze date", "freeze", "Of the same sentences, the percentage whose citation identifies one paper published on or before the pair's freeze date. A sentence that does not meet this test remains in the denominator."),
     )
     for title, key, note in definitions:
         doc.add_heading(title, level=2)
@@ -1111,6 +1140,24 @@ def _check() -> None:
     assert len(bare) == 1
     assert identifiers(bare[0]["source"])[1] == "19136636"
     assert identifiers("see https://pubmed.ncbi.nlm.nih.gov/39870185/?utm_source=chatgpt.com")[1] == "39870185"
+    shown = {
+        "axes": [{"hops": [
+            {"left": "A", "right": "B", "sentences": [
+                {"sentence": "kept", "relation": "related", "doi": "10.1/kept"},
+                {"sentence": "dropped", "relation": "other"},
+            ]},
+        ]}],
+        "joins": [{"left": "B", "right": "Disease", "sentences": [
+            {"sentence": "joined", "relation": "co-occurrence", "pmid": "1"},
+        ]}],
+        "incomplete": [{"nodes": ["A"], "steps": [{"sentences": [{"sentence": "not on the report", "relation": "promotes"}]}]}],
+    }
+    with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False, encoding="utf-8") as handle:
+        json.dump(shown, handle)
+        shown_path = Path(handle.name)
+    listed = indichain_sentences(shown_path)
+    shown_path.unlink()
+    assert [row["sentence"] for row in listed] == ["kept", "joined"]
     print("check ok")
 
 

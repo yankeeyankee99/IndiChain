@@ -8,6 +8,16 @@ Both sides use the freeze date of that program run. For Kv1.3 the freeze date is
 
 The three percentages in the manuscript (absent from the known set, verbatim in the cited abstract, and published on or before the freeze date) are computed by `score/bench_percent.py`. They are not this weighted score.
 
+## Verbatim in the cited abstract, and published on or before the freeze date
+
+`score/bench_percent.py` counts every sentence stored on the chain. For the program, those sentences are the ones the chain report lists as related, denied, or co-occurrence, including the hop that joins the last node to the disease. For an unaided reply, they are the sentence lines parsed from that reply.
+
+Verbatim in the cited abstract is the fraction whose citation identifies one paper and that are a continuous span of that paper's abstract. Published on or before the freeze date is the fraction of the same sentences whose citation identifies one paper published on or before the pair's freeze date. A sentence that does not meet a test remains in that test's denominator.
+
+A citation identifies one paper when the DOI, PMID, or PMCID stored on that sentence matches one record, or when the author, title, journal, year, and page written on that sentence return exactly one PubMed record. A journal name and a year, with no author and no title, do not identify a paper. Each sentence is resolved from the citation stored on that sentence.
+
+The abstract comparison is `judge_sentence`. The date comparison is `on_or_before`. Reported values are arithmetic means of the per-pair percentages. Kv1.3–IgA nephropathy is omitted from that mean.
+
 ## Names used in the manuscript
 
 The rules, symbols, and names above stay as written here. The manuscript uses the names in this table when it refers to this score.
