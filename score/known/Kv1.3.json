@@ -1,12 +1,9 @@
 {
   "target": "Kv1.3",
   "as_of": "2026-04-30",
-  "source": "nominate结果/Kv1.3提名新颖性对照.docx",
+  "source": "ClinicalTrials.gov，查阅日 2026-11-26。药物为 dalazatide（ShK-186）和 YR001（PA032）。纳入研究开始日早于 2026-04-30 的患者试验。健康受试者试验 NCT02446340、NCT05718921 不计入。NCT05718921 题名是健康受试者，条件栏写的特应性皮炎和银屑病不另立。YR011 的两项试验和 YR001 的 NCT07673458 开始日晚于冻结日，不计入。",
   "known": [
-    {"name": "Psoriasis", "aliases": ["plaque psoriasis", "银屑病"]},
-    {"name": "Multiple Sclerosis", "aliases": ["多发性硬化"]},
-    {"name": "Arthritis, Rheumatoid", "aliases": ["rheumatoid arthritis", "类风湿关节炎"]},
-    {"name": "Diabetes Mellitus, Type 1", "aliases": ["type 1 diabetes", "type 1 diabetes mellitus", "1型糖尿病"]},
-    {"name": "Dermatitis, Allergic Contact", "aliases": ["allergic contact dermatitis", "过敏性接触性皮炎"]}
+    {"name": "Psoriasis", "aliases": ["plaque psoriasis", "active plaque psoriasis", "银屑病"], "nct": "NCT02435342", "start": "2014-10"},
+    {"name": "Dermatitis, Atopic", "aliases": ["atopic dermatitis", "特应性皮炎"], "nct": "NCT06309355", "start": "2024-06-19"}
   ]
 }

@@ -152,23 +152,15 @@ These score 0: no descriptor; two descriptors fit equally well; only a parent cl
 \bar{k}=\frac{1}{5}\sum_{i=1}^{5}k_i,\qquad S_{new}=25\bar{k}
 \]
 
-\(k_i=1\) means that, on material published on or before the freeze date, the disease is not yet a known indication of this target. Known means any of the following:
+\(k_i=1\) means that the disease is not yet a known indication of this target. A disease is already an indication when a patient trial of a drug developed for that target, in that disease, started before the freeze date. Completed, ongoing, and stopped patient trials count. The trial that starts on the freeze date does not. A healthy-volunteer trial does not. A disease named only in a condition field, and not in the trial title, does not. A drug developed for another target that also acts on this target does not make its indications known indications of this target.
 
-- A drug developed for the target is marketed for the disease.
-- That drug has entered a clinical trial in patients with the disease. Completed, ongoing, and stopped trials all count.
-- A review already states the disease as an established association of the target.
+A name that denotes that same disease, including a relapsed, refractory, or phenotype-qualified form, is that indication. A different disease is new. The program counts a name as known when its MeSH id is the id stored for that disease, when its normalized text equals a stored name or alias, or when a stored name or alias appears as a whole phrase inside it. A synonym that does not contain the stored name is known only when that wording is itself stored as an alias. Descendant MeSH descriptors are not added. A review, a marketing authorization, an animal experiment, a case report, or a preclinical announcement does not by itself make the indication known.
 
-A drug developed for another target that also acts on this target does not make its indications known indications of this target.
+One known indication removes only its own share of the five. It does not zero the other new indications. When all five are known, \(\bar{k}=0\). When this target has no known-indication set, indication novelty is not scored 0 and is not scored full. The item stays unscored.
 
-One known indication removes only its own share of the five. It does not zero the other new indications. When all five are known, \(\bar{k}=0\).
+The known set is written before the unaided model's list is seen, and it is not expanded afterwards. For Kv1.3 at the freeze date 2026-04-30 the set is two patient trials: dalazatide (ShK-186) in plaque psoriasis, NCT02435342, and YR001 (PA032) in atopic dermatitis, NCT06309355. A nominated disease that is neither of those two, including IgA nephropathy and multiple sclerosis, is new.
 
-A disease name in the known set, and an alias in that set, both count as known. The same MeSH descriptor and its descendants also count as known. Sibling terms are classified on their own. When the disease name is ambiguous and the disease cannot be identified, \(k=0\). When the name is not in the known set and the disease can be identified, \(k=1\). An animal experiment, a case report, or an announcement that only lists the disease as a preclinical direction before the freeze date does not by itself make the indication known. When this target has no known-indication set, indication novelty is not scored 0 and is not scored full. The item stays unscored.
-
-The known set is written before the unaided model's list is seen, and it is not expanded afterwards. For Kv1.3 at the freeze date 2026-04-30 the set is the one recorded for that comparison: the patient trial of dalazatide (ShK-186) in plaque psoriasis, NCT02435342; and the associations listed by Lam and Wulff, multiple sclerosis, rheumatoid arthritis, type 1 diabetes, allergic contact dermatitis, and psoriasis.
-
-A disease marked new in that comparison stays new at scoring. Those diseases include IgA nephropathy, IgA vasculitis, sarcoidosis, atherosclerosis, cryoglobulinemia, systemic lupus erythematosus, Crohn disease, asthma, and atopic dermatitis.
-
-This section is novelty for scoring. Program nomination has a narrower exclusion: a disease is removed at nomination only when that call to `clinical_trials` returns a patient trial of a drug developed for the target that started before the freeze date. An empty return or an error keeps the disease. Nomination does not exclude a disease from memory of a trial, an approval, or a review, so a disease that a review states as an established association can still enter the top five. At scoring, that disease is still known under the three rules above.
+Nomination and scoring use this same set. A disease is removed at nomination only when that call to `clinical_trials` returns a patient trial of a drug developed for the target that started before the freeze date. An empty return or an error keeps the disease. A review does not add an indication at nomination or at scoring.
 
 ## Absence of direct refutation
 

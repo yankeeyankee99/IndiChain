@@ -165,11 +165,26 @@ def pad(rows: list[dict]) -> list[dict]:
 
 
 def is_known(row: dict, names: set[str]) -> bool:
+    """Known when this name is a stored disease, or a qualified form of one.
+
+    ponytail: a stored name inside a different disease's title also matches.
+    Ceiling is phrase containment. A synonym that does not contain the stored
+    name has to be written as an alias.
+    """
     if row.get("empty") or not row.get("name"):
         return True
     if row.get("mesh") and row["mesh"] in names:
         return True
-    return norm(row["name"]) in names
+    text = norm(row["name"])
+    if text in names:
+        return True
+    padded = f" {text} "
+    for name in names:
+        if len(name) < 4 or (name[:1] == "D" and name[1:].isdigit()):
+            continue
+        if f" {name} " in padded:
+            return True
+    return False
 
 
 def score_nominate(folder: Path, known: dict) -> dict:
@@ -496,6 +511,17 @@ def _self_check() -> None:
     known = {"known": [{"name": "Psoriasis", "aliases": ["银屑病"]}], "missing": False}
     assert is_known(rows[0], known_names(known))
     assert not is_known(rows[1], known_names(known))
+    assert is_known({"name": "refractory plaque psoriasis", "mesh": ""}, known_names(known))
+    polyps = {"known": [{"name": "Nasal Polyps", "aliases": ["nasal polyposis"]}]}
+    assert is_known(
+        {"name": "Chronic rhinosinusitis with nasal polyposis", "mesh": ""},
+        known_names(polyps),
+    )
+    ami = {"known": [{"name": "Myocardial Infarction", "aliases": ["acute myocardial infarction"]}]}
+    assert not is_known(
+        {"name": "Myocardial ischemia-reperfusion injury", "mesh": ""},
+        known_names(ami),
+    )
     empty = score_nominate(Path("missing-nominate-dir"), {"missing": True, "known": []})
     assert empty["items"]["indication_novelty"]["status"] == "unread"
     assert empty["score"]["points"] is None
